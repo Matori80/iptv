@@ -131,7 +131,6 @@ rtmp://77.243.11.114/live/rtvkrajina
 http://client.nodomain.vip:80/live.ts?channelId=1509&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="BHT" tvg-name="BHT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bht1.jpg" group-title="BOSNA I HERCEGOVINA" ,BHT
 http://client.nodomain.vip:80/live.ts?channelId=47&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
-
 #EXTINF:-1 tvg-id="BHT" tvg-name="BHT HD" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/28/18/bht1_logo_16_9_light_384x216_b45eb1ad_0092_490a_b365_41f2853cdcd9.png" group-title="BOSNA I HERCEGOVINA" ,BHT HD
 http://client.nodomain.vip:80/live.ts?channelId=1188&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="obn.ba" tvg-name="OBN" tvg-link="https://tvprofil.net/xmltv/data/epg_tvprofil.net.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/obn.jpg" group-title="BOSNA I HERCEGOVINA" ,OBN
@@ -449,11 +448,11 @@ http://client.nodomain.vip:80/live.ts?channelId=587&uid=49396&deviceUser=27davor
 http://client.nodomain.vip:80/live.ts?channelId=1663&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="WOMAN_TV" tvg-name="WOMAN TV" tvg-link="" tvg-logo="/noicon.png" group-title="DOKU & ZABAVA" ,WOMAN TV
 http://client.nodomain.vip:80/live.ts?channelId=1932&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
-#EXTINF:-1 tvg-id="" tvg-name="NOVA DOKU" tvg-logo="" group-title="DOKUMENTARNI",NOVA DOKU
+#EXTINF:-1 tvg-id="" tvg-name="NOVA DOKU" tvg-logo="" group-title="DOKU & ZABAVA",NOVA DOKU
 http://media-grupa.net:80/goran467/2019goranvv/10319
-#EXTINF:-1 tvg-id="BBC Earth HD" tvg-name="BBC Earth HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="DOKUMENTARNI",BBC Earth HD
+#EXTINF:-1 tvg-id="BBC Earth HD" tvg-name="BBC Earth HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="DOKU & ZABAVA",BBC Earth HD
 http://media-grupa.net:80/goran467/2019goranvv/5677
-#EXTINF:-1 tvg-id="" tvg-name="Nova Documentary" tvg-logo="" group-title="DOKUMENTARNI",Nova Documentary
+#EXTINF:-1 tvg-id="" tvg-name="Nova Documentary" tvg-logo="" group-title="DOKU & ZABAVA",Nova Documentary
 http://media-grupa.net:80/goran467/2019goranvv/12082
 #EXTINF:-1 tvg-id="â–ˆâ–€â–„â–€â–„â–€MUZIKA_&_ZABAVAâ–€â–„â–€â–„â–€â–ˆ" tvg-name="â–ˆâ–€â–„â–€â–„â–€MUZIKA & ZABAVAâ–€â–„â–€â–„â–€â–ˆ" tvg-link="" tvg-logo="https://cdn.countryflags.com/thumbs/croatia/flag-button-round-250.png" group-title="MUZIKA & ZABAVA" ,â–ˆâ–€â–„â–€â–„â–€MUZIKA & ZABAVAâ–€â–„â–€â–„â–€â–ˆ
 http://client.nodomain.vip:80/live.ts?channelId=1863&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
