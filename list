@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1,*****SERBIEN CHANNEL*****
 #EXTINF:-1, Nova RS
 http:\\client.nodomain.vip:80\live.ts?channelId=603&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1, Nova Srbija
