@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1,*****SERBIEN CHANNEL*****
+#EXTINF:-1 tvg-id="â–ˆâ–€â–„â–€â–„â–€SRBIJAâ–€â–„â–€â–„â–€â–ˆ" tvg-name="â–ˆâ–€â–„â–€â–„â–€SRBIJAâ–€â–„â–€â–„â–€â–ˆ" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://cdn.countryflags.com/thumbs/serbia/flag-round-250.png" group-title="SRBIJA" ,â–ˆâ–€â–„â–€â–„â–€SRBIJAâ–€â–„â–€â–„â–€â–ˆ
+http://client.nodomain.vip:80/live.ts?channelId=1116&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1, Nova RS
 http:\\client.nodomain.vip:80\live.ts?channelId=603&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1, Nova Srbija
