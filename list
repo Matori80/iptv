@@ -64,9 +64,10 @@ http://client.nodomain.vip:80/live.ts?channelId=543&uid=49396&deviceUser=27davor
 http://client.nodomain.vip:80/live.ts?channelId=1887&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="vojvodina-1" tvg-name="RTV VOJVODINA 1" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtv-vojvodina.jpg" group-title="SRBIJA" ,RTV VOJVODINA 1
 http://client.nodomain.vip:80/live.ts?channelId=1456&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
+#EXTINF:-1 tvg-id="" tvg-name="RTV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/9ab4948d1d94d7eeb90f3c3f96a6b21b.png" group-title="SRBIJA,RTV 2
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/47477
 #EXTINF:-1 tvg-id="" tvg-name="Super Sat HD" tvg-logo="" group-title="SRBIJA",Super Sat HD
 http://media-grupa.net:80/goran467/2019goranvv/12101
-http://media-grupa.net:80/goran467/2019goranvv/513
 #EXTINF:-1 tvg-id="Studio B" tvg-name="Studio B" tvg-logo="http://116.203.156.75/logo/studio-b.jpg" group-title="SRBIJA",Studio B
 #EXTINF:-1 tvg-id="SANDZAK_TV" tvg-name="SANDZAK TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SRBIJA" ,SANDZAK TV
 http://client.nodomain.vip:80/live.ts?channelId=455&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
@@ -108,10 +109,16 @@ rtmp://91.148.117.134/tkturist/tkturist
 http://176.67.210.1/hls/kanalm.m3u8
 #EXTINF:-1, Pruga TV
 https://stream.pruga.rs:8443/live/pruga/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pannon TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SRBIJA", Pannon TV
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/166786
 #EXTINF:-1,(RS) RTK 2
-hhttp://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/2565
+http:\\iptvtree.net:8080\ce1eb8b3\87b9d5e09c\2565
 #EXTINF:-1, Tesla Vision
 http://192.99.6.113:1935/live/Tesla_360p/chunklist_w202539152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV ALDI" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/87b727dcdc4faba41e63129655f51559.png" group-title="SRBIJA",RTV ALDI
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/145888
+#EXTINF:-1 tvg-id="" tvg-name="RTV Presheva" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SRBIJA",RTV Presheva
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/91084
 #EXTINF:-1 tvg-id="â–ˆâ–€â–„â–€â–„â–€CRNA_GORAâ–€â–„â–€â–„â–€â–ˆ" tvg-name="â–ˆâ–€â–„â–€â–„â–€CRNA GORAâ–€â–„â–€â–„â–€â–ˆ" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://cdn.countryflags.com/thumbs/montenegro/flag-round-250.png" group-title="CRNA GORA" ,â–ˆâ–€â–„â–€â–„â–€CRNA GORAâ–€â–„â–€â–„â–€â–ˆ
 http://client.nodomain.vip:80/live.ts?channelId=1774&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="NOVA_M_CG" tvg-name="NOVA M" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/NovaM_logo.png" group-title="CRNA GORA" ,NOVA_M
@@ -136,6 +143,10 @@ http://client.nodomain.vip:80/live.ts?channelId=36&uid=49396&deviceUser=27davork
 https://dns2.rtvbn.com:8080/live/index.m3u8
 #EXTINF:-1,Krajina HD
 rtmp://77.243.11.114/live/rtvkrajina
+#EXTINF:-1 tvg-id="" tvg-name="RTRS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="BOSNA I HERCEGOVINA",RTRS
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/65891
+#EXTINF:-1 tvg-id="" tvg-name="RTRS Plus" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="BOSNA I HERCEGOVINA",RTRS Plus
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/71277
 #EXTINF:-1 tvg-id="nova-bh" tvg-name="NOVA BH HD" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/NovaBH_logo.png" group-title="BOSNA I HERCEGOVINA" ,NOVA BH HD
 http://client.nodomain.vip:80/live.ts?channelId=1509&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="BHT" tvg-name="BHT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bht1.jpg" group-title="BOSNA I HERCEGOVINA" ,BHT
