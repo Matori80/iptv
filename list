@@ -64,6 +64,10 @@ http://client.nodomain.vip:80/live.ts?channelId=543&uid=49396&deviceUser=27davor
 http://client.nodomain.vip:80/live.ts?channelId=1887&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="vojvodina-1" tvg-name="RTV VOJVODINA 1" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtv-vojvodina.jpg" group-title="SRBIJA" ,RTV VOJVODINA 1
 http://client.nodomain.vip:80/live.ts?channelId=1456&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
+#EXTINF:-1 tvg-id="" tvg-name="Super Sat HD" tvg-logo="" group-title="SRBIJA",Super Sat HD
+http://media-grupa.net:80/goran467/2019goranvv/12101
+http://media-grupa.net:80/goran467/2019goranvv/513
+#EXTINF:-1 tvg-id="Studio B" tvg-name="Studio B" tvg-logo="http://116.203.156.75/logo/studio-b.jpg" group-title="SRBIJA",Studio B
 #EXTINF:-1 tvg-id="SANDZAK_TV" tvg-name="SANDZAK TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SRBIJA" ,SANDZAK TV
 http://client.nodomain.vip:80/live.ts?channelId=455&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="SANDZACKA_TV_MREZA" tvg-name="SANDZACKA TV MREZA" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SRBIJA" ,SANDZACKA TV MREZA
@@ -122,6 +126,8 @@ http://client.nodomain.vip:80/live.ts?channelId=1783&uid=49396&deviceUser=27davo
 http://client.nodomain.vip:80/live.ts?channelId=1784&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="TVVijesti" tvg-name="TV VIJESTI CG" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/TV_Vijesti_CG_logo.png" group-title="CRNA GORA" ,TV VIJESTI CG
 http://client.nodomain.vip:80/live.ts?channelId=1645&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
+#EXTINF:-1 tvg-id="" tvg-name="777": (Montenegro) TV 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CRNA GORA", TV 7
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/276051
 #EXTINF:-1 tvg-id="â–ˆâ–€â–„â–€â–„â–€BOSNA_I_HERCEGOVINAâ–€â–„â–€â–„â–€â–ˆ" tvg-name="â–ˆâ–€â–„â–€â–„â–€BOSNA I HERCEGOVINAâ–€â–„â–€â–„â–€â–ˆ" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://cdn.countryflags.com/thumbs/bosnia-and-herzegovina/flag-round-250.png" group-title="BOSNA I HERCEGOVINA" ,â–ˆâ–€â–„â–€â–„â–€BOSNA I HERCEGOVINAâ–€â–„â–€â–„â–€â–ˆ
 http://client.nodomain.vip:80/live.ts?channelId=1115&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="NOVA_BH" tvg-name="NOVA BH" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/NovaBH_logo.png" group-title="BOSNA I HERCEGOVINA" ,NOVA BH
@@ -209,6 +215,27 @@ http://client.nodomain.vip:80/live.ts?channelId=339&uid=49396&deviceUser=27davor
 #EXTINF:-1 tvg-id="rtv-slon" tvg-name="TV SLON" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/TV_Slon_Extra_logo.png" group-title="BOSNA I HERCEGOVINA" ,TV SLON
 http://client.nodomain.vip:80/live.ts?channelId=323&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="TATABRADA_TV" tvg-name="TATABRADA TV" tvg-link="" tvg-logo="/noicon.png" group-title="BOSNA I HERCEGOVINA" ,TATABRADA TV
+http://client.nodomain.vip:80/live.ts?channelId=1974&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
+EXTINF:-1 tvg-id="" tvg-name="ELTA" tvg-logo="" group-title="BOSNA I HERCEGOVINA",ELTA
+http://media-grupa.net:80/goran467/2019goranvv/8849
+#EXTINF:-1 tvg-id="" tvg-name="ELTA 2" tvg-logo="" group-title="BOSNA I HERCEGOVINA",ELTA 2
+http://media-grupa.net:80/goran467/2019goranvv/8850
+#EXTINF:-1 tvg-id="" tvg-name="Neon TV" tvg-logo="" group-title="BOSNA I HERCEGOVINA",Neon TV
+http://media-grupa.net:80/goran467/2019goranvv/9192
+#EXTINF:-1 tvg-id="" tvg-name="SUPER TV" tvg-logo="" group-title="BOSNA I HERCEGOVINA",SUPER TV
+http://media-grupa.net:80/goran467/2019goranvv/10251
+#EXTINF:-1 tvg-id="" tvg-name="RTV Lukavac" tvg-logo="" group-title="BOSNA I HERCEGOVINA",RTV Lukavac
+http://media-grupa.net:80/goran467/2019goranvv/10265
+#EXTINF:-1 tvg-id="" tvg-name="TV 7 Tuzla" tvg-logo="" group-title="BOSNA I HERCEGOVINA",TV 7 Tuzla
+http://media-grupa.net:80/goran467/2019goranvv/8901
+#EXTINF:-1 tvg-id="" tvg-name="NTV IC Kakanj" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/NTV_IC_Logo_BiH.png" group-title="BOSNA I HERCEGOVINA",NTV IC Kakanj
+http://media-grupa.net:80/goran467/2019goranvv/5603
+#EXTINF:-1 tvg-id="" tvg-name="VIKOM" tvg-logo="" group-title="BOSNA I HERCEGOVINA",VIKOM
+http://media-grupa.net:80/goran467/2019goranvv/8852
+#EXTINF:-1 tvg-id="" tvg-name="HEMA" tvg-logo="" group-title="BOSNA I HERCEGOVINA",HEMA
+http://media-grupa.net:80/goran467/2019goranvv/5660
+#EXTINF:-1 tvg-id="" tvg-name="NTV 101" tvg-logo="" group-title="BOSNA I HERCEGOVINA",NTV 101
+http://media-grupa.net:80/goran467/2019goranvv/10264
 #EXTINF:-1 tvg-id="â–ˆâ–€â–„â–€â–„â–€HRVATSKAâ–€â–„â–€â–„â–€â–ˆ" tvg-name="â–ˆâ–€â–„â–€â–„â–€HRVATSKAâ–€â–„â–€â–„â–€â–ˆ" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://cdn.countryflags.com/thumbs/croatia/flag-button-round-250.png" group-title="HRVATSKA" ,â–ˆâ–€â–„â–€â–„â–€HRVATSKAâ–€â–„â–€â–„â–€â–ˆ
 http://client.nodomain.vip:80/live.ts?channelId=1114&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="HTV1" tvg-name="HTV 1" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HRT1-logo.png/250px-HRT1-logo.png" group-title="HRVATSKA" ,HTV 1
@@ -539,6 +566,8 @@ http://client.nodomain.vip:80/live.ts?channelId=1867&uid=49396&deviceUser=27davo
 http://client.nodomain.vip:80/live.ts?channelId=1866&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="FILMSKI_MARATON" tvg-name="FILMSKI MARATON" tvg-link="" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,FILMSKI MARATON
 http://client.nodomain.vip:80/live.ts?channelId=1870&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
+#EXTINF:-1 tvg-id="" tvg-name="NOVA PREMIUM HD" tvg-logo="" group-title="FILM & SERIJE",NOVA PREMIUM HD
+http://media-grupa.net:80/goran467/2019goranvv/8219
 #EXTINF:-1 tvg-id="MAXCRO SELECT 1 HD" tvg-name="MAXCRO SELECT 1 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,MAXCRO SELECT 1 HD
 http://client.nodomain.vip:80/live.ts?channelId=1248&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="MAXCRO SELECT 2  HD" tvg-name="MAXCRO SELECT 2 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,MAXCRO SELECT 2 HD
@@ -625,6 +654,24 @@ http://client.nodomain.vip:80/live.ts?channelId=111&uid=49396&deviceUser=27davor
 http://client.nodomain.vip:80/live.ts?channelId=1211&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="SUPERSTAR_TV" tvg-name="SUPER STAR TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://superstartv.rs/wp-content/uploads/2019/03/superstar-tv-logo.png" group-title="FILM & SERIJE" ,SUPER STAR TV
 http://client.nodomain.vip:80/live.ts?channelId=1503&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
+#EXTINF:-1 tvg-id="STAR TV" tvg-name="STAR TV" tvg-logo="" group-title="FILM & SERIJE",STAR TV
+http://media-grupa.net:80/goran467/2019goranvv/6748
+#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema 2K" tvg-logo="" group-title="FILM & SERIJE",Nova Cinema 2K
+http://media-grupa.net:80/goran467/2019goranvv/12086
+#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema 1" tvg-logo="" group-title="FILM & SERIJE",Nova Cinema 1
+http://media-grupa.net:80/goran467/2019goranvv/10188
+#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema 2" tvg-logo="" group-title="FILM & SERIJE",Nova Cinema 2
+http://media-grupa.net:80/goran467/2019goranvv/10189
+#EXTINF:-1 tvg-id="" tvg-name="Nova Family" tvg-logo="" group-title="FILM & SERIJE",Nova Family
+http://media-grupa.net:80/goran467/2019goranvv/12084
+#EXTINF:-1 tvg-id="" tvg-name="FOX BUSINES HD" tvg-logo="" group-title="FILM & SERIJE",FOX BUSINES HD
+http://media-grupa.net:80/goran467/2019goranvv/8851
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM FAMILY HD" tvg-logo="" group-title="FILM & SERIJE",FOX PREMIUM FAMILY HD
+http://media-grupa.net:80/goran467/2019goranvv/10254
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="FILM & SERIJE", Comedy Central HD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/163404
+#EXTINF:-1 tvg-id="" tvg-name="Film Select 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="FILM & SERIJE",Film Select 1 HD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/197591
 #EXTINF:-1 tvg-id="â–ˆâ–€â–„â–€â–„â–€KIDS_â–€â–„â–€â–„â–€â–ˆ" tvg-name="â–ˆâ–€â–„â–€â–„â–€KIDS â–€â–„â–€â–„â–€â–ˆ" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="KIDS" ,â–ˆâ–€â–„â–€â–„â–€KIDS â–€â–„â–€â–„â–€â–ˆ
 http://client.nodomain.vip:80/live.ts?channelId=1128&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="DEXY_TV" tvg-name="DEXY TV" tvg-link="" tvg-logo="/noicon.png" group-title="KIDS" ,DEXY TV
