@@ -781,6 +781,35 @@ http://client.nodomain.vip:80/live.ts?channelId=1954&uid=49396&deviceUser=27davo
 http://client.nodomain.vip:80/live.ts?channelId=1467&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="â–ˆâ–€â–„â–€â–„â–€SPORT_â–€â–„â–€â–„â–€â–ˆ" tvg-name="â–ˆâ–€â–„â–€â–„â–€SPORT â–€â–„â–€â–„â–€â–ˆ" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,â–ˆâ–€â–„â–€â–„â–€SPORT â–€â–„â–€â–„â–€â–ˆ
 http://client.nodomain.vip:80/live.ts?channelId=1120&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
+#EXTINF:-1 tvg-id="" tvg-name="ESport Klub 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT", Sport Klub 1 FHD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3467
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",Sport Klub 1 FHD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/273491
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",Sport Klub 2 FHD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3468
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",Sport Klub 2 FHD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/273486
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",Sport Klub 3 FHD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3469
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU Sport Klub 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",EX-YU Sport Klub 3 FHD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/273497
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",Sport Klub 4 HD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/245135
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 5 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",Sport Klub 5 HD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3470
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 6 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT", Sport Klub 6 HD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3471
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",Sport Klub 7
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/146299
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 8" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",Sport Klub 8
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/54987
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 9" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",Sport Klub 9
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/59845
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub Golf HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",Sport Klub Golf HD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/59840
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT", Sport Klub HD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3466
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",: SPORT TV 1 HD
 #EXTINF:-1 tvg-id="NovaSport" tvg-name="NOVA TV SPORT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/nova_sport.png" group-title="SPORT" ,NOVA TV SPORT
 http://client.nodomain.vip:80/live.ts?channelId=1780&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="PLANET_SPORT_1_HD" tvg-name="PLANET SPORT 1 HD" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/planetsport_1.png" group-title="SPORT" ,PLANET SPORT 1 HD
