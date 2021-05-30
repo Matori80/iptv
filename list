@@ -8,12 +8,16 @@ http:\\client.nodomain.vip:80\live.ts?channelId=1520&uid=49396&deviceUser=27davo
 http:\\client.nodomain.vip:80\live.ts?channelId=1457&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="N1 SRB" tvg-name="N1 SRB" tvg-logo="" group-title="SRBIJA",N1 SRB
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/70804
+#EXTINF:-1,Aljazeera
+http:\\wrlstr.dvrdns.org:18066\live?channelId=494&uid=338&deviceUser=dnevna&devicePass=996phDps
 #EXTINF:0,Kurir
 https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
 #EXTINF:-1 tvg-id="kurir-tv" tvg-name="KURIR TV" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/KurirTV_logo.png" group-title="SRBIJA" ,KURIR TV
 http://client.nodomain.vip:80/live.ts?channelId=1864&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1,K1
 http:\\client.nodomain.vip:80\live.ts?channelId=1987&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
+#EXTINF:-1,K1 HD
+http:\\telehetz.dvrdns.org:12345\live?channelId=595&uid=338&deviceUser=dnevna&devicePass=996phDps
 #EXTINF:-1 tvg-id="RTS_HD" tvg-name="RTS HD" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://nstatic.net/img/tv/channels/m/rts-1.png" group-title="SRBIJA" ,RTS HD
 http://client.nodomain.vip:80/live.ts?channelId=1189&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="RTS_1" tvg-name="RTS 1" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS1_logo.png" group-title="SRBIJA" ,RTS 1
