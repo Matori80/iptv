@@ -101,6 +101,22 @@ http://stream.pikanal.rs/pikanal/pgm.m3u8
 https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
 #EXTINF:-1, Mars Valjevo
 http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
+#EXTINF:-1, Leskovac
+http:\\krajnatv.com:8000\apo7776\skypeuser\4604
+#EXTINF:-1,Mlava
+http:\\krajnatv.com:8000\apo7776\skypeuser\1652
+#EXTINF:-1,SAT
+http:\\krajnatv.com:8000\apo7776\skypeuser\1654
+#EXTINF:-1,TV F
+http:\\krajnatv.com:8000\apo7776\skypeuser\1655
+#EXTINF:-1,TV Jasmin
+http:\\krajnatv.com:8000\apo7776\skypeuser\4601
+#EXTINF:-1, Sezam Bor
+http:\\krajnatv.com:8000\apo7776\skypeuser\1658
+#EXTINF:-1,TV Tans
+http:\\krajnatv.com:8000\apo7776\skypeuser\1659
+#EXTINF:-1, Braničevo
+http:\\krajnatv.com:8000\apo7776\skypeuser\1653
 #EXTINF:-1, Mis tv
 https://5afd52b55ff79.streamlock.net/MISTV/myStream/chunklist_w675272264.m3u8
 #EXTINF:-1, TK
@@ -809,38 +825,28 @@ http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/59845
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/59840
 #EXTINF:-1 tvg-id="" tvg-name="Sport Klub HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT", Sport Klub HD
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3466
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub HD" tvg-logo="" group-title="SPORT",Sport Klub HD
-http://media-grupa.net:80/goran467/2019goranvv/9301
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 HD SRB" tvg-logo="" group-title="SPORT",Sport Klub 1 HD SRB
-http://media-grupa.net:80/goran467/2019goranvv/12037
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2 HD SRB" tvg-logo="" group-title="SPORT",Sport Klub 2 HD SRB
-http://media-grupa.net:80/goran467/2019goranvv/12038
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3 HD SRB" tvg-logo="" group-title="SPORT",Sport Klub 3 HD SRB
-http://media-grupa.net:80/goran467/2019goranvv/12039
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 4 SRB" tvg-logo="" group-title="SPORT",Sport Klub 4 SRB
-http://media-grupa.net:80/goran467/2019goranvv/12040
-#EXTINF:-1 tvg-id="Sport Klub 5 HD" tvg-name="Sport Klub 5 SRB" tvg-logo="" group-title="SPORT",Sport Klub 5 SRB
-http://media-grupa.net:80/goran467/2019goranvv/9293
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 6 SRB" tvg-logo="" group-title="SPORT",Sport Klub 6 SRB
-http://media-grupa.net:80/goran467/2019goranvv/12001
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 HD HR" tvg-logo="" group-title="SPORT",Sport Klub 1 HD HR
-http://media-grupa.net:80/goran467/2019goranvv/12041
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2 HD HR" tvg-logo="" group-title="SPORT",Sport Klub 2 HD HR
-http://media-grupa.net:80/goran467/2019goranvv/12042
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3 HD HR" tvg-logo="" group-title="SPORT",Sport Klub 3 HD HR
-http://media-grupa.net:80/goran467/2019goranvv/12043
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 4 HR" tvg-logo="" group-title="SPORT",Sport Klub 4 HR
-http://media-grupa.net:80/goran467/2019goranvv/12044
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 5 HR" tvg-logo="" group-title="SPORT",Sport Klub 5 HR
-http://media-grupa.net:80/goran467/2019goranvv/9299
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 6 HR" tvg-logo="" group-title="SPORT",Sport Klub 6 HR
-http://media-grupa.net:80/goran467/2019goranvv/9300
-#EXTINF:-1 tvg-id="" tvg-name="Nova Sport HD" tvg-logo="" group-title="SPORT",Nova Sport HD
-http://media-grupa.net:80/goran467/2019goranvv/9288
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub Esport" tvg-logo="" group-title="SPORT",Sport Klub Esport
-http://media-grupa.net:80/goran467/2019goranvv/9302
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub Golf" tvg-logo="" group-title="SPORT",Sport Klub Golf
-http://media-grupa.net:80/goran467/2019goranvv/9303
+#EXTINF:-1, Sport Klub 1 HR
+http:\\krajnatv.com:8000\apo7776\skypeuser\60
+#EXTINF:-1, Sport Klub 1 SR
+http:\\krajnatv.com:8000\apo7776\skypeuser\121
+#EXTINF:-1, Sport Klub 2 HR
+http:\\krajnatv.com:8000\apo7776\skypeuser\61
+#EXTINF:-1, Sport Klub 2 SR
+http:\\krajnatv.com:8000\apo7776\skypeuser\122
+#EXTINF:-1, Sport Klub 3 HR
+http:\\krajnatv.com:8000\apo7776\skypeuser\62
+#EXTINF:-1, Sport Klub 3 SR
+http:\\krajnatv.com:8000\apo7776\skypeuser\123
+#EXTINF:-1, Sport Klub 4 HR
+http:\\krajnatv.com:8000\apo7776\skypeuser\204
+#EXTINF:-1, Sport Klub 4 SR
+http:\\krajnatv.com:8000\apo7776\skypeuser\124
+#EXTINF:-1, Sport Klub 5 HR
+http:\\krajnatv.com:8000\apo7776\skypeuser\205
+#EXTINF:-1, Sport Klub 6 HR
+http:\\krajnatv.com:8000\apo7776\skypeuser\103
+#EXTINF:-1, Sport Klub 6 SR
+http:\\krajnatv.com:8000\apo7776\skypeuser\125
 #EXTINF:-1 tvg-id="NovaSport" tvg-name="NOVA TV SPORT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/nova_sport.png" group-title="SPORT" ,NOVA TV SPORT
 http://client.nodomain.vip:80/live.ts?channelId=1780&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="PLANET_SPORT_1_HD" tvg-name="PLANET SPORT 1 HD" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/planetsport_1.png" group-title="SPORT" ,PLANET SPORT 1 HD
