@@ -7,7 +7,7 @@ http:\\client.nodomain.vip:80\live.ts?channelId=1520&uid=49396&deviceUser=27davo
 #EXTINF:-1, N 1 Srbija
 http:\\client.nodomain.vip:80\live.ts?channelId=1457&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="N1 SRB" tvg-name="N1 SRB" tvg-logo="" group-title="SRBIJA",N1 SRB
-http://media-grupa.net:80/goran467/2019goranvv/9271
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/70804
 #EXTINF:0,Kurir
 https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
 #EXTINF:-1 tvg-id="kurir-tv" tvg-name="KURIR TV" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/KurirTV_logo.png" group-title="SRBIJA" ,KURIR TV
@@ -227,7 +227,7 @@ http://client.nodomain.vip:80/live.ts?channelId=339&uid=49396&deviceUser=27davor
 http://client.nodomain.vip:80/live.ts?channelId=323&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="TATABRADA_TV" tvg-name="TATABRADA TV" tvg-link="" tvg-logo="/noicon.png" group-title="BOSNA I HERCEGOVINA" ,TATABRADA TV
 http://client.nodomain.vip:80/live.ts?channelId=1974&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
-EXTINF:-1 tvg-id="" tvg-name="ELTA" tvg-logo="" group-title="BOSNA I HERCEGOVINA",ELTA
+#EXTINF:-1 tvg-id="" tvg-name="ELTA" tvg-logo="" group-title="BOSNA I HERCEGOVINA",ELTA
 http://media-grupa.net:80/goran467/2019goranvv/8849
 #EXTINF:-1 tvg-id="" tvg-name="ELTA 2" tvg-logo="" group-title="BOSNA I HERCEGOVINA",ELTA 2
 http://media-grupa.net:80/goran467/2019goranvv/8850
@@ -791,7 +791,7 @@ http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3468
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/273486
 #EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",Sport Klub 3 FHD
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3469
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU Sport Klub 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",EX-YU Sport Klub 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU Sport Klub 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",EX-YU Sport Klub 3 FHD
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/273497
 #EXTINF:-1 tvg-id="" tvg-name="Sport Klub 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",Sport Klub 4 HD
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/245135
