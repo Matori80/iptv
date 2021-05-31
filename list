@@ -42,6 +42,8 @@ http://client.nodomain.vip:80/live.ts?channelId=53&uid=49396&deviceUser=27davork
 http://client.nodomain.vip:80/live.ts?channelId=58&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="happytv" tvg-name="HAPPY" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Happy_new_logo.png" group-title="SRBIJA" ,HAPPY
 http://client.nodomain.vip:80/live.ts?channelId=235&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
+#EXTINF:-1 tvg-id="KCN 1" tvg-name="KCN 1" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/kcn1-logo.png" group-title="SRBIJA" ,KCN 1
+http://client.nodomain.vip:80/live.ts?channelId=338&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="HAPPY_PAROVI" tvg-name="HAPPY PAROVI 24/7" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://i.ytimg.com/vi/HhL-97KGLXk/hqdefault.jpg" group-title="SRBIJA" ,HAPPY PAROVI 24/7
 http://client.nodomain.vip:80/live.ts?channelId=483&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="tv-hram" tvg-name="HRAM TV" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/TV_Hram_logo.png" group-title="SRBIJA" ,HRAM TV
@@ -110,7 +112,7 @@ http:\\krajnatv.com:8000\apo7776\skypeuser\4604
 http:\\krajnatv.com:8000\apo7776\skypeuser\1652
 #EXTINF:-1,SAT
 http:\\krajnatv.com:8000\apo7776\skypeuser\1654
-#EXTINF:-1,TV F
+#EXTINF:-1,NOVA (Ex F- zaječar)
 http:\\krajnatv.com:8000\apo7776\skypeuser\1655
 #EXTINF:-1,TV Jasmin
 http:\\krajnatv.com:8000\apo7776\skypeuser\4601
@@ -490,6 +492,10 @@ http://client.nodomain.vip:80/live.ts?channelId=1663&uid=49396&deviceUser=27davo
 http://client.nodomain.vip:80/live.ts?channelId=1932&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="â–ˆâ–€â–„â–€â–„â–€MUZIKA_&_ZABAVAâ–€â–„â–€â–„â–€â–ˆ" tvg-name="â–ˆâ–€â–„â–€â–„â–€MUZIKA & ZABAVAâ–€â–„â–€â–„â–€â–ˆ" tvg-link="" tvg-logo="https://cdn.countryflags.com/thumbs/croatia/flag-button-round-250.png" group-title="MUZIKA & ZABAVA" ,â–ˆâ–€â–„â–€â–„â–€MUZIKA & ZABAVAâ–€â–„â–€â–„â–€â–ˆ
 http://client.nodomain.vip:80/live.ts?channelId=1863&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
+#EXTINF:-1,KCN 2
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/4170
+#EXTINF:-1,KCN 3
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/4171
 #EXTINF:-1 tvg-id="BANOVINA" tvg-name="BANOVINA TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="http://www.bnet.hr/var/ezflow_site/storage/images/televizija/rtv_banovina/31833-6-cro-HR/rtv_banovina_tvchannel_list.png" group-title="MUZIKA & ZABAVA" ,BANOVINA TV
 http://client.nodomain.vip:80/live.ts?channelId=443&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="BALKANIKA" tvg-name="BALKANIKA" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/balkanika-logo.png" group-title="MUZIKA & ZABAVA" ,BALKANIKA
@@ -522,8 +528,6 @@ http://client.nodomain.vip:80/live.ts?channelId=485&uid=49396&deviceUser=27davor
 http://client.nodomain.vip:80/live.ts?channelId=295&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="JUGOTON" tvg-name="JUGOTON TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/jugoton-tv-logo.png" group-title="MUZIKA & ZABAVA" ,JUGOTON TV
 http://client.nodomain.vip:80/live.ts?channelId=542&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
-#EXTINF:-1 tvg-id="KCN" tvg-name="KCN" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/kcn1-logo.png" group-title="MUZIKA & ZABAVA" ,KCN
-http://client.nodomain.vip:80/live.ts?channelId=338&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/55/19/mtv_384x216.png" group-title="MUZIKA & ZABAVA" ,MTV
 http://client.nodomain.vip:80/live.ts?channelId=85&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="MTV_HITS" tvg-name="MTV HITS" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/55/29/mtv_hits_384x216.png" group-title="MUZIKA & ZABAVA" ,MTV HITS
