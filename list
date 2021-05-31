@@ -70,9 +70,8 @@ http://client.nodomain.vip:80/live.ts?channelId=1887&uid=49396&deviceUser=27davo
 http://client.nodomain.vip:80/live.ts?channelId=1456&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="" tvg-name="RTV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/9ab4948d1d94d7eeb90f3c3f96a6b21b.png" group-title="SRBIJA,RTV 2
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/47477
-#EXTINF:-1 tvg-id="" tvg-name="Super Sat HD" tvg-logo="" group-title="SRBIJA",Super Sat HD
-http://media-grupa.net:80/goran467/2019goranvv/12101
 #EXTINF:-1 tvg-id="Studio B" tvg-name="Studio B" tvg-logo="http://116.203.156.75/logo/studio-b.jpg" group-title="SRBIJA",Studio B
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/59790
 #EXTINF:-1 tvg-id="SANDZAK_TV" tvg-name="SANDZAK TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SRBIJA" ,SANDZAK TV
 http://client.nodomain.vip:80/live.ts?channelId=455&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="SANDZACKA_TV_MREZA" tvg-name="SANDZACKA TV MREZA" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SRBIJA" ,SANDZACKA TV MREZA
@@ -843,37 +842,37 @@ http://client.nodomain.vip:80/live.ts?channelId=1339&uid=49396&deviceUser=27davo
 http://client.nodomain.vip:80/live.ts?channelId=1930&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="TV_PARTIZAN_Test" tvg-name="TV PARTIZAN Test" tvg-link="" tvg-logo="https://mojasupernova.rs/oec/images/tv_channels/ae71b7619019dde3075a344c294513ea.png" group-title="SPORT" ,TV PARTIZAN Test
 http://client.nodomain.vip:80/live.ts?channelId=1988&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
-#EXTINF:-1 tvg-id="SK" tvg-name="BEIN SPORTS 1 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,BEIN SPORTS 1 HD AR
+#EXTINF:-1 tvg-id="SK" tvg-name="SPORTS KLUB HD" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB HD
 http://client.nodomain.vip:80/live.ts?channelId=1613&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
-#EXTINF:-1 tvg-id="SK1hr" tvg-name="BEIN SPORTS 2 HD AR" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="/noicon.png" group-title="SPORT" ,BEIN SPORTS 2 HD AR
+#EXTINF:-1 tvg-id="SK1hr" tvg-name="SPORTS KLUB 1" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB 1 HR
 http://client.nodomain.vip:80/live.ts?channelId=1614&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
-#EXTINF:-1 tvg-id="SK1hr" tvg-name="BEIN SPORTS 3 HD AR" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="/noicon.png" group-title="SPORT" ,BEIN SPORTS 3 HD AR
+#EXTINF:-1 tvg-id="SK1hr" tvg-name="SPORTS KLUB 1" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB 1 SR
 http://client.nodomain.vip:80/live.ts?channelId=1615&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
-#EXTINF:-1 tvg-id="SK2" tvg-name="BEIN SPORTS 4 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,BEIN SPORTS 4 HD AR
+#EXTINF:-1 tvg-id="SK2" tvg-name="SK2" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB 2 HR
 http://client.nodomain.vip:80/live.ts?channelId=1616&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
-#EXTINF:-1 tvg-id="SK2" tvg-name="BEIN SPORTS 5 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,BEIN SPORTS 5 HD AR
+#EXTINF:-1 tvg-id="SK2" tvg-name="SK 2" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB 2 SR
 http://client.nodomain.vip:80/live.ts?channelId=1617&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
-#EXTINF:-1 tvg-id="SK3" tvg-name="BEIN SPORTS 6 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,BEIN SPORTS 6 HD AR
+#EXTINF:-1 tvg-id="SK3" tvg-name="SK 3R" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB 3 HR
 http://client.nodomain.vip:80/live.ts?channelId=1618&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
-#EXTINF:-1 tvg-id="SK3" tvg-name="BEIN SPORTS 7 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,BEIN SPORTS 7 HD AR
+#EXTINF:-1 tvg-id="SK3" tvg-name="SK 3" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB 3 SR
 http://client.nodomain.vip:80/live.ts?channelId=1619&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
-#EXTINF:-1 tvg-id="SK4" tvg-name="BEIN SPORTS 8 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,BEIN SPORTS 8 HD AR
+#EXTINF:-1 tvg-id="SK4" tvg-name="SK 4" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB 4 SR
 http://client.nodomain.vip:80/live.ts?channelId=1620&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
-#EXTINF:-1 tvg-id="BEIN_SPORTS_9_HD_AR" tvg-name="BEIN SPORTS 9 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,BEIN SPORTS 9 HD AR
+#EXTINF:-1 tvg-id="SK 5" tvg-name="SK 5" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB 4
 http://client.nodomain.vip:80/live.ts?channelId=1621&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
-#EXTINF:-1 tvg-id="BEIN_SPORTS_10_HD_AR" tvg-name="BEIN SPORTS 10 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,BEIN SPORTS 10 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1622&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
-#EXTINF:-1 tvg-id="BEIN_SPORTS_11_HD_AR" tvg-name="BEIN SPORTS 11 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,BEIN SPORTS 11 HD AR
+#EXTINF:-1, Sport klub 6
+http://client.nodomain.vip:80/live.ts?channelId=1622&uid=49396
+#EXTINF:-1 tvg-id="SK 7" tvg-name="SK 7" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB 7
 http://client.nodomain.vip:80/live.ts?channelId=1623&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
-#EXTINF:-1 tvg-id="BEIN_SPORTS_12_HD_AR" tvg-name="BEIN SPORTS 12 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,BEIN SPORTS 12 HD AR
+#EXTINF:-1 tvg-id="SK 8" tvg-name="SK 8" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB 8
 http://client.nodomain.vip:80/live.ts?channelId=1624&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
-#EXTINF:-1 tvg-id="BEIN_SPORTS_13_HD_AR" tvg-name="BEIN SPORTS 13 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,BEIN SPORTS 13 HD AR
+#EXTINF:-1 tvg-id="SK 9" tvg-name="SK 9" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB 9
 http://client.nodomain.vip:80/live.ts?channelId=1625&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
-#EXTINF:-1 tvg-id="BEIN_SPORTS_14_HD_AR" tvg-name="BEIN SPORTS 14 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,BEIN SPORTS 14 HD AR
+#EXTINF:-1 tvg-id="SK 10" tvg-name="SK 10" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB 10
 http://client.nodomain.vip:80/live.ts?channelId=1626&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
-#EXTINF:-1 tvg-id="BEIN_SPORTS_15_HD_AR" tvg-name="BEIN SPORTS 15 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,BEIN SPORTS 15 HD AR
+#EXTINF:-1 tvg-id="DA ZN 1" tvg-name="DA ZN 1" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,DA ZN 1
 http://client.nodomain.vip:80/live.ts?channelId=1627&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
-#EXTINF:-1 tvg-id="BEIN_SPORTS_16_HD_AR" tvg-name="BEIN SPORTS 16 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,BEIN SPORTS 16 HD AR
+#EXTINF:-1 tvg-id="DA ZN 2" tvg-name="DA ZN 2" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,DA ZN 2
 http://client.nodomain.vip:80/live.ts?channelId=1628&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="EUROSPORT" tvg-name="EUROSPORT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://layout.eurosport.com/i/v8_5/logo/epg/e1_new.png" group-title="SPORT" ,EUROSPORT
 http://client.nodomain.vip:80/live.ts?channelId=128&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
@@ -15904,416 +15903,3 @@ http://videoteka1.dvrcam.info:25461/series/mmaxvod1/mmaxvvod2/7085.mp4
 http://videoteka1.dvrcam.info:25461/series/mmaxvod1/mmaxvvod2/7086.mp4
 #EXTINF:-1,Upload S01 E10
 http://videoteka1.dvrcam.info:25461/series/mmaxvod1/mmaxvvod2/7087.mp4
-#EXTINF:-1,Everybody Loves Raymond |ss S01 E01
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99742.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S01 E02
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99743.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S01 E03
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99744.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S01 E04
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99745.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S01 E05
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99746.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S01 E06
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99747.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S01 E07
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99748.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S01 E08
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99749.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S01 E09
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99750.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S01 E10
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99751.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S01 E11
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99752.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S01 E12
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99753.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S01 E13
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99754.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S01 E14
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99755.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S01 E15
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99756.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S01 E16
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99757.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S01 E17
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99758.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S01 E18
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99759.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S01 E19
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99760.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S01 E20
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99761.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S01 E21
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99762.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S01 E22
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99763.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S02 E01
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99764.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S02 E02
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99765.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S02 E03
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99766.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S02 E04
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99767.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S02 E05
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99768.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S02 E06
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99769.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S02 E07
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99770.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S02 E08
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99771.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S02 E09
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99772.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S02 E10
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99773.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S02 E11
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99774.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S02 E12
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99775.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S02 E13
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99776.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S02 E14
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99777.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S02 E15
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99778.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S02 E16
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99779.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S02 E17
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99780.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S02 E18
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99781.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S02 E19
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99782.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S02 E20
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99783.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S02 E21
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99784.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S02 E22
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99785.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S02 E23
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99786.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S02 E24
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99787.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S02 E25
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99788.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S03 E01
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99789.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S03 E02
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99790.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S03 E03
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99791.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S03 E04
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99792.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S03 E05
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99793.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S03 E06
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99794.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S03 E07
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99795.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S03 E08
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99796.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S03 E09
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99797.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S03 E10
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99798.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S03 E11
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99799.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S03 E12
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99800.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S03 E13
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99801.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S03 E14
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99802.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S03 E15
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99803.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S03 E16
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99804.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S03 E17
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99805.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S03 E18
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99806.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S03 E19
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99807.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S03 E20
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99808.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S03 E21
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99809.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S03 E22
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99810.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S03 E23
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99811.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S03 E24
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99812.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S03 E25
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99813.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S03 E26
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99814.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S04 E01
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99815.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S04 E02
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99816.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S04 E03
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99817.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S04 E04
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99818.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S04 E05
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99819.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S04 E06
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99820.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S04 E07
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99821.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S04 E08
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99822.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S04 E09
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99823.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S04 E10
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99824.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S04 E11
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99825.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S04 E12
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99826.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S04 E13
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99827.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S04 E14
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99828.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S04 E15
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99829.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S04 E16
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99830.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S04 E17
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99831.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S04 E18
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99832.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S04 E19
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99833.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S04 E20
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99834.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S04 E21
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99835.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S04 E22
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99836.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S04 E23
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99837.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S05 E01
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99838.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S05 E02
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99839.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S05 E03
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99840.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S05 E04
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99841.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S05 E05
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99842.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S05 E06
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99843.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S05 E07
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99844.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S05 E08
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99845.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S05 E09
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99846.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S05 E10
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99847.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S05 E11
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99848.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S05 E12
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99849.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S05 E13
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99850.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S05 E14
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99851.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S05 E15
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99852.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S05 E16
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99853.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S05 E17
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99854.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S05 E18
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99855.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S05 E19
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99856.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S05 E20
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99857.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S05 E21
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99858.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S05 E22
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99859.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S05 E23
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99860.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S05 E24
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99861.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S06 E01
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99862.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S06 E02
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99863.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S06 E03
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99864.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S06 E04
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99865.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S06 E05
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99866.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S06 E06
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99867.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S06 E07
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99868.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S06 E08
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99869.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S06 E09
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99870.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S06 E10
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99871.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S06 E11
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99872.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S06 E12
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99873.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S06 E13
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99874.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S06 E14
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99875.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S06 E15
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99876.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S06 E16
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99877.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S06 E17
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99878.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S06 E18
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99879.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S06 E19
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99880.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S06 E20
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99881.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S06 E21
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99882.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S06 E22
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99883.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S06 E23
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99884.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S06 E24
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99885.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S07 E01
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99886.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S07 E02
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99887.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S07 E03
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99888.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S07 E04
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99889.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S07 E05
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99890.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S07 E06
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99891.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S07 E07
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99892.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S07 E08
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99893.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S07 E09
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99894.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S07 E10
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99895.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S07 E11
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99896.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S07 E12
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99897.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S07 E13
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99898.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S07 E14
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99899.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S07 E15
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99900.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S07 E16
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99901.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S07 E17
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99902.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S07 E18
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99903.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S07 E19
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99904.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S07 E20
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99905.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S07 E21
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99906.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S07 E22
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99907.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S07 E23
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99908.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S07 E24
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99909.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S08 E01
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99910.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S08 E02
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99911.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S08 E03
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99912.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S08 E04
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99913.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S08 E05
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99914.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S08 E06
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99915.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S08 E07
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99916.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S08 E08
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99917.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S08 E09
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99918.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S08 E10
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99919.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S08 E11
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99920.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S08 E12
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99921.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S08 E13
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99922.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S08 E14
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99923.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S08 E15
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99924.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S08 E16
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99925.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S08 E17
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99926.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S08 E18
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99927.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S08 E19
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99928.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S08 E20
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99929.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S08 E21
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99930.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S08 E22
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99931.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S08 E23
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99932.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S09 E01
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99933.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S09 E02
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99934.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S09 E03
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99935.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S09 E04
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99936.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S09 E05
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99937.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S09 E06
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99938.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S09 E07
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99939.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S09 E08
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99940.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S09 E09
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99941.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S09 E10
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99942.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S09 E11
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99943.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S09 E12
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99944.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S09 E13
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99945.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S09 E14
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99946.mkv
-#EXTINF:-1,Everybody Loves Raymond |ss S09 E15
-http://tsevepdvd.xyz:25461/series/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/99947.mkv
-#EXTINF:-1,Everybody L
