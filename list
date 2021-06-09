@@ -12,6 +12,8 @@ http:\\telehetz.dvrdns.org:12345\live?channelId=549&uid=394&deviceUser=bracalesk
 http:\\telehetz.dvrdns.org:12345\live?channelId=549&uid=338&deviceUser=dnevna&devicePass=996phDps
 #EXTINF:-1,Aljazeera
 http:\\wrlstr.dvrdns.org:18066\live?channelId=494&uid=338&deviceUser=dnevna&devicePass=996phDps
+#EXTINF:-1,Aljazeera Balkan
+http:\\wrlstr.dvrdns.org:18066\live?channelId=494&uid=338&deviceUser=dnevna&devicePass=996phDps
 #EXTINF:0,Kurir
 https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
 #EXTINF:-1,K1 HD
