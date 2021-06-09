@@ -4,6 +4,8 @@ http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/71
 http:\\krajnatv.com:8000\apo7776\skypeuser\1580
 #EXTINF:-1 tvg-id="N1 SRB" tvg-name="N1 SRB" tvg-logo="" group-title="SRBIJA",N1 SRB
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/70804
+#EXTINF:-1, N1 SR
+http:\\telehetz.dvrdns.org:12345\live?channelId=549&uid=394&deviceUser=bracaleskovac&devicePass=bracaleskovac2
 #EXTINF:-1,Aljazeera
 http:\\wrlstr.dvrdns.org:18066\live?channelId=494&uid=338&deviceUser=dnevna&devicePass=996phDps
 #EXTINF:0,Kurir
