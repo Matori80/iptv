@@ -144,6 +144,18 @@ http:\\krajnatv.com:8000\apo7776\skypeuser\103
 http:\\krajnatv.com:8000\apo7776\skypeuser\125
 #EXTINF:-1, NOVA SPORT
 http:\\wrlstr.dvrdns.org:18066\live?channelId=635&uid=394&deviceUser=bracaleskovac&devicePass=bracaleskovac2
+#EXTINF:-1, ESPN 1
+http:\\wrlstr.dvrdns.org:18066\live?channelId=426&uid=338&deviceUser=dnevna&devicePass=996phDps
+#EXTINF:-1, ESPN 2
+http:\\telehetz.dvrdns.org:12345\live?channelId=427&uid=338&deviceUser=dnevna&devicePass=996phDps
+#EXTINF:-1, ESPN 3
+http:\\wrlstr.dvrdns.org:18066\live?channelId=428&uid=338&deviceUser=dnevna&devicePass=996phDps
+#EXTINF:-1, ESPN 4
+http:\\telehetz.dvrdns.org:12345\live?channelId=429&uid=338&deviceUser=dnevna&devicePass=996phDps
+#EXTINF:-1, ESPN 6
+http:\\telehetz.dvrdns.org:12345\live?channelId=449&uid=338&deviceUser=dnevna&devicePass=996phDps
+#EXTINF:-1, Sky sport 1
+http:\\wrlstr.dvrdns.org:18066\live?channelId=590&uid=338&deviceUser=dnevna&devicePass=996phDps
 #EXTINF:-1 tvg-id="" tvg-name="XXX: EXTREME HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", EXTREME HD
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3329
 #EXTINF:-1 tvg-id="" tvg-name="XXX: HOT HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX", HOT HD
