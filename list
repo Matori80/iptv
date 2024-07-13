@@ -49,7 +49,7 @@ http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/20306
 http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/20307
 #EXTINF:-1 tvg-id="20308" tvg-name="TV K::CN Svet Plus 3" tvg-logo="http://iptvunited.org:8080/images/095a2ed6f305fe6648a8d0b313d79d45.png" group-title="SRBIJA / SERBIA",TV K::CN Svet Plus 3
 http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/20308
-#EXTINF:-1 tvg-id="21177" tvg-name="KTV" tvg-logo="http://iptvunited.org:8080/images/73533bef673666eb1e4104646baeb6cc.png" group-title="SRBIJA / SERBIA",TV KRAGUJEVAC
+#EXTINF:-1 tvg-id="21177" tvg-name="KTV" tvg-logo="http://iptvunited.org:8080/images/73533bef673666eb1e4104646baeb6cc.png" group-title="SRBIJA / SERBIA",KTV
 http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/21177
 #EXTINF:-1 tvg-id="7873" tvg-name="TV LESKOVAC" tvg-logo="http://iptvunited.org:8080/images/19e809631edc5a6873cb0b1e564f6dd2.png" group-title="SRBIJA / SERBIA",TV LESKOVAC
 http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/20304
