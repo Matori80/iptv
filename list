@@ -140,7 +140,11 @@ http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/124
 #EXTINF:-1 tvg-id="rts2" tvg-name="RTS2 Ê°áµˆ" tvg-logo="http://logo.smart-iptvpro.info/images/bf7e81baa3504ea53a0f4276da56f479.jpg" group-title="SRBIJA" ,RTS2 Ê°áµˆ
 http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/126
 #EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS3 Ê°áµˆ" tvg-logo="http://logo.smart-iptvpro.info/images/c1544b87d33487c80ad72834bb3efafd.png" group-title="SRBIJA" ,RTS3 Ê°áµˆ
+#EXTINF:-1 tvg-id="14101" tvg-name="N1 dodatni strim" tvg-logo="http://iptvunited.org:8080/images/0b165d4eaaebb4a4d919ce970636a2d1.png" group-title="SRBIJA / SERBIA",N1 dodatni strim
 http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/127
+http:\\tv.nova-iptv.com:80\Semir_Nedina\PqjKdoj0aN\9271
+#EXTINF:-1 tvg-id="14101" tvg-name="Nova S" tvg-logo="http://iptvunited.org:8080/images/0b165d4eaaebb4a4d919ce970636a2d1.png" group-title="SRBIJA / SERBIA",Nova S
+http:\\tv.nova-iptv.com:80\Semir_Nedina\PqjKdoj0aN\9274
 #EXTINF:-1 tvg-id="14101" tvg-name="RTS ZIVOT" tvg-logo="http://iptvunited.org:8080/images/0b165d4eaaebb4a4d919ce970636a2d1.png" group-title="SRBIJA / SERBIA",RTS ZIVOT
 http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/14101
 #EXTINF:-1 tvg-id="14099" tvg-name="RTS SVET" tvg-logo="http://iptvunited.org:8080/images/279411a8b4e0d93839e8315e2d82ff71.jpg" group-title="SRBIJA / SERBIA",RTS SVET
