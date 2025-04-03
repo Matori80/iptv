@@ -1,144 +1,5 @@
 #EXTM3U-United-Pro
 #EXTINF:-1 tvg-id="4776" tvg-name="== SRBIJA ==" tvg-logo="http://iptvunited.org:8080/images/b647ac2d32ca987ae222b986d176a801.png" group-title="SRBIJA / SERBIA",== SRBIJA ==
-http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/4776
-#EXTINF:-1 tvg-id="prva-srpska-tv" tvg-name="PRVA á¶ Ê°áµˆ" tvg-logo="http://logo.smart-iptvpro.info/images/8de418c3bb33e14972dfd98d57e59f11.png" group-title="SRBIJA" ,PRVA á¶ Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/134
-#EXTINF:-1 tvg-id="prva-srpska-tv" tvg-name="PRVA á¶ Ê°áµˆ â’·" tvg-logo="http://logo.smart-iptvpro.info/images/8de418c3bb33e14972dfd98d57e59f11.png" group-title="SRBIJA" ,PRVA á¶ Ê°áµˆ â’·
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/133
-#EXTINF:-1 tvg-id="prva-kick" tvg-name="PRVA KICK Ê°áµˆ" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PRVA-KICK_logo.png" group-title="SRBIJA" ,PRVA KICK Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/135
-#EXTINF:-1 tvg-id="prva-max" tvg-name="PRVA MAX Ê°áµˆ" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/prva-max_logo.jpg" group-title="SRBIJA" ,PRVA MAX Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/136
-#EXTINF:-1 tvg-id="prva-files" tvg-name="PRVA FILES Ê°áµˆ" tvg-logo="http://logo.smart-iptvpro.info/images/51398748210e243767bf25ba6662752b.png" group-title="SRBIJA" ,PRVA FILES Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/153
-#EXTINF:-1 tvg-id="prva-plus" tvg-name="PRVA PLUS Ê°áµˆ" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Prva_Plus_Logo.png" group-title="SRBIJA" ,PRVA PLUS Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/137
-#EXTINF:-1 tvg-id="prva-world" tvg-name="PRVA WORLD Ê°áµˆ" tvg-logo="http://logo.smart-iptvpro.info/images/12ed8362b5063e5bdeec0bedd9e76405.png" group-title="SRBIJA" ,PRVA WORLD Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/138
-#EXTINF:-1 tvg-id="nova-s.sr" tvg-name="NOVA S á¶ Ê°áµˆ" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/novaslogo.png" group-title="SRBIJA" ,NOVA S á¶ Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/151
-#EXTINF:-1 tvg-id="n1-rs" tvg-name="N1 SR Ê°áµˆ" tvg-logo="https://nstatic.net/img/tv/channels/m/n1.png" group-title="SRBIJA" ,N1 SR Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/150
-#EXTINF:-1 tvg-id="happytv" tvg-name="HappyTV Ê°áµˆ" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Happy_new_logo.png" group-title="SRBIJA" ,HappyTV Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/142
-#EXTINF:-1 tvg-id="moje-happy-drustvo" tvg-name="Moje HAPPY drustvo Ê°áµˆ" tvg-logo="" group-title="SRBIJA" ,Moje HAPPY drustvo Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/144
-#EXTINF:-1 tvg-id="" tvg-name="Moj HAPPY zivot" tvg-logo="https://tvprofil.com/img/kanali-logo/Moj_Happy_Zivot_RS_logo.png?1672392220" group-title="SRBIJA" ,Moj HAPPY zivot
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/2222
-#EXTINF:-1 tvg-id="moja-happy-zemlja" tvg-name="Moja HAPPY zemlja Ê°áµˆ" tvg-logo="https://tvprofil.com/img/kanali-logo/Moja_Happy_Zemlja_RS_logo.png?1672392298" group-title="SRBIJA" ,Moja HAPPY zemlja Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/146
-#EXTINF:-1 tvg-id="" tvg-name="Moja HAPPY muzika Ê°áµˆ" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Moja_Happy_Muzika_RS_logo.png" group-title="SRBIJA" ,Moja HAPPY muzika Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/145
-#EXTINF:-1 tvg-id="" tvg-name="HAPPY PAROVI 24 SATA v" tvg-logo="http://logo.smart-iptvpro.info/images/803c28e95115667bf7dadc609d9faa21.png" group-title="SRBIJA" ,HAPPY PAROVI 24 SATA v
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/143
-#EXTINF:-1 tvg-id="vojvodina-1" tvg-name="RTV VOJVODINA 1 Ê°áµˆ" tvg-logo="http://logo.smart-iptvpro.info/images/66c6fc54540c2586a927b4be7e75ee0a.png" group-title="SRBIJA" ,RTV VOJVODINA 1 Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/155
-#EXTINF:-1 tvg-id="vojvodina-2" tvg-name="RTV VOJVODINA 2" tvg-logo="http://siptvs.com/logo/EXYU/SRBIJA/RTV2.png" group-title="SRBIJA" ,RTV VOJVODINA 2
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/180
-#EXTINF:-1 tvg-id="" tvg-name="INFORMER TV Ê°áµˆ" tvg-logo="https://mts.rs/Picture/112641/jpeg/1130.jpg?ts=2023-05-30T09:57:02" group-title="SRBIJA" ,INFORMER TV Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/174
-#EXTINF:-1 tvg-id="tanjug-tacno" tvg-name="TANJUG TV" tvg-logo="https://yt3.ggpht.com/5D8xZzBa6o3BoOT5CZXtFXZMtevYI2YyCzf_FVyu3md2CJ853q4Xtur-KpB9Hjv4PFtmNnySVw=s900-c-k-c0x00ffffff-no-rj" group-title="SRBIJA" ,TANJUG TV
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/139
-#EXTINF:-1 tvg-id="b92" tvg-name="B92 Ê°áµˆ" tvg-logo="http://logo.smart-iptvpro.info/images/6e67d42a2f1a1f2d5f9a10b89e0d9963.jpg" group-title="SRBIJA" ,B92 Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/140
-#EXTINF:-1 tvg-id="" tvg-name="BLIC TV" tvg-logo="http://siptvs.com/logo/EXYU/full/blictv.png" group-title="SRBIJA" ,BLIC TV
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/189
-#EXTINF:-1 tvg-id="sos" tvg-name="SOS Ê°áµˆ" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/sos_kanal.png" group-title="SRBIJA" ,SOS Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/161
-#EXTINF:-1 tvg-id="insajder-tv" tvg-name="INSAJDER TV Ê°áµˆ" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/InsajderRV_Srb_logo.png" group-title="SRBIJA" ,INSAJDER TV Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/173
-#EXTINF:-1 tvg-id="agro-tv" tvg-name="AGRO TV Ê°áµˆ" tvg-logo="https://www.agrotv.net/wp-content/uploads/2020/12/agrotv-logo-big-siva_pozadina.png" group-title="SRBIJA" ,AGRO TV Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/172
-#EXTINF:-1 tvg-id="kurir-tv" tvg-name="KURIR TV Ê°áµˆ" tvg-logo="http://logo.smart-iptvpro.info/images/af41638f8ac63a20529be77207c8f66a.jpg" group-title="SRBIJA" ,KURIR TV Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/176
-#EXTINF:-1 tvg-id="k1-tv" tvg-name="K1" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/k1-tv-srbija.png" group-title="SRBIJA" ,K1
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/148
-#EXTINF:-1 tvg-id="kopernikus" tvg-name="K::CN 1 Ê°áµˆ" tvg-logo="http://logo.smart-iptvpro.info/images/f9245bb319f64cd344d051fd0f994284.png" group-title="SRBIJA" ,K::CN 1 Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/147
-#EXTINF:-1 tvg-id="" tvg-name="O2" tvg-logo="https://www.b92.net/news/pics/2019/11/02/19026939655dbd3c5cef517457973489_w640.jpg" group-title="SRBIJA" ,O2
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/169
-#EXTINF:-1 tvg-id="rts-nauka" tvg-name="RTS NAUKA HD" tvg-logo="http://siptvs.com/logo/EXYU/SRBIJA/RTSSATELIT.png" group-title="SRBIJA" ,RTS NAUKA HD
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/178
-#EXTINF:-1 tvg-id="" tvg-name="RTS POLETERAC" tvg-logo="http://siptvs.com/logo/EXYU/SRBIJA/RTSSATELIT.png" group-title="SRBIJA" ,RTS POLETERAC
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/179
-#EXTINF:-1 tvg-id="rts-trezor" tvg-name="RTS TREZOR Ê°áµˆ" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS_Trezor_logo.png" group-title="SRBIJA" ,RTS TREZOR Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/175
-#EXTINF:-1 tvg-id="" tvg-name="HYPE TV Ê°áµˆ" tvg-logo="https://hypebih.ba/wp-content/uploads/2023/01/logo-plav-1024x768.png" group-title="SRBIJA" ,HYPE TV Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/193
-#EXTINF:-1 tvg-id="" tvg-name="HYPE TV 2 Ê°áµˆ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Hype_2_logo.jpg/revision/latest?cb=20240316211401" group-title="SRBIJA" ,HYPE TV 2 Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/2224
-#EXTINF:-1 tvg-id="pink-hits" tvg-name="PINK HITS 1 Ê°áµˆ" tvg-logo="http://logo.smart-iptvpro.info/images/f054ef4873e1e6155e6a9692c52067f8.png" group-title="SRBIJA" ,PINK HITS 1 Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/449
-#EXTINF:-1 tvg-id="tv-hram" tvg-name="TV HRAM Ê°áµˆ" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/TV_Hram_logo.png" group-title="SRBIJA" ,TV HRAM Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/149
-#EXTINF:-1 tvg-id="studio-b-yu" tvg-name="STUDIO B" tvg-logo="http://siptvs.com/logo/EXYU/GENERAL/studiob.png" group-title="SRBIJA" ,STUDIO B
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/181
-#EXTINF:-1 tvg-id="" tvg-name="PALMA PLUS Ê°áµˆ" tvg-logo="http://logo.smart-iptvpro.info/images/be92f20d35d9a75ab8c521172ea6064e.png" group-title="SRBIJA" ,PALMA PLUS Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/152
-#EXTINF:-1 tvg-id="" tvg-name="TV ISTOK" tvg-logo="https://tvistok.com/wp-content/uploads/2020/02/tvilogo200.png" group-title="SRBIJA" ,TV ISTOK
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/163
-#EXTINF:-1 tvg-id="" tvg-name="RTV MLAVA" tvg-logo="https://rtvmlava.com/wp-content/uploads/2019/03/RTVMlava-logo-transparentan.png" group-title="SRBIJA" ,RTV MLAVA
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/167
-#EXTINF:-1 tvg-id="novi-pazar" tvg-name="NOVI PAZAR Ê°áµˆ" tvg-logo="http://logo.smart-iptvpro.info/images/f134738356fade46cd99f2dc0c59cabf.png" group-title="SRBIJA" ,NOVI PAZAR Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/154
-#EXTINF:-1 tvg-id="" tvg-name="SANDZACKA TV MREZA Ê°áµˆ" tvg-logo="https://mts.rs/oec/images/tv_channels/5596d58e72c34a6418a575035ff5a115.png" group-title="SRBIJA" ,SANDZACKA TV MREZA Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/156
-#EXTINF:-1 tvg-id="" tvg-name="SANDZAK TV Ê°áµˆ" tvg-logo="http://logo.smart-iptvpro.info/images/2d09ac113e85c2e61413eea3097f0930.png" group-title="SRBIJA" ,SANDZAK TV Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/157
-#EXTINF:-1 tvg-id="" tvg-name="JEFIMIJA TV" tvg-logo="http://siptvs.com/logo/EXYU/full/jefimija.png" group-title="SRBIJA" ,JEFIMIJA TV
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/184
-#EXTINF:-1 tvg-id="" tvg-name="TV LOTEL PLUS" tvg-logo="https://tvprofil.com/img/kanali-logo/lotel_rtv.png?1503334161" group-title="SRBIJA" ,TV LOTEL PLUS
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/1964
-#EXTINF:-1 tvg-id="" tvg-name="TV BOR" tvg-logo="http://siptvs.com/logo/EXYU/full/tvbor.png" group-title="SRBIJA" ,TV BOR
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/186
-#EXTINF:-1 tvg-id="" tvg-name="SRB: RTV PODRINJE" tvg-logo="https://i.postimg.cc/28qcT0dn/podrinje.jpg" group-title="SRBIJA" ,SRB: RTV PODRINJE
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/1963
-#EXTINF:-1 tvg-id="belle-amie" tvg-name="BELLE AMIE" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/tv-belle-amie-logo.png" group-title="SRBIJA" ,BELLE AMIE
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/168
-#EXTINF:-1 tvg-id="" tvg-name="Insta TV" tvg-logo="" group-title="SRBIJA" ,Insta TV
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/1246
-#EXTINF:-1 tvg-id="" tvg-name="TV PARTIZAN" tvg-logo="https://www.partizan.tv/tv_00000.png" group-title="SRBIJA" ,TV PARTIZAN
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/170
-#EXTINF:-1 tvg-id="" tvg-name="TV PIROT" tvg-logo="https://i.ytimg.com/vi/f58Yc3SIuds/maxresdefault_live.jpg" group-title="SRBIJA" ,TV PIROT
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/166
-#EXTINF:-1 tvg-id="" tvg-name="TV LESKOVAC Ê°áµˆ" tvg-logo="https://www.tvl.rs/wp-content/uploads/2019/10/TVL-logo-.png" group-title="SRBIJA" ,TV LESKOVAC Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/159
-#EXTINF:-1 tvg-id="tv-duga-sat" tvg-name="TV DUGA PLUS Ê°áµˆ" tvg-logo="http://logo.smart-iptvpro.info/123.sr.png" group-title="SRBIJA" ,TV DUGA PLUS Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/141
-#EXTINF:-1 tvg-id="" tvg-name="RTV MAG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/RTV_Mag_-_Logo_1.jpg/revision/latest?cb=20230604205140" group-title="SRBIJA" ,RTV MAG
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/1431
-#EXTINF:-1 tvg-id="" tvg-name="BRAINZ Ê°áµˆ" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/brainz-tv-logo.png" group-title="SRBIJA" ,BRAINZ Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/1362
-#EXTINF:-1 tvg-id="" tvg-name="RTV KRUSEVAC" tvg-logo="http://siptvs.com/logo/EXYU/full/rtvkrusevac.png" group-title="SRBIJA" ,RTV KRUSEVAC
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/183
-#EXTINF:-1 tvg-id="" tvg-name="TV KLADOVO" tvg-logo="https://television-planet.tv/uploads/posts/2019-08/1565372874_nazvaniya-8.jpg" group-title="SRBIJA" ,TV KLADOVO
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/165
-#EXTINF:-1 tvg-id="" tvg-name="TV KRAGUJEVAC" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RT_Kragujevac-logo.png" group-title="SRBIJA" ,TV KRAGUJEVAC
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/1355
-#EXTINF:-1 tvg-id="" tvg-name="TV MLAVA" tvg-logo="" group-title="SRBIJA" ,TV MLAVA
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/160
-#EXTINF:-1 tvg-id="" tvg-name="UNA TV SRBIJA" tvg-logo="https://tvprofil.com/img/kanali-logo/UNA_TV_HR_logo.png?1684495835" group-title="SRBIJA" ,UNA TV SRBIJA
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/2223
-#EXTINF:-1 tvg-id="" tvg-name="SR: Bloomberg Adria" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCH1gyq1Z9skUqV9E96x6y9wPbh8gisWSVGaVWPVb6sLNDSxHA" group-title="SRBIJA" ,SR: Bloomberg Adria
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/1908
-#EXTINF:-1 tvg-id="Elita live 1.rs" tvg-name="Elita 1" tvg-logo="" group-title="SRBIJA" ,Elita 1
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/1930
-#EXTINF:-1 tvg-id="Elita live 2.rs" tvg-name="Elita 2" tvg-logo="" group-title="SRBIJA" ,Elita 2
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/1931
-#EXTINF:-1 tvg-id="Elita live 3.rs" tvg-name="Elita 3" tvg-logo="" group-title="SRBIJA" ,Elita 3
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/1932
-#EXTINF:-1 tvg-id="Elita live 4.rs" tvg-name="Elita 4" tvg-logo="" group-title="SRBIJA" ,Elita 4
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/1933
-#EXTINF:-1 tvg-id="" tvg-name="âœ¦â—âœ¦ MONTENEGRO âœ¦â—âœ¦" tvg-logo="https://cdn.countryflags.com/thumbs/montenegro/flag-3d-round-250.png" group-title="CRNA GORA" ,âœ¦â—âœ¦ MONTENEGRO âœ¦â—âœ¦
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/194
-#EXTINF:-1 tvg-id="14101" tvg-name="N1" tvg-logo="https://n1info.rs/wp-content/uploads/2025/02/15/1739637269-1738584600-n1-750x422.jpg" group-title="SRBIJA / SERBIA",N1
-https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8&session=c039b43f-a985-4ee5-a301-b08660c9bb2b
-#EXTINF:-1 tvg-id="rts1" tvg-name="RTS1 á¶ Ê°áµˆ" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS1_logo.png" group-title="SRBIJA" ,RTS1 á¶ Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/125
-#EXTINF:-1 tvg-id="rts1" tvg-name="RTS1 Ê°áµˆ" tvg-logo="https://nstatic.net/img/tv/channels/m/rts-1.png" group-title="SRBIJA" ,RTS1 Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/124
-#EXTINF:-1 tvg-id="rts2" tvg-name="RTS2 Ê°áµˆ" tvg-logo="http://logo.smart-iptvpro.info/images/bf7e81baa3504ea53a0f4276da56f479.jpg" group-title="SRBIJA" ,RTS2 Ê°áµˆ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/126
 #EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS3 Ê°áµˆ" tvg-logo="http://logo.smart-iptvpro.info/images/c1544b87d33487c80ad72834bb3efafd.png" group-title="SRBIJA" ,RTS3 Ê°áµˆ
 #EXTINF:-1 tvg-id="14101" tvg-name="N1 dodatni strim" tvg-logo="http://iptvunited.org:8080/images/0b165d4eaaebb4a4d919ce970636a2d1.png" group-title="SRBIJA / SERBIA",N1 dodatni strim
 http:\\tv.nova-iptv.com:80\Semir_Nedina\PqjKdoj0aN\9271
@@ -200,6 +61,258 @@ http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/18306
 http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/14122
 #EXTINF:-1 tvg-id="7873" tvg-name="BNV TV SANDZAK" tvg-logo="http://iptvunited.org:8080/images/3c09b4caacba16e9988c99ca769e916f.png" group-title="SRBIJA / SERBIA",BNV TV SANDZAK
 http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/23490
+#EXTINF:-1,SRB: MLAVA TV
+http://skyglass.vip:8080/70006543478/57321112577/437262
+#EXTINF:-1,SRB: N1
+http://skyglass.vip:8080/70006543478/57321112577/437263
+#EXTINF:-1,SRB: N1 SRBIJA
+http://skyglass.vip:8080/70006543478/57321112577/437264
+#EXTINF:-1,SRB: NAT GEO
+http://skyglass.vip:8080/70006543478/57321112577/437265
+#EXTINF:-1,SRB: NAT GEO WILD
+http://skyglass.vip:8080/70006543478/57321112577/437266
+#EXTINF:-1,SRB: NICK JR
+http://skyglass.vip:8080/70006543478/57321112577/437267
+#EXTINF:-1,SRB: NOVA S
+http://skyglass.vip:8080/70006543478/57321112577/437268
+#EXTINF:-1,SRB: O 2
+http://skyglass.vip:8080/70006543478/57321112577/437269
+#EXTINF:-1,SRB: OTV VALENTINO
+http://skyglass.vip:8080/70006543478/57321112577/437270
+#EXTINF:-1,SRB: PALMA PLUS
+http://skyglass.vip:8080/70006543478/57321112577/437271
+#EXTINF:-1,SRB: PIKABOO
+http://skyglass.vip:8080/70006543478/57321112577/437272
+#EXTINF:-1,SRB: PINK
+http://skyglass.vip:8080/70006543478/57321112577/437273
+#EXTINF:-1,SRB: PINK 2
+http://skyglass.vip:8080/70006543478/57321112577/437274
+#EXTINF:-1,SRB: PINK 3
+http://skyglass.vip:8080/70006543478/57321112577/437275
+#EXTINF:-1,SRB: PINK ACTION
+http://skyglass.vip:8080/70006543478/57321112577/437276
+#EXTINF:-1,SRB: PINK CLASSIC
+http://skyglass.vip:8080/70006543478/57321112577/437277
+#EXTINF:-1,SRB: PINK COMEDY
+http://skyglass.vip:8080/70006543478/57321112577/437278
+#EXTINF:-1,SRB: PINK CRIME & MYSTERY
+http://skyglass.vip:8080/70006543478/57321112577/437279
+#EXTINF:-1,SRB: PINK EXTRA
+http://skyglass.vip:8080/70006543478/57321112577/437280
+#EXTINF:-1,SRB: PINK FAMILY
+http://skyglass.vip:8080/70006543478/57321112577/437281
+#EXTINF:-1,SRB: PINK FASHION
+http://skyglass.vip:8080/70006543478/57321112577/437282
+#EXTINF:-1,SRB: PINK FILM
+http://skyglass.vip:8080/70006543478/57321112577/437283
+#EXTINF:-1,SRB: PINK FOLK 1
+http://skyglass.vip:8080/70006543478/57321112577/437284
+#EXTINF:-1,SRB: PINK HAHA
+http://skyglass.vip:8080/70006543478/57321112577/437285
+#EXTINF:-1,SRB: PINK HORROR
+http://skyglass.vip:8080/70006543478/57321112577/437286
+#EXTINF:-1,SRB: PINK KIDS
+http://skyglass.vip:8080/70006543478/57321112577/437287
+#EXTINF:-1,SRB: PINK KONCERT
+http://skyglass.vip:8080/70006543478/57321112577/437288
+#EXTINF:-1,SRB: PINK KUVAR
+http://skyglass.vip:8080/70006543478/57321112577/437289
+#EXTINF:-1,SRB: PINK LOL
+http://skyglass.vip:8080/70006543478/57321112577/437290
+#EXTINF:-1,SRB: PINK MOVIES
+http://skyglass.vip:8080/70006543478/57321112577/437291
+#EXTINF:-1,SRB: PINK MUSIC 1
+http://skyglass.vip:8080/70006543478/57321112577/437292
+#EXTINF:-1,SRB: PINK MUSIC 1
+http://skyglass.vip:8080/70006543478/57321112577/437293
+#EXTINF:-1,SRB: PINK PEDIA
+http://skyglass.vip:8080/70006543478/57321112577/437294
+#EXTINF:-1,SRB: PINK PLUS TV
+http://skyglass.vip:8080/70006543478/57321112577/437295
+#EXTINF:-1,SRB: PINK PREMIUM
+http://skyglass.vip:8080/70006543478/57321112577/437296
+#EXTINF:-1,SRB: PINK REALITY
+http://skyglass.vip:8080/70006543478/57321112577/437297
+#EXTINF:-1,SRB: PINK ROMANCE
+http://skyglass.vip:8080/70006543478/57321112577/437298
+#EXTINF:-1,SRB: PINK SCI-FI & FANTASY
+http://skyglass.vip:8080/70006543478/57321112577/437299
+#EXTINF:-1,SRB: PINK SOAP
+http://skyglass.vip:8080/70006543478/57321112577/437300
+#EXTINF:-1,SRB: PINK STYLE
+http://skyglass.vip:8080/70006543478/57321112577/437301
+#EXTINF:-1,SRB: PINK SUPER KIDS
+http://skyglass.vip:8080/70006543478/57321112577/437302
+#EXTINF:-1,SRB: PINK THRILLER
+http://skyglass.vip:8080/70006543478/57321112577/437303
+#EXTINF:-1,SRB: PINK WESTERN
+http://skyglass.vip:8080/70006543478/57321112577/437304
+#EXTINF:-1,SRB: PINK WORLD
+http://skyglass.vip:8080/70006543478/57321112577/437305
+#EXTINF:-1,SRB: PINK WORLD CINEMA
+http://skyglass.vip:8080/70006543478/57321112577/437306
+#EXTINF:-1,SRB: PINK ZABAVA
+http://skyglass.vip:8080/70006543478/57321112577/437307
+#EXTINF:-1,SRB: PRVA FILES
+http://skyglass.vip:8080/70006543478/57321112577/437308
+#EXTINF:-1,SRB: PRVA KICK
+http://skyglass.vip:8080/70006543478/57321112577/437309
+#EXTINF:-1,SRB: Prva Life
+http://skyglass.vip:8080/70006543478/57321112577/437310
+#EXTINF:-1,SRB: PRVA MAX
+http://skyglass.vip:8080/70006543478/57321112577/437311
+#EXTINF:-1,SRB: PRVA PLUS
+http://skyglass.vip:8080/70006543478/57321112577/437312
+#EXTINF:-1,SRB: PRVA TV
+http://skyglass.vip:8080/70006543478/57321112577/437313
+#EXTINF:-1,SRB: PRVA WORLD
+http://skyglass.vip:8080/70006543478/57321112577/437314
+#EXTINF:-1,SRB: RED TV
+http://skyglass.vip:8080/70006543478/57321112577/437315
+#EXTINF:-1,SRB: ROMA TV
+http://skyglass.vip:8080/70006543478/57321112577/437316
+#EXTINF:-1,SRB: RTL KOCKICA
+http://skyglass.vip:8080/70006543478/57321112577/437317
+#EXTINF:-1,SRB: RTRS
+http://skyglass.vip:8080/70006543478/57321112577/437318
+#EXTINF:-1,SRB: RTS 1
+http://skyglass.vip:8080/70006543478/57321112577/437319
+#EXTINF:-1,SRB: RTS 2
+http://skyglass.vip:8080/70006543478/57321112577/437320
+#EXTINF:-1,SRB: RTS 3
+http://skyglass.vip:8080/70006543478/57321112577/437321
+#EXTINF:-1,SRB: RTS DRAMA
+http://skyglass.vip:8080/70006543478/57321112577/437322
+#EXTINF:-1,SRB: RTS KOLO
+http://skyglass.vip:8080/70006543478/57321112577/437323
+#EXTINF:-1,SRB: RTS MUZIKA
+http://skyglass.vip:8080/70006543478/57321112577/437324
+#EXTINF:-1,SRB: RTS POLETARAC
+http://skyglass.vip:8080/70006543478/57321112577/437325
+#EXTINF:-1,SRB: RTS SATELIT
+http://skyglass.vip:8080/70006543478/57321112577/437326
+#EXTINF:-1,SRB: RTS SVET
+http://skyglass.vip:8080/70006543478/57321112577/437327
+#EXTINF:-1,SRB: RTS TREZOR
+http://skyglass.vip:8080/70006543478/57321112577/437328
+#EXTINF:-1,SRB: RTS ZIVOT
+http://skyglass.vip:8080/70006543478/57321112577/437329
+#EXTINF:-1,SRB: RTV 1
+http://skyglass.vip:8080/70006543478/57321112577/437330
+#EXTINF:-1,SRB: RTV 2
+http://skyglass.vip:8080/70006543478/57321112577/437331
+#EXTINF:-1,SRB: RTV BOR
+http://skyglass.vip:8080/70006543478/57321112577/437332
+#EXTINF:-1,SRB: RTV NOVI PAZAR
+http://skyglass.vip:8080/70006543478/57321112577/437333
+#EXTINF:-1,SRB: RTV VOJVODINA 1
+http://skyglass.vip:8080/70006543478/57321112577/437334
+#EXTINF:-1,SRB: SOS KANAL
+http://skyglass.vip:8080/70006543478/57321112577/437335
+#EXTINF:-1,SRB: STUDIO B
+http://skyglass.vip:8080/70006543478/57321112577/437336
+#EXTINF:-1,SRB: SUPERSTAR 2 TV
+http://skyglass.vip:8080/70006543478/57321112577/437337
+#EXTINF:-1,SRB: SUPERSTAR TV
+http://skyglass.vip:8080/70006543478/57321112577/437338
+#EXTINF:-1,SRB: TOP SOUND
+http://skyglass.vip:8080/70006543478/57321112577/437339
+#EXTINF:-1,SRB: TRAVEL CHANNEL
+http://skyglass.vip:8080/70006543478/57321112577/437340
+#EXTINF:-1,SRB: TV Bor
+http://skyglass.vip:8080/70006543478/57321112577/437341
+#EXTINF:-1,SRB: TV HRAM
+http://skyglass.vip:8080/70006543478/57321112577/437342
+#EXTINF:-1,SRB: TV Kanal M
+http://skyglass.vip:8080/70006543478/57321112577/437343
+#EXTINF:-1,SRB: TV Kladovo
+http://skyglass.vip:8080/70006543478/57321112577/437344
+#EXTINF:-1,SRB: TV Kragujevac
+http://skyglass.vip:8080/70006543478/57321112577/437345
+#EXTINF:-1,SRB: TV Leskovac
+http://skyglass.vip:8080/70006543478/57321112577/437346
+#EXTINF:-1,SRB: TV Partizan
+http://skyglass.vip:8080/70006543478/57321112577/437347
+#EXTINF:-1,SRB: TV PIROT
+http://skyglass.vip:8080/70006543478/57321112577/437348
+#EXTINF:-1,SRB: TV SARAJEVO
+http://skyglass.vip:8080/70006543478/57321112577/437349
+#EXTINF:-1,SRB: ULTRA
+http://skyglass.vip:8080/70006543478/57321112577/437350
+#EXTINF:-1,SRB: Una TV
+http://skyglass.vip:8080/70006543478/57321112577/437351
+#EXTINF:-1,SRB: USK BH
+http://skyglass.vip:8080/70006543478/57321112577/437352
+#EXTINF:-1,SRB: VIASAT EXPLORER
+http://skyglass.vip:8080/70006543478/57321112577/437353
+#EXTINF:-1,SRB: VIASAT HISTORY
+http://skyglass.vip:8080/70006543478/57321112577/437354
+#EXTINF:-1,BA: AL JEZZERA BALKANS
+http://skyglass.vip:8080/70006543478/57321112577/442970
+#EXTINF:-1,BA: BN
+http://skyglass.vip:8080/70006543478/57321112577/442971
+#EXTINF:-1,BA: BN MUSIC
+http://skyglass.vip:8080/70006543478/57321112577/442972
+#EXTINF:-1,BA: OBN
+http://skyglass.vip:8080/70006543478/57321112577/442973
+#EXTINF:-1,BA: BHT 1
+http://skyglass.vip:8080/70006543478/57321112577/442974
+#EXTINF:-1,BA: HAYAT TV
+http://skyglass.vip:8080/70006543478/57321112577/442975
+#EXTINF:-1,BA: HAYAT PLUS
+http://skyglass.vip:8080/70006543478/57321112577/442976
+#EXTINF:-1,BA: HAYAT MUSIC
+http://skyglass.vip:8080/70006543478/57321112577/442977
+#EXTINF:-1,BA: HAYAT FOLK
+http://skyglass.vip:8080/70006543478/57321112577/442978
+#EXTINF:-1,BA: HAYATOVCI
+http://skyglass.vip:8080/70006543478/57321112577/442979
+#EXTINF:-1,BA: PINK BH
+http://skyglass.vip:8080/70006543478/57321112577/442980
+#EXTINF:-1,BA: RTRS
+http://skyglass.vip:8080/70006543478/57321112577/442981
+#EXTINF:-1,BA: RTRS PLUS
+http://skyglass.vip:8080/70006543478/57321112577/442982
+#EXTINF:-1,BA: FACE TV HD
+http://skyglass.vip:8080/70006543478/57321112577/442983
+#EXTINF:-1,BA: MTV IGMAN
+http://skyglass.vip:8080/70006543478/57321112577/442984
+#EXTINF:-1,BA: NOVA BH
+http://skyglass.vip:8080/70006543478/57321112577/442985
+#EXTINF:-1,BA: TV SARAJEVO
+http://skyglass.vip:8080/70006543478/57321112577/442986
+#EXTINF:-1,BA: ALTERNATIVNA
+http://skyglass.vip:8080/70006543478/57321112577/442987
+#EXTINF:-1,BA: FTV
+http://skyglass.vip:8080/70006543478/57321112577/442988
+#EXTINF:-1,BA: GLAS DRINE
+http://skyglass.vip:8080/70006543478/57321112577/442989
+#EXTINF:-1,BA: IZVORNA TV
+http://skyglass.vip:8080/70006543478/57321112577/442990
+#EXTINF:-1,BA: K3 PRNJAVOR
+http://skyglass.vip:8080/70006543478/57321112577/442991
+#EXTINF:-1,BA: OTV VALENTINO
+http://skyglass.vip:8080/70006543478/57321112577/442992
+#EXTINF:-1,BA: RTV USK
+http://skyglass.vip:8080/70006543478/57321112577/442993
+#EXTINF:-1,BA: TV 1
+http://skyglass.vip:8080/70006543478/57321112577/442994
+#EXTINF:-1,BA: TV BUGOJNO
+http://skyglass.vip:8080/70006543478/57321112577/442995
+#EXTINF:-1,BA: SEHARA
+http://skyglass.vip:8080/70006543478/57321112577/442996
+#EXTINF:-1,BA: ALFA TV
+http://skyglass.vip:8080/70006543478/57321112577/442997
+#EXTINF:-1,BA: CITY TV
+http://skyglass.vip:8080/70006543478/57321112577/442998
+#EXTINF:-1,BA: HIT TELEVIZIJA BRCKO
+http://skyglass.vip:8080/70006543478/57321112577/442999
+#EXTINF:-1,BA: POSAVINA TV
+http://skyglass.vip:8080/70006543478/57321112577/443000
+#EXTINF:-1,BA: SEVDAH
+http://skyglass.vip:8080/70006543478/57321112577/443001
+#EXTINF:-1,BA: RTV ZENICA
+http://skyglass.vip:8080/70006543478/57321112577/443002
 #EXTINF:-1 tvg-id="4721" tvg-name="== HRVATSKA ==" tvg-logo="http://iptvunited.org:8080/images/59a2baffbefe36774ea9493d66ff440c.png" group-title="HRVATSKA / CROATIA",== HRVATSKA ==
 http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/4721
 #EXTINF:-1 tvg-id="10695" tvg-name="HRT INT." tvg-logo="http://iptvunited.org:8080/images/c3b6ead3250b7da6ce36c2c5f1d3c59f.png" group-title="HRVATSKA / CROATIA",HRT INT.
