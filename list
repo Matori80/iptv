@@ -1,6 +1,10 @@
 #EXTM3U-United-Pro
 #EXTINF:-1 tvg-id="4776" tvg-name="== SRBIJA ==" tvg-logo="http://iptvunited.org:8080/images/b647ac2d32ca987ae222b986d176a801.png" group-title="SRBIJA / SERBIA",== SRBIJA ==
-#EXTINF:-1 tvg-id="14101" tvg-name="RTS ZIVOT" tvg-logo="http://iptvunited.org:8080/images/0b165d4eaaebb4a4d919ce970636a2d1.png" group-title="SRBIJA / SERBIA",RTS ZIVOT
+#EXTINF:-1 tvg-id="14101" tvg-name="NOVA S" tvg-logo="http://iptvunited.org:8080/images/0b165d4eaaebb4a4d919ce970636a2d1.png" group-title="SRBIJA / SERBIA",Nova S
+http://pro.ipcover.lol:8080/Bapt2848JAZ/zp3eZJW4FCfn/207920
+#EXTINF:-1 tvg-id="14101" tvg-name="N1" tvg-logo="http://ipcover.be:8080/images/d7cad8efbecbeadad317dd6cfcceb2f3.png" group-title="SRBIJA / SERBIA",N1
+http://pro.ipcover.lol:8080/Bapt2848JAZ/zp3eZJW4FCfn/207913
+#EXTINF:-1 tvg-id="14101" tvg-name="RTS ZIVOT" tvg-logo="http://ipcover.be:8080/images/acaa471c53fd5c28e91bedeb56699ed1.png" group-title="SRBIJA / SERBIA",RTS ZIVOT
 http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/14101
 #EXTINF:-1 tvg-id="14099" tvg-name="RTS SVET" tvg-logo="http://iptvunited.org:8080/images/279411a8b4e0d93839e8315e2d82ff71.jpg" group-title="SRBIJA / SERBIA",RTS SVET
 http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/14099
