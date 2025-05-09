@@ -2713,3 +2713,652 @@ http://23232.top:80/play/live.php?mac=00:1A:79:74:57:82&stream=110898&extension=
 http://23232.top:80/play/live.php?mac=00:1A:79:74:57:82&stream=110840&extension=ts&play_token=DFumuiT67Y
 #EXTINF:0, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TOON KIDS HD HR"  group-title="DJECA",TOON KIDS HD HR
 http://23232.top:80/play/live.php?mac=00:1A:79:74:57:82&stream=110701&extension=ts&play_token=BmERHQqurw
+#EXTINF:-1 tvg-id="" tvg-name="***** Bosanski Kanali *****" tvg-logo="http://live-tv.uk:8080/images/d039c9380a9b2a7d8b22ca9813b27063.jpg" group-title="Bosnian Channel",***** Bosanski Kanali *****
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/270
+#EXTINF:-1 tvg-id="BHT 1 HD" tvg-name="BHT 1 HD" tvg-logo="http://live-tv.uk:8080/images/8286378d1ed222e4e48be1fa121084d5.jpg" group-title="Bosnian Channel",BHT 1 HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/272
+#EXTINF:-1 tvg-id="" tvg-name="O Kanal " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFSGEfVTzqO3Twc_Eny8Dd2d3b8zaQr9TP4WPbHFHadyA-upUayoRz8oIBy8ekNdMFi0E&usqp=CAU" group-title="Bosnian Channel",O Kanal 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/2080
+#EXTINF:-1 tvg-id="Nova BH" tvg-name="Nova BH" tvg-logo="http://live-tv.uk:8080/images/5f536079082f4329f910e56e1e53cd8a.jpg" group-title="Bosnian Channel",Nova BH
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/371
+#EXTINF:-1 tvg-id="" tvg-name="Federalna TV" tvg-logo="http://live-tv.uk:8080/images/a609bb5c9f48ca5e6350488ae5b55aff.png" group-title="Bosnian Channel",Federalna TV
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/271
+#EXTINF:-1 tvg-id="Face TV" tvg-name="Face TV" tvg-logo="http://live-tv.uk:8080/images/929e8b7353e2b237d790dece6f58b621.jpg" group-title="Bosnian Channel",Face TV
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/276
+#EXTINF:-1 tvg-id="OBN (SN)" tvg-name="OBN" tvg-logo="http://live-tv.uk:8080/images/3927823f7599c17e48d8dbab62b0927e.png" group-title="Bosnian Channel",OBN
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/273
+#EXTINF:-1 tvg-id="" tvg-name="Pink BiH " tvg-logo="" group-title="Bosnian Channel",Pink BiH 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/13562
+#EXTINF:-1 tvg-id="BiH Hayat" tvg-name="BiH Hayat" tvg-logo="http://live-tv.uk:8080/images/b885e34cf03b6506f3179e3805631b30.jpg" group-title="Bosnian Channel",BiH Hayat
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/274
+#EXTINF:-1 tvg-id="Hayat Plus" tvg-name="Hayat 2" tvg-logo="http://live-tv.uk:8080/images/59fb5e5c68bd6187a375a54ab750517e.jpg" group-title="Bosnian Channel",Hayat 2
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/275
+#EXTINF:-1 tvg-id="hayat-music" tvg-name="Hayat Music" tvg-logo="http://live-tv.uk:8080/images/09ca77e2750ffa6aa603bf7b29c4c2d8.png" group-title="Bosnian Channel",Hayat Music
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/438
+#EXTINF:-1 tvg-id="hayat-folk" tvg-name="Hayat Folk" tvg-logo="http://live-tv.uk:8080/images/6df7024d342edd50512bedf1c87e4c6b.png" group-title="Bosnian Channel",Hayat Folk
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/437
+#EXTINF:-1 tvg-id="" tvg-name="Moja tv " tvg-logo="" group-title="Bosnian Channel",Moja tv 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/17006
+#EXTINF:-1 tvg-id="" tvg-name="BN TV 2" tvg-logo="http://live-tv.uk:8080/images/c84051d6cfebeae2f9d0d86ba11e12c4.png" group-title="Bosnian Channel",BN TV 2
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/277
+#EXTINF:-1 tvg-id="BiH BN" tvg-name="BN SAT" tvg-logo="http://live-tv.uk:8080/images/38a391a6cb9fd45450dabd5c09eeed88.jpg" group-title="Bosnian Channel",BN SAT
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/278
+#EXTINF:-1 tvg-id="" tvg-name="Alternativna TV" tvg-logo="http://live-tv.uk:8080/images/4eca26a657a40f959ff87b695c4771ee.jpg" group-title="Bosnian Channel",Alternativna TV
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/287
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazzera Balkans" tvg-logo="http://live-tv.uk:8080/images/6c61b72dbf5260c53e81fda74d58188b.jpg" group-title="Bosnian Channel",Al Jazzera Balkans
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/292
+#EXTINF:-1 tvg-id="n1" tvg-name="N1 Info" tvg-logo="http://live-tv.uk:8080/images/cf59d64e4f52179a67248d39bef973cc.jpg" group-title="Bosnian Channel",N1 Info
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/291
+#EXTINF:-1 tvg-id="" tvg-name="Tv Herceg Bosne " tvg-logo="" group-title="Bosnian Channel",Tv Herceg Bosne 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16044
+#EXTINF:-1 tvg-id="" tvg-name="Rtv Lukavac " tvg-logo="" group-title="Bosnian Channel",Rtv Lukavac 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16049
+#EXTINF:-1 tvg-id="" tvg-name="TV Sarajevo" tvg-logo="http://live-tv.uk:8080/images/79f39d5e22918795682c83fba338926d.jpg" group-title="Bosnian Channel",TV Sarajevo
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/290
+#EXTINF:-1 tvg-id="" tvg-name="Hayatovci" tvg-logo="http://live-tv.uk:8080/images/5ef9ffdadd62ec6fe951f214261cc7eb.jpg" group-title="Bosnian Channel",Hayatovci
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/361
+#EXTINF:-1 tvg-id="" tvg-name="Alfa TV Sarajevo" tvg-logo="http://live-tv.uk:8080/images/867cc271e11cb01da5cce0218202d737.png" group-title="Bosnian Channel",Alfa TV Sarajevo
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/289
+#EXTINF:-1 tvg-id="" tvg-name="Tv Historija " tvg-logo="" group-title="Bosnian Channel",Tv Historija 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16896
+#EXTINF:-1 tvg-id="" tvg-name="Dizi Tv " tvg-logo="" group-title="Bosnian Channel",Dizi Tv 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16895
+#EXTINF:-1 tvg-id="izvorna-tv" tvg-name="Izvorna TV" tvg-logo="http://live-tv.uk:8080/images/9b8bfe8a0b45d69dd514c2197603ecdb.jpg" group-title="Bosnian Channel",Izvorna TV
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/284
+#EXTINF:-1 tvg-id="" tvg-name="Tatabrada TV " tvg-logo="" group-title="Bosnian Channel",Tatabrada TV 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/15766
+#EXTINF:-1 tvg-id="" tvg-name="Rtv Podrinje " tvg-logo="" group-title="Bosnian Channel",Rtv Podrinje 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/12711
+#EXTINF:-1 tvg-id="bn-music" tvg-name="BN Muzika" tvg-logo="http://live-tv.uk:8080/images/f3ac9fc93c3b795f5feeb55530b405e7.jpg" group-title="Bosnian Channel",BN Muzika
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/435
+#EXTINF:-1 tvg-id="" tvg-name="USK HD" tvg-logo="http://live-tv.uk:8080/images/fbf5811fc5f7bda02dc28d640c28e62c.png" group-title="Bosnian Channel",USK HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/5854
+#EXTINF:-1 tvg-id="" tvg-name="City TV" tvg-logo="http://live-tv.uk:8080/images/af6ff6e4acc381375bb234b33fe1099c.png" group-title="Bosnian Channel",City TV
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/3265
+#EXTINF:-1 tvg-id="" tvg-name="RTV Zenica" tvg-logo="http://live-tv.uk:8080/images/c66e71f8ec65f75c2330508a8241407b.jpg" group-title="Bosnian Channel",RTV Zenica
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/286
+#EXTINF:-1 tvg-id="" tvg-name="OTV Valentino" tvg-logo="http://live-tv.uk:8080/images/ddd6277d210cc4653642509f06dc8976.png" group-title="Bosnian Channel",OTV Valentino
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/436
+#EXTINF:-1 tvg-id="" tvg-name="OTV Valentino Muzika" tvg-logo="" group-title="Bosnian Channel",OTV Valentino Muzika
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16922
+#EXTINF:-1 tvg-id="" tvg-name="Bmc " tvg-logo="" group-title="Bosnian Channel",Bmc 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/17876
+#EXTINF:-1 tvg-id="" tvg-name="Bmc Etno " tvg-logo="" group-title="Bosnian Channel",Bmc Etno 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16920
+#EXTINF:-1 tvg-id="" tvg-name="Elta Tv 1 " tvg-logo="" group-title="Bosnian Channel",Elta Tv 1 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16897
+#EXTINF:-1 tvg-id="" tvg-name="TV TK" tvg-logo="http://live-tv.uk:8080/images/ccc21f0ff47923407f07c0f58538aa5f.jpg" group-title="Bosnian Channel",TV TK
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/288
+#EXTINF:-1 tvg-id="" tvg-name="Tv 7 Tuzla " tvg-logo="" group-title="Bosnian Channel",Tv 7 Tuzla 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/12782
+#EXTINF:-1 tvg-id="" tvg-name="Super Media Tv " tvg-logo="" group-title="Bosnian Channel",Super Media Tv 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/12783
+#EXTINF:-1 tvg-id="" tvg-name="B1 Gradacac Tv " tvg-logo="" group-title="Bosnian Channel",B1 Gradacac Tv 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/12784
+#EXTINF:-1 tvg-id="" tvg-name="Hema Tv " tvg-logo="" group-title="Bosnian Channel",Hema Tv 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/12710
+#EXTINF:-1 tvg-id="" tvg-name="Rtv Sana " tvg-logo="" group-title="Bosnian Channel",Rtv Sana 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/12712
+#EXTINF:-1 tvg-id="" tvg-name="Sehara " tvg-logo="" group-title="Bosnian Channel",Sehara 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/12713
+#EXTINF:-1 tvg-id="" tvg-name="Tv Vogosca " tvg-logo="" group-title="Bosnian Channel",Tv Vogosca 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/12717
+#EXTINF:-1 tvg-id="" tvg-name="Smart Tv " tvg-logo="" group-title="Bosnian Channel",Smart Tv 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16923
+#EXTINF:-1 tvg-id="" tvg-name="TV Bugojno " tvg-logo="" group-title="Bosnian Channel",TV Bugojno 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/12727
+#EXTINF:-1 tvg-id="" tvg-name="TV Slon" tvg-logo="http://live-tv.uk:8080/images/b7d4d363078fdcc99cc618eb9b86562d.jpg" group-title="Bosnian Channel",TV Slon
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/293
+#EXTINF:-1 tvg-id="" tvg-name="TV Glas Drine" tvg-logo="http://live-tv.uk:8080/images/c4a35ac446f312aec218e0f63f3056d0.png" group-title="Bosnian Channel",TV Glas Drine
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/443
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 6 HD" tvg-logo="http://live-tv.uk:8080/images/5501fa462e7f40e745f61ecb84c58302.jpg" group-title="Bosnian Channel",Kanal 6 HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/3850
+#EXTINF:-1 tvg-id="" tvg-name="K3 Prnjavor" tvg-logo="http://live-tv.uk:8080/images/4799ae70b4778233de5e56e21a3cd6bd.jpg" group-title="Bosnian Channel",K3 Prnjavor
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/3852
+#EXTINF:-1 tvg-id="" tvg-name="Hit TV Brcko" tvg-logo="http://live-tv.uk:8080/images/c7a213f8193c7306d3a789dea7bbc25d.png" group-title="Bosnian Channel",Hit TV Brcko
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/298
+#EXTINF:-1 tvg-id="" tvg-name="Bir Tv" tvg-logo="" group-title="Bosnian Channel",Bir Tv
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/10971
+#EXTINF:-1 tvg-id="" tvg-name="MTV Igman" tvg-logo="http://live-tv.uk:8080/images/d2df81fb73c9aa9cc4863bfb9b7d9b54.png" group-title="Bosnian Channel",MTV Igman
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/296
+#EXTINF:-1 tvg-id="" tvg-name="Televizija 5" tvg-logo="http://live-tv.uk:8080/images/0784fe10fc73e03e75f3a0d213f5cd54.jpg" group-title="Bosnian Channel",Televizija 5
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/282
+#EXTINF:-1 tvg-id="" tvg-name="TV 5 HD Islam" tvg-logo="http://live-tv.uk:8080/images/f46e1e40a74398bb2d961ed94dc1c890.jpg" group-title="Bosnian Channel",TV 5 HD Islam
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/3868
+#EXTINF:-1 tvg-id="" tvg-name="Mekka Live" tvg-logo="" group-title="Bosnian Channel",Mekka Live
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/15947
+#EXTINF:-1 tvg-id="" tvg-name="Tv Visoko " tvg-logo="" group-title="Bosnian Channel",Tv Visoko 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/8614
+#EXTINF:-1 tvg-id="" tvg-name="Dobra Plus" tvg-logo="" group-title="Bosnian Channel",Dobra Plus
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/9603
+#EXTINF:-1 tvg-id="" tvg-name="Dobra MuziÄka " tvg-logo="" group-title="Bosnian Channel",Dobra MuziÄka 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/9604
+#EXTINF:-1 tvg-id="" tvg-name="NTV IC Kakanj" tvg-logo="" group-title="Bosnian Channel",NTV IC Kakanj
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16082
+#EXTINF:-1 tvg-id="" tvg-name="Dobra Exclusive " tvg-logo="" group-title="Bosnian Channel",Dobra Exclusive 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/9609
+#EXTINF:-1 tvg-id="" tvg-name="***** Hrvatski Kanali *****" tvg-logo="http://live-tv.uk:8080/images/dc46b3eab16def1ccd1662f491606770.png" group-title="Croatian Channel",***** Hrvatski Kanali *****
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/301
+#EXTINF:-1 tvg-id="HRT 1" tvg-name="HRT 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Hrt1_ident2_1994a.jpg/revision/latest/scale-to-width-down/250?cb=20141201194528" group-title="Croatian Channel",HRT 1
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/302
+#EXTINF:-1 tvg-id="HRT 1" tvg-name="HRT 1 (Backup)" tvg-logo="" group-title="Croatian Channel",HRT 1 (Backup)
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/15299
+#EXTINF:-1 tvg-id="HRT 2" tvg-name="HRT 2" tvg-logo="http://live-tv.uk:8080/images/8e4fd84540ed95f09726c77f0371fea8.png" group-title="Croatian Channel",HRT 2
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/303
+#EXTINF:-1 tvg-id="" tvg-name="HRT 2 (Backup)" tvg-logo="http://live-tv.uk:8080/images/8e4fd84540ed95f09726c77f0371fea8.png" group-title="Croatian Channel",HRT 2 (Backup)
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/15963
+#EXTINF:-1 tvg-id="HRT 3" tvg-name="HRT 3" tvg-logo="http://live-tv.uk:8080/images/3e548ca014c753a0be68c6d95fad543f.png" group-title="Croatian Channel",HRT 3
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/304
+#EXTINF:-1 tvg-id="HRT 4" tvg-name="HRT 4" tvg-logo="http://live-tv.uk:8080/images/c54f4c1b6350ad053b7bd576b7544f42.png" group-title="Croatian Channel",HRT 4
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/305
+#EXTINF:-1 tvg-id="" tvg-name="HRT int." tvg-logo="http://live-tv.uk:8080/images/7c2ebe810fd27e92de73dca7c2354149.png" group-title="Croatian Channel",HRT int.
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/3857
+#EXTINF:-1 tvg-id="Nova TV" tvg-name="Nova TV" tvg-logo="http://live-tv.uk:8080/images/56dc774dc75f74176c4c0659702fe67e.png" group-title="Croatian Channel",Nova TV
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/306
+#EXTINF:-1 tvg-id="" tvg-name="Nova  Cinema " tvg-logo="" group-title="Croatian Channel",Nova  Cinema 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/15736
+#EXTINF:-1 tvg-id="" tvg-name="Nova Family " tvg-logo="" group-title="Croatian Channel",Nova Family 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/15753
+#EXTINF:-1 tvg-id="" tvg-name="Nova Max " tvg-logo="" group-title="Croatian Channel",Nova Max 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16887
+#EXTINF:-1 tvg-id="" tvg-name="Nova Dokumentarni" tvg-logo="" group-title="Croatian Channel",Nova Dokumentarni
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16903
+#EXTINF:-1 tvg-id="" tvg-name="Nova Plus " tvg-logo="" group-title="Croatian Channel",Nova Plus 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16902
+#EXTINF:-1 tvg-id="" tvg-name="Nova Serije " tvg-logo="" group-title="Croatian Channel",Nova Serije 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16901
+#EXTINF:-1 tvg-id="Doma TV" tvg-name="Doma TV" tvg-logo="http://live-tv.uk:8080/images/146481d622df568bf5bbebba8188bc20.png" group-title="Croatian Channel",Doma TV
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/307
+#EXTINF:-1 tvg-id="n1-hr" tvg-name="N1 HD" tvg-logo="http://live-tv.uk:8080/images/c4fa13a3d4744c147736c2de7f7dd825.jpg" group-title="Croatian Channel",N1 HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/2346
+#EXTINF:-1 tvg-id="z1" tvg-name="Z1" tvg-logo="http://live-tv.uk:8080/images/61c0fbb6eab4f476929ff5691552b311.png" group-title="Croatian Channel",Z1
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/2345
+#EXTINF:-1 tvg-id="" tvg-name="RTL +" tvg-logo="" group-title="Croatian Channel",RTL +
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/17243
+#EXTINF:-1 tvg-id="" tvg-name="RTL Play Premium " tvg-logo="" group-title="Croatian Channel",RTL Play Premium 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/17242
+#EXTINF:-1 tvg-id="RTL" tvg-name="RTL HR" tvg-logo="http://live-tv.uk:8080/images/a148c230a4bb6ad8618bc21491e26875.jpg" group-title="Croatian Channel",RTL HR
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/308
+#EXTINF:-1 tvg-id="RTL 2" tvg-name="RTL 2 HR" tvg-logo="https://i.imgur.com/e9yn54v.png?1" group-title="Croatian Channel",RTL 2 HR
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/309
+#EXTINF:-1 tvg-id="RTL Living" tvg-name="RTL Living HR" tvg-logo="http://live-tv.uk:8080/images/d433d19daa84c8b2035db84dd709a54f.png" group-title="Croatian Channel",RTL Living HR
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/310
+#EXTINF:-1 tvg-id="RTL Crime" tvg-name="RTL Crime HR" tvg-logo="http://live-tv.uk:8080/images/75c9d85bc394c007a0bc6b21ecee9ddd.png" group-title="Croatian Channel",RTL Crime HR
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/354
+#EXTINF:-1 tvg-id="RTL Passion" tvg-name="RTL Passion HR" tvg-logo="http://live-tv.uk:8080/images/58e69c9138c98c17fddcc70b5d9b18ee.png" group-title="Croatian Channel",RTL Passion HR
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/311
+#EXTINF:-1 tvg-id="RTL Adria" tvg-name="RTL Adria " tvg-logo="" group-title="Croatian Channel",RTL Adria 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16096
+#EXTINF:-1 tvg-id="" tvg-name="AXN Adria" tvg-logo="http://live-tv.uk:8080/images/38c0a5fe986040360aa9bc2c42ac4f1b.png" group-title="Croatian Channel",AXN Adria
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/2629
+#EXTINF:-1 tvg-id="fox" tvg-name="Star" tvg-logo="http://live-tv.uk:8080/images/1636ec5f6c49fd0e5454a72f8dd80900.png" group-title="Croatian Channel",Star
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/335
+#EXTINF:-1 tvg-id="" tvg-name="Star Life" tvg-logo="http://live-tv.uk:8080/images/be8b5682212a8549378f2e27ccf6580c.png" group-title="Croatian Channel",Star Life
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/336
+#EXTINF:-1 tvg-id="" tvg-name="Star Crime" tvg-logo="http://live-tv.uk:8080/images/f552b1e600fbeb284d1b72298b8f27ba.jpg" group-title="Croatian Channel",Star Crime
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/337
+#EXTINF:-1 tvg-id="fox-movies" tvg-name="Star Movies" tvg-logo="http://live-tv.uk:8080/images/de1bc4fda144600ec6d44a60444bf9b3.png" group-title="Croatian Channel",Star Movies
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/338
+#EXTINF:-1 tvg-id="klasiktv" tvg-name="KlasikTV" tvg-logo="http://live-tv.uk:8080/images/2cc58f7ebbdaac1abfa839d32df24504.jpg" group-title="Croatian Channel",KlasikTV
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/352
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO HD" tvg-logo="http://live-tv.uk:8080/images/b9f6724513802696699cff8668c168a0.png" group-title="Croatian Channel",HBO HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/340
+#EXTINF:-1 tvg-id="hbo-comedy" tvg-name="HBO 2 HD" tvg-logo="http://live-tv.uk:8080/images/852eaf14321e5db0c399e9e8a8adde72.png" group-title="Croatian Channel",HBO 2 HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/341
+#EXTINF:-1 tvg-id="" tvg-name="HBO 3 HD" tvg-logo="http://live-tv.uk:8080/images/613e9c6e021f0a2038ae08d8c4fb8a0f.jpg" group-title="Croatian Channel",HBO 3 HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/342
+#EXTINF:-1 tvg-id="" tvg-name="HBO Kids " tvg-logo="" group-title="Croatian Channel",HBO Kids 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/17241
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max " tvg-logo="" group-title="Croatian Channel",HBO Max 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/17240
+#EXTINF:-1 tvg-id="cinestar-tv" tvg-name="CineStar TV 1" tvg-logo="http://live-tv.uk:8080/images/ee86580b2ce86f55a653b2bff7f85c87.png" group-title="Croatian Channel",CineStar TV 1
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/344
+#EXTINF:-1 tvg-id="" tvg-name="CineStar TV Action" tvg-logo="http://live-tv.uk:8080/images/bb2b2749a5ae56a2ec52d2436c9e007c.jpg" group-title="Croatian Channel",CineStar TV Action
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/345
+#EXTINF:-1 tvg-id="cinestar-premiere" tvg-name="CineStar Premiere 1" tvg-logo="http://live-tv.uk:8080/images/ddb23d07fa46b48529c1ed0f6f31228f.png" group-title="Croatian Channel",CineStar Premiere 1
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/346
+#EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-name="CineStar Premiere 2" tvg-logo="http://live-tv.uk:8080/images/b7e6eb69d0cac135e7d7ee8f6204b80f.png" group-title="Croatian Channel",CineStar Premiere 2
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/347
+#EXTINF:-1 tvg-id="cinestar-tv-comedy" tvg-name="CineStar Comedy " tvg-logo="" group-title="Croatian Channel",CineStar Comedy 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16932
+#EXTINF:-1 tvg-id="cinestar-tv-fantasy" tvg-name="CineStar Fantasy" tvg-logo="http://live-tv.uk:8080/images/194efa5be697c6f26822124ddb171bfb.jpg" group-title="Croatian Channel",CineStar Fantasy
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/348
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="http://live-tv.uk:8080/images/239549138f3bc14fa697d349351206e1.png" group-title="Croatian Channel",Cinemax HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/349
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax 2 HD" tvg-logo="http://live-tv.uk:8080/images/8c69ac5b561299897082204f28340446.png" group-title="Croatian Channel",Cinemax 2 HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/350
+#EXTINF:-1 tvg-id="Cinemania HD" tvg-name="Cinemania HD" tvg-logo="http://live-tv.uk:8080/images/fc59eae215c18baca2e179fb46d32d1f.png" group-title="Croatian Channel",Cinemania HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/359
+#EXTINF:-1 tvg-id="kinotv" tvg-name="Kino TV HD" tvg-logo="https://i.imgur.com/E7FofHK.gif?1" group-title="Croatian Channel",Kino TV HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/355
+#EXTINF:-1 tvg-id="" tvg-name="M 1 Film" tvg-logo="" group-title="Croatian Channel",M 1 Film
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/12701
+#EXTINF:-1 tvg-id="" tvg-name="M 1 Gold " tvg-logo="" group-title="Croatian Channel",M 1 Gold 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/13022
+#EXTINF:-1 tvg-id="" tvg-name="Epic Drama " tvg-logo="" group-title="Croatian Channel",Epic Drama 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/12714
+#EXTINF:-1 tvg-id="universal-channel" tvg-name="Diva Channel" tvg-logo="http://live-tv.uk:8080/images/4627200ab76cbe28e9ff449e81bfe730.png" group-title="Croatian Channel",Diva Channel
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/358
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 1 HD" tvg-logo="" group-title="Croatian Channel",CroMax Select 1 HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/681
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 2 HD" tvg-logo="" group-title="Croatian Channel",CroMax Select 2 HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/682
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 3 HD" tvg-logo="" group-title="Croatian Channel",CroMax Select 3 HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/683
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 4 HD" tvg-logo="" group-title="Croatian Channel",CroMax Select 4 HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/5838
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 5 HD" tvg-logo="" group-title="Croatian Channel",CroMax Select 5 HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/684
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 6 HD" tvg-logo="" group-title="Croatian Channel",CroMax Select 6 HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/685
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 7 HD" tvg-logo="" group-title="Croatian Channel",CroMax Select 7 HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/686
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 8 HD" tvg-logo="" group-title="Croatian Channel",CroMax Select 8 HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/687
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 9 HD" tvg-logo="" group-title="Croatian Channel",CroMax Select 9 HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/688
+#EXTINF:-1 tvg-id="investigation-discovery" tvg-name="Crime & Investigation" tvg-logo="http://live-tv.uk:8080/images/329df27677257747e3404385b2f19c86.jpg" group-title="Croatian Channel",Crime & Investigation
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/353
+#EXTINF:-1 tvg-id="" tvg-name="Doku TV " tvg-logo="" group-title="Croatian Channel",Doku TV 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/12707
+#EXTINF:-1 tvg-id="discovery-europe" tvg-name="Discovery Channel" tvg-logo="http://live-tv.uk:8080/images/b6f99add50abfe446318635cde7f2b2f.jpg" group-title="Croatian Channel",Discovery Channel
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/414
+#EXTINF:-1 tvg-id="investigation-discovery" tvg-name="Discovery ID Extra" tvg-logo="http://live-tv.uk:8080/images/52dcce19e9cdc9cbe6c555500ed4aca4.jpg" group-title="Croatian Channel",Discovery ID Extra
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/422
+#EXTINF:-1 tvg-id="History 2 Channel" tvg-name="History 2 Channel" tvg-logo="http://live-tv.uk:8080/images/138f4bcacd71f460cc49718d8580bd1e.jpg" group-title="Croatian Channel",History 2 Channel
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/425
+#EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="http://live-tv.uk:8080/images/e2492946f67ee673591330da19b4a058.png" group-title="Croatian Channel",National Geographic
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/412
+#EXTINF:-1 tvg-id="ng-wild-hd" tvg-name="Nat Geo Wild" tvg-logo="http://live-tv.uk:8080/images/fba6f05232e79cfd4900a5370058fae3.png" group-title="Croatian Channel",Nat Geo Wild
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/413
+#EXTINF:-1 tvg-id="discovery-animal" tvg-name="Animal Planet" tvg-logo="http://live-tv.uk:8080/images/961d97f07322d899516672ea6bee53e7.png" group-title="Croatian Channel",Animal Planet
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/417
+#EXTINF:-1 tvg-id="viasat-history" tvg-name="Viasat History" tvg-logo="http://live-tv.uk:8080/images/1026981984904cb422aea1ae63eef90a.jpg" group-title="Croatian Channel",Viasat History
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/423
+#EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viasat Nature" tvg-logo="http://live-tv.uk:8080/images/78dc1cf843a777933ced6d4e1d641e5f.png" group-title="Croatian Channel",Viasat Nature
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/424
+#EXTINF:-1 tvg-id="travel-channel" tvg-name="Travel Channel" tvg-logo="http://live-tv.uk:8080/images/3aa6e3ba7aa91717807007062d1c909c.jpg" group-title="Croatian Channel",Travel Channel
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/419
+#EXTINF:-1 tvg-id="" tvg-name="24 Kitchen" tvg-logo="" group-title="Croatian Channel",24 Kitchen
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/3261
+#EXTINF:-1 tvg-id="" tvg-name="Food Network " tvg-logo="" group-title="Croatian Channel",Food Network 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/12709
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth " tvg-logo="" group-title="Croatian Channel",BBC Earth 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/12719
+#EXTINF:-1 tvg-id="discovery-tlc" tvg-name="TLC HD_" tvg-logo="http://live-tv.uk:8080/images/9e4eef596ef7bcb503d8968ab0807f62.jpg" group-title="Croatian Channel",TLC HD_
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/418
+#EXTINF:-1 tvg-id="" tvg-name="E Entertainment " tvg-logo="" group-title="Croatian Channel",E Entertainment 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16077
+#EXTINF:-1 tvg-id="" tvg-name="HGTV " tvg-logo="" group-title="Croatian Channel",HGTV 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16079
+#EXTINF:-1 tvg-id="" tvg-name="Laudato TV" tvg-logo="" group-title="Croatian Channel",Laudato TV
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/9448
+#EXTINF:-1 tvg-id="" tvg-name="Osjecka TV" tvg-logo="http://live-tv.uk:8080/images/aa074bb98924b016db8c58e00f30fe35.jpg" group-title="Croatian Channel",Osjecka TV
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/312
+#EXTINF:-1 tvg-id="" tvg-name="Slavonska TV" tvg-logo="http://live-tv.uk:8080/images/f5da6768ac79fd8afff59b44cb9eac86.jpg" group-title="Croatian Channel",Slavonska TV
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/313
+#EXTINF:-1 tvg-id="" tvg-name="Vinkovacka TV" tvg-logo="http://live-tv.uk:8080/images/66c65670c242357c25a07c720f41e064.jpg" group-title="Croatian Channel",Vinkovacka TV
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/314
+#EXTINF:-1 tvg-id="" tvg-name="MreÅ¾a TV" tvg-logo="" group-title="Croatian Channel",MreÅ¾a TV
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16839
+#EXTINF:-1 tvg-id="" tvg-name="Jadran TV" tvg-logo="" group-title="Croatian Channel",Jadran TV
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/14762
+#EXTINF:-1 tvg-id="" tvg-name="Una Tv " tvg-logo="" group-title="Croatian Channel",Una Tv 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16907
+#EXTINF:-1 tvg-id="" tvg-name="Klape i Tambure " tvg-logo="" group-title="Croatian Channel",Klape i Tambure 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16924
+#EXTINF:-1 tvg-id="" tvg-name="Libertas Tv " tvg-logo="" group-title="Croatian Channel",Libertas Tv 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16906
+#EXTINF:-1 tvg-id="" tvg-name="Rtv Banovina" tvg-logo="http://live-tv.uk:8080/images/5abffa08a5bcca5992c7f8f2057110a2.png" group-title="Croatian Channel",Rtv Banovina
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/315
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://live-tv.uk:8080/images/352dcad4b5122fe6e706011137d4acf2.png" group-title="Croatian Channel",Nickelodeon
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/367
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="http://live-tv.uk:8080/images/b7ceed611f3a5fcad3986a98e835e23c.png" group-title="Croatian Channel",Boomerang
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/3262
+#EXTINF:-1 tvg-id="" tvg-name="RTL Kockica" tvg-logo="http://live-tv.uk:8080/images/752044873aae969ee4d786342e33069f.jpg" group-title="Croatian Channel",RTL Kockica
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/362
+#EXTINF:-1 tvg-id="" tvg-name="TNT Kids " tvg-logo="" group-title="Croatian Channel",TNT Kids 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/15132
+#EXTINF:-1 tvg-id="" tvg-name="Vavoom " tvg-logo="" group-title="Croatian Channel",Vavoom 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/15133
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="http://live-tv.uk:8080/images/92deb98ce66b32afbde9b113c948c5f4.png" group-title="Croatian Channel",Nick Jr
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/368
+#EXTINF:-1 tvg-id="" tvg-name="MTV Music" tvg-logo="http://live-tv.uk:8080/images/940a292d86ecffe903d213b4e973f694.png" group-title="Croatian Channel",MTV Music
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/442
+#EXTINF:-1 tvg-id="" tvg-name="MTV Adria" tvg-logo="http://live-tv.uk:8080/images/81e864969f1e0fe231e3eedf6f2213dc.jpg" group-title="Croatian Channel",MTV Adria
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/444
+#EXTINF:-1 tvg-id="jugoton-tv" tvg-name="Jugoton" tvg-logo="http://live-tv.uk:8080/images/26b694b7f19589d7a475c27aa3d8f708.png" group-title="Croatian Channel",Jugoton
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/2081
+#EXTINF:-1 tvg-id="cmc" tvg-name="CMC" tvg-logo="http://live-tv.uk:8080/images/993b301da1ae0db25c7a703231de3fc6.jpg" group-title="Croatian Channel",CMC
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/441
+#EXTINF:-1 tvg-id="" tvg-name="Masa i Medo" tvg-logo="" group-title="Croatian Channel",Masa i Medo
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/17874
+#EXTINF:-1 tvg-id="" tvg-name="***** Srpski Kanali  *****" tvg-logo="http://live-tv.uk:8080/images/c401f90459b8e489a130f075f51745e4.jpg" group-title="Serbian Channel",***** Srpski Kanali  *****
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/316
+#EXTINF:-1 tvg-id="Prva 1" tvg-name="Prva TV" tvg-logo="http://live-tv.uk:8080/images/1592e33ade8cbf0f8577afcdbf32a662.jpg" group-title="Serbian Channel",Prva TV
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/1953
+#EXTINF:-1 tvg-id="Prva Plus" tvg-name="Prva Plus" tvg-logo="http://live-tv.uk:8080/images/0a89b789629265b3561dea870dafab8f.png" group-title="Serbian Channel",Prva Plus
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/325
+#EXTINF:-1 tvg-id="Prva Max" tvg-name="Prva Max" tvg-logo="http://live-tv.uk:8080/images/8926e05f40457529e8b13bbc094c2148.png" group-title="Serbian Channel",Prva Max
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/326
+#EXTINF:-1 tvg-id="Prva World" tvg-name="Prva World" tvg-logo="http://live-tv.uk:8080/images/a393d542fc1e112d73c6e4a355ee9034.jpg" group-title="Serbian Channel",Prva World
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/327
+#EXTINF:-1 tvg-id="prva-life" tvg-name="Prva Life " tvg-logo="" group-title="Serbian Channel",Prva Life 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/12716
+#EXTINF:-1 tvg-id="" tvg-name="Prva Files " tvg-logo="" group-title="Serbian Channel",Prva Files 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/12704
+#EXTINF:-1 tvg-id="HRT 1" tvg-name="Prva Kick" tvg-logo="" group-title="Serbian Channel",Prva Kick
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/12703
+#EXTINF:-1 tvg-id="" tvg-name="RTS 1 HD" tvg-logo="http://live-tv.uk:8080/images/44907dbf6c908d9a0c75b1352208af84.png" group-title="Serbian Channel",RTS 1 HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/320
+#EXTINF:-1 tvg-id="RTS 1" tvg-name="RTS 1 (Backup)" tvg-logo="http://live-tv.uk:8080/images/31dde5b25a8c95d038469953aa62da70.png" group-title="Serbian Channel",RTS 1 (Backup)
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/317
+#EXTINF:-1 tvg-id="RTS 2" tvg-name="RTS 2 HD" tvg-logo="http://live-tv.uk:8080/images/73452a45f3c8fe7c38fcdf77e6e3dadf.png" group-title="Serbian Channel",RTS 2 HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/15945
+#EXTINF:-1 tvg-id="RTS 2" tvg-name="RTS 2 (Backup)" tvg-logo="http://live-tv.uk:8080/images/73452a45f3c8fe7c38fcdf77e6e3dadf.png" group-title="Serbian Channel",RTS 2 (Backup)
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/318
+#EXTINF:-1 tvg-id="RTS 3" tvg-name="RTS 3" tvg-logo="http://live-tv.uk:8080/images/4fcf03f577fbb5bb730faff0a0192027.png" group-title="Serbian Channel",RTS 3
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/319
+#EXTINF:-1 tvg-id="" tvg-name="RTS Sat" tvg-logo="http://live-tv.uk:8080/images/5a4c30c8f6ccd86ae694f9dea7a2afa6.jpg" group-title="Serbian Channel",RTS Sat
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/321
+#EXTINF:-1 tvg-id="rts-drama" tvg-name="RTS Drama" tvg-logo="" group-title="Serbian Channel",RTS Drama
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/8294
+#EXTINF:-1 tvg-id="rts-kolo" tvg-name="RTS Kolo" tvg-logo="" group-title="Serbian Channel",RTS Kolo
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/8295
+#EXTINF:-1 tvg-id="" tvg-name="RTS Muzika" tvg-logo="" group-title="Serbian Channel",RTS Muzika
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/8296
+#EXTINF:-1 tvg-id="rts-sat" tvg-name="RTS Svet" tvg-logo="" group-title="Serbian Channel",RTS Svet
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/8293
+#EXTINF:-1 tvg-id="rts-trezor" tvg-name="RTS Trezor" tvg-logo="" group-title="Serbian Channel",RTS Trezor
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/8297
+#EXTINF:-1 tvg-id="rts-zivot" tvg-name="RTS Zivot" tvg-logo="" group-title="Serbian Channel",RTS Zivot
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/8292
+#EXTINF:-1 tvg-id="" tvg-name="RTS Poletarac " tvg-logo="" group-title="Serbian Channel",RTS Poletarac 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/12718
+#EXTINF:-1 tvg-id="RTRS" tvg-name="RTRS" tvg-logo="http://live-tv.uk:8080/images/8a0b08e124b0cc289d02c9094c838033.png" group-title="Serbian Channel",RTRS
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/279
+#EXTINF:-1 tvg-id="RTRS PLUS" tvg-name="RTRS PLUS" tvg-logo="http://live-tv.uk:8080/images/3cb26540e0ce3be786f4f4f0199ff6bb.jpg" group-title="Serbian Channel",RTRS PLUS
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/280
+#EXTINF:-1 tvg-id="Nova S" tvg-name="Nova S" tvg-logo="http://live-tv.uk:8080/images/30f89ffbd02844dd6395863d1156d24a.png" group-title="Serbian Channel",Nova S
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/9423
+#EXTINF:-1 tvg-id="n1-rs" tvg-name="N 1 " tvg-logo="" group-title="Serbian Channel",N 1 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/9471
+#EXTINF:-1 tvg-id="" tvg-name="Euronews Srbija " tvg-logo="" group-title="Serbian Channel",Euronews Srbija 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16931
+#EXTINF:-1 tvg-id="" tvg-name="Tanjug Tv " tvg-logo="" group-title="Serbian Channel",Tanjug Tv 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16912
+#EXTINF:-1 tvg-id="" tvg-name="KCN 1" tvg-logo="http://live-tv.uk:8080/images/5604c39a0747d186288b515c2a32772a.jpg" group-title="Serbian Channel",KCN 1
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/2633
+#EXTINF:-1 tvg-id="k-cn-music" tvg-name="KCN 2" tvg-logo="http://live-tv.uk:8080/images/17c75c1afb77026a181e11328347f20b.png" group-title="Serbian Channel",KCN 2
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/2634
+#EXTINF:-1 tvg-id="" tvg-name="KCN 3" tvg-logo="http://live-tv.uk:8080/images/52c6df8efc1716e2a485a436e8197a8c.png" group-title="Serbian Channel",KCN 3
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/2635
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://i.imgur.com/bD4GnKk.jpg?1" group-title="Serbian Channel",Baby TV
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/7323
+#EXTINF:-1 tvg-id="" tvg-name="Pikaboo" tvg-logo="https://i.imgur.com/WXpgszw.jpg?1" group-title="Serbian Channel",Pikaboo
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/7325
+#EXTINF:-1 tvg-id="" tvg-name="Mini  TV" tvg-logo="http://live-tv.uk:8080/images/2abf53d8d1aa0796711c9a55d562a33d.png" group-title="Serbian Channel",Mini  TV
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/365
+#EXTINF:-1 tvg-id="" tvg-name="Tom And Jerry" tvg-logo="https://i.imgur.com/Mi6aaUP.jpg?1" group-title="Serbian Channel",Tom And Jerry
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/7326
+#EXTINF:-1 tvg-id="" tvg-name="Posavina TV" tvg-logo="http://live-tv.uk:8080/images/cf470ddc9cfc991658816fbf52934d4e.jpg" group-title="Serbian Channel",Posavina TV
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/440
+#EXTINF:-1 tvg-id="" tvg-name="Roma TV" tvg-logo="http://live-tv.uk:8080/images/89a7b3126e0bc116d6f582f1196e3b50.png" group-title="Serbian Channel",Roma TV
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/5781
+#EXTINF:-1 tvg-id="" tvg-name="Hype Tv" tvg-logo="" group-title="Serbian Channel",Hype Tv
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/17472
+#EXTINF:-1 tvg-id="" tvg-name="Happy TV" tvg-logo="http://live-tv.uk:8080/images/dc6e6058c367115a5ebea55dbeef1e61.jpg" group-title="Serbian Channel",Happy TV
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/324
+#EXTINF:-1 tvg-id="" tvg-name="Happy Zemlja " tvg-logo="" group-title="Serbian Channel",Happy Zemlja 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16909
+#EXTINF:-1 tvg-id="" tvg-name="Happy Parovi 24 Sata" tvg-logo="http://live-tv.uk:8080/images/388f715ebf4391c641c3ff6132a973d4.jpg" group-title="Serbian Channel",Happy Parovi 24 Sata
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/3956
+#EXTINF:-1 tvg-id="" tvg-name="Parovi 1 Uzivo" tvg-logo="http://live-tv.uk:8080/images/b1240035cac3611629d8e775d6aa181f.jpg" group-title="Serbian Channel",Parovi 1 Uzivo
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/3959
+#EXTINF:-1 tvg-id="" tvg-name="Parovi 2 Uzivo" tvg-logo="http://live-tv.uk:8080/images/388f715ebf4391c641c3ff6132a973d4.jpg" group-title="Serbian Channel",Parovi 2 Uzivo
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/3960
+#EXTINF:-1 tvg-id="" tvg-name="Minimax" tvg-logo="http://live-tv.uk:8080/images/9f6c752f54199172b33fd2cde453bf07.jpg" group-title="Serbian Channel",Minimax
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/364
+#EXTINF:-1 tvg-id="" tvg-name="RTV Novi Pazar" tvg-logo="https://i.imgur.com/ptde89Z.jpg?1" group-title="Serbian Channel",RTV Novi Pazar
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/330
+#EXTINF:-1 tvg-id="" tvg-name="Palma Plus" tvg-logo="http://live-tv.uk:8080/images/093effce7464b11c1b0071f63cffb9d1.jpg" group-title="Serbian Channel",Palma Plus
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/3967
+#EXTINF:-1 tvg-id="" tvg-name="B 92" tvg-logo="http://live-tv.uk:8080/images/808bcc14a4c1403e1793de2488ee3a66.png" group-title="Serbian Channel",B 92
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/323
+#EXTINF:-1 tvg-id="" tvg-name="Studio B" tvg-logo="https://i.imgur.com/KLlw2zt.jpg?1" group-title="Serbian Channel",Studio B
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/3966
+#EXTINF:-1 tvg-id="" tvg-name="Balkan Trip" tvg-logo="" group-title="Serbian Channel",Balkan Trip
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/17731
+#EXTINF:-1 tvg-id="" tvg-name="RTV Vojvodina" tvg-logo="http://live-tv.uk:8080/images/1e7ef765715028dbc25b631a9dd0f794.jpg" group-title="Serbian Channel",RTV Vojvodina
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/328
+#EXTINF:-1 tvg-id="" tvg-name="RTV Vojvodina 2" tvg-logo="http://live-tv.uk:8080/images/fae1b46b33ced8132233a8011bc1c60e.jpg" group-title="Serbian Channel",RTV Vojvodina 2
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/329
+#EXTINF:-1 tvg-id="" tvg-name="Hram Ortodox" tvg-logo="http://live-tv.uk:8080/images/be7f30f44a6047a5338d58e9530637fd.jpg" group-title="Serbian Channel",Hram Ortodox
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/3958
+#EXTINF:-1 tvg-id="" tvg-name="Kurir TV (Test)" tvg-logo="" group-title="Serbian Channel",Kurir TV (Test)
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16809
+#EXTINF:-1 tvg-id="" tvg-name="Pink M " tvg-logo="" group-title="Montenegro Channel",Pink M 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/13563
+#EXTINF:-1 tvg-id="" tvg-name="RTCG SAT" tvg-logo="http://live-tv.uk:8080/images/4c71e2777b8bb100a081cf99e80197b8.png" group-title="Montenegro Channel",RTCG SAT
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/331
+#EXTINF:-1 tvg-id="" tvg-name="RTCG 1" tvg-logo="http://live-tv.uk:8080/images/396c8e55aba73cbe46612440e1be98bd.jpg" group-title="Montenegro Channel",RTCG 1
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/2091
+#EXTINF:-1 tvg-id="" tvg-name="RTCG 2" tvg-logo="http://live-tv.uk:8080/images/396c8e55aba73cbe46612440e1be98bd.jpg" group-title="Montenegro Channel",RTCG 2
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/2090
+#EXTINF:-1 tvg-id="" tvg-name="Nova M" tvg-logo="" group-title="Montenegro Channel",Nova M
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/375
+#EXTINF:-1 tvg-id="" tvg-name="Vijesti CG" tvg-logo="http://live-tv.uk:8080/images/1024fa4a324b94d150e1556ae53f4355.jpg" group-title="Montenegro Channel",Vijesti CG
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/333
+#EXTINF:-1 tvg-id="tv-duga-sat" tvg-name="TV Duga" tvg-logo="http://live-tv.uk:8080/images/3d2f0cd502ed064bf92362719c2208aa.png" group-title="Serbian Channel",TV Duga
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/439
+#EXTINF:-1 tvg-id="HRT 1" tvg-name="SOS" tvg-logo="http://live-tv.uk:8080/images/adc6077c3c5d5fc7f91ba31519916c81.jpg" group-title="Serbian Channel",SOS
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/332
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC. HD" tvg-logo="" group-title="Serbian Channel",AMC. HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/10913
+#EXTINF:-1 tvg-id="filmbox-extra" tvg-name="Film Box Extra HD" tvg-logo="http://live-tv.uk:8080/images/5e711584b22f1d4d6c811f71300c91f1.png" group-title="Serbian Channel",Film Box Extra HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/356
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox Stars " tvg-logo="" group-title="Serbian Channel",FilmBox Stars 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16935
+#EXTINF:-1 tvg-id="" tvg-name="Film Box Premium " tvg-logo="" group-title="Serbian Channel",Film Box Premium 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16934
+#EXTINF:-1 tvg-id="" tvg-name="Red Tv " tvg-logo="" group-title="Serbian Channel",Red Tv 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/12720
+#EXTINF:-1 tvg-id="SuperStar TV" tvg-name="SuperStar TV" tvg-logo="" group-title="Serbian Channel",SuperStar TV
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/10435
+#EXTINF:-1 tvg-id="" tvg-name="SuperStar 2" tvg-logo="" group-title="Serbian Channel",SuperStar 2
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/12675
+#EXTINF:-1 tvg-id="tv1000-balkan" tvg-name="TV 1000 HD" tvg-logo="http://live-tv.uk:8080/images/e47898b4af4dd8a08ba5709aba257217.jpg" group-title="Serbian Channel",TV 1000 HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/351
+#EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic." tvg-logo="http://live-tv.uk:8080/images/e2492946f67ee673591330da19b4a058.png" group-title="Serbian Channel",National Geographic.
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/2622
+#EXTINF:-1 tvg-id="ng-wild-hd" tvg-name="Nat. Geo Wild" tvg-logo="http://live-tv.uk:8080/images/fba6f05232e79cfd4900a5370058fae3.png" group-title="Serbian Channel",Nat. Geo Wild
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/2623
+#EXTINF:-1 tvg-id="history-channel" tvg-name="History Channel" tvg-logo="http://live-tv.uk:8080/images/c5143d3b9f72c456a8a0d380f6cb761e.png" group-title="Serbian Channel",History Channel
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/3965
+#EXTINF:-1 tvg-id="History 2 Channel" tvg-name="History 2. Channel" tvg-logo="http://live-tv.uk:8080/images/138f4bcacd71f460cc49718d8580bd1e.jpg" group-title="Serbian Channel",History 2. Channel
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/2621
+#EXTINF:-1 tvg-id="discovery-europe" tvg-name="DiscoveryChannel" tvg-logo="http://live-tv.uk:8080/images/b6f99add50abfe446318635cde7f2b2f.jpg" group-title="Serbian Channel",DiscoveryChannel
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/2619
+#EXTINF:-1 tvg-id="investigation-discovery" tvg-name="Discovery ID Extra." tvg-logo="http://live-tv.uk:8080/images/52dcce19e9cdc9cbe6c555500ed4aca4.jpg" group-title="Serbian Channel",Discovery ID Extra.
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/2626
+#EXTINF:-1 tvg-id="discovery-animal" tvg-name="Animal Planet." tvg-logo="http://live-tv.uk:8080/images/961d97f07322d899516672ea6bee53e7.png" group-title="Serbian Channel",Animal Planet.
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/2624
+#EXTINF:-1 tvg-id="lov-i-ribolov" tvg-name="Lov & Ribolov" tvg-logo="http://live-tv.uk:8080/images/61d4411f7e2d7055c5b20770b40ad893.png" group-title="Serbian Channel",Lov & Ribolov
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/420
+#EXTINF:-1 tvg-id="discovery-tlc" tvg-name="TLC HD." tvg-logo="http://live-tv.uk:8080/images/9e4eef596ef7bcb503d8968ab0807f62.jpg" group-title="Serbian Channel",TLC HD.
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/2625
+#EXTINF:-1 tvg-id="" tvg-name="Balkanika" tvg-logo="http://live-tv.uk:8080/images/6f1ea8b6ea0c9059ed17cd2a8f96b629.png" group-title="Serbian Channel",Balkanika
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/2082
+#EXTINF:-1 tvg-id="grand-narodna-tv" tvg-name="Grand TV" tvg-logo="http://live-tv.uk:8080/images/70dbee474edaabbe7d1047ecf52ea7f2.jpg" group-title="Serbian Channel",Grand TV
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/427
+#EXTINF:-1 tvg-id="" tvg-name="Grand TV 2" tvg-logo="http://live-tv.uk:8080/images/8fe7705b94dcad36cbfccfa37d6c4854.jpg" group-title="Serbian Channel",Grand TV 2
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/3957
+#EXTINF:-1 tvg-id="" tvg-name="YU Planet " tvg-logo="http://live-tv.uk:8080/images/5badb4a2ed4605dffdcabf7889f92150.png" group-title="Serbian Channel",YU Planet 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/3962
+#EXTINF:-1 tvg-id="" tvg-name="DM Sat" tvg-logo="http://live-tv.uk:8080/images/cbe5a2c73744d9f36d7d0b41f88eec1e.png" group-title="Serbian Channel",DM Sat
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/428
+#EXTINF:-1 tvg-id="" tvg-name="Tv Toxic " tvg-logo="" group-title="Serbian Channel",Tv Toxic 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/12715
+#EXTINF:-1 tvg-id="" tvg-name="Tv Toxic Folk" tvg-logo="" group-title="Serbian Channel",Tv Toxic Folk
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16127
+#EXTINF:-1 tvg-id="" tvg-name="Imperia Tv " tvg-logo="" group-title="Serbian Channel",Imperia Tv 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16918
+#EXTINF:-1 tvg-id="" tvg-name="Blic TV" tvg-logo="" group-title="Serbian Channel",Blic TV
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/17906
+#EXTINF:-1 tvg-id="" tvg-name="Agro TV " tvg-logo="" group-title="Serbian Channel",Agro TV 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/15754
+#EXTINF:-1 tvg-id="" tvg-name="IDJ TV" tvg-logo="" group-title="Serbian Channel",IDJ TV
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/15507
+#EXTINF:-1 tvg-id="" tvg-name="***** Pink  Kanali *****" tvg-logo="" group-title="Pink Channel",***** Pink  Kanali *****
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/370
+#EXTINF:-1 tvg-id="pink" tvg-name="Pink" tvg-logo="" group-title="Pink Channel",Pink
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/372
+#EXTINF:-1 tvg-id="Pink 3 Info" tvg-name="Pink Vesti" tvg-logo="" group-title="Pink Channel",Pink Vesti
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/374
+#EXTINF:-1 tvg-id="pink-world-cinema" tvg-name="Pink World Cinema" tvg-logo="" group-title="Pink Channel",Pink World Cinema
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/396
+#EXTINF:-1 tvg-id="pink-western" tvg-name="Pink Western" tvg-logo="" group-title="Pink Channel",Pink Western
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/380
+#EXTINF:-1 tvg-id="pink-comedy" tvg-name="Pink Comedy" tvg-logo="" group-title="Pink Channel",Pink Comedy
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/389
+#EXTINF:-1 tvg-id="pink-movies" tvg-name="Pink Movies" tvg-logo="" group-title="Pink Channel",Pink Movies
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/384
+#EXTINF:-1 tvg-id="pink-action" tvg-name="Pink Action" tvg-logo="" group-title="Pink Channel",Pink Action
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/394
+#EXTINF:-1 tvg-id="pink-action-2" tvg-name="Pink Thriller" tvg-logo="" group-title="Pink Channel",Pink Thriller
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/383
+#EXTINF:-1 tvg-id="pink-world" tvg-name="Pink World" tvg-logo="" group-title="Pink Channel",Pink World
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/395
+#EXTINF:-1 tvg-id="pink-horror" tvg-name="Pink Horror" tvg-logo="" group-title="Pink Channel",Pink Horror
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/388
+#EXTINF:-1 tvg-id="pink-film" tvg-name="Pink Film" tvg-logo="" group-title="Pink Channel",Pink Film
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/378
+#EXTINF:-1 tvg-id="pink-serije" tvg-name="Pink Serije" tvg-logo="" group-title="Pink Channel",Pink Serije
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/14760
+#EXTINF:-1 tvg-id="pink-classic" tvg-name="Pink Classic" tvg-logo="" group-title="Pink Channel",Pink Classic
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/381
+#EXTINF:-1 tvg-id="pink-zabava" tvg-name="Pink Zabava" tvg-logo="" group-title="Pink Channel",Pink Zabava
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/379
+#EXTINF:-1 tvg-id="pink-kids" tvg-name="Pink Kids" tvg-logo="" group-title="Pink Channel",Pink Kids
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/363
+#EXTINF:-1 tvg-id="pink-soap" tvg-name="Pink Soap" tvg-logo="" group-title="Pink Channel",Pink Soap
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/391
+#EXTINF:-1 tvg-id="" tvg-name="Pink Show " tvg-logo="" group-title="Pink Channel",Pink Show 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/15223
+#EXTINF:-1 tvg-id="pink-movies-3" tvg-name="Pink SCI-FI & Fantasy" tvg-logo="" group-title="Pink Channel",Pink SCI-FI & Fantasy
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/385
+#EXTINF:-1 tvg-id="pink-action-3" tvg-name="Pink Crime & Mystery" tvg-logo="" group-title="Pink Channel",Pink Crime & Mystery
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/386
+#EXTINF:-1 tvg-id="pink-movies-2" tvg-name="Pink Romance" tvg-logo="" group-title="Pink Channel",Pink Romance
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/387
+#EXTINF:-1 tvg-id="pink-reality" tvg-name="Pink Reality" tvg-logo="" group-title="Pink Channel",Pink Reality
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/392
+#EXTINF:-1 tvg-id="pink-premium" tvg-name="Pink Premium" tvg-logo="" group-title="Pink Channel",Pink Premium
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/382
+#EXTINF:-1 tvg-id="pink-plus" tvg-name="Pink Plus" tvg-logo="" group-title="Pink Channel",Pink Plus
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/376
+#EXTINF:-1 tvg-id="pink-pedia" tvg-name="Pink Pedia" tvg-logo="" group-title="Pink Channel",Pink Pedia
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/390
+#EXTINF:-1 tvg-id="pink-kuvar" tvg-name="Pink Kuvar" tvg-logo="" group-title="Pink Channel",Pink Kuvar
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/393
+#EXTINF:-1 tvg-id="pink-folk" tvg-name="Pink Folk 1" tvg-logo="" group-title="Pink Channel",Pink Folk 1
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/429
+#EXTINF:-1 tvg-id="pink-folk-2" tvg-name="Pink Folk 2" tvg-logo="" group-title="Pink Channel",Pink Folk 2
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/430
+#EXTINF:-1 tvg-id="pink-music" tvg-name="Pink Music" tvg-logo="" group-title="Pink Channel",Pink Music
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/431
+#EXTINF:-1 tvg-id="pink-music-2" tvg-name="Pink Music 2" tvg-logo="" group-title="Pink Channel",Pink Music 2
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/432
+#EXTINF:-1 tvg-id="pink-koncert" tvg-name="Pink Koncert" tvg-logo="" group-title="Pink Channel",Pink Koncert
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/14761
+#EXTINF:-1 tvg-id="pink-hits" tvg-name="Pink Hits 1 " tvg-logo="" group-title="Pink Channel",Pink Hits 1 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/12705
+#EXTINF:-1 tvg-id="pink-hits-2" tvg-name="Pink Hits 2 " tvg-logo="" group-title="Pink Channel",Pink Hits 2 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/12706
+#EXTINF:-1 tvg-id="pink-ha-ha" tvg-name="Pink HaHa" tvg-logo="" group-title="Pink Channel",Pink HaHa
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/434
+#EXTINF:-1 tvg-id="pink-extra" tvg-name="Pink Extra" tvg-logo="" group-title="Pink Channel",Pink Extra
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/377
+#EXTINF:-1 tvg-id="" tvg-name="Narodna TV (Test)" tvg-logo="" group-title="Pink Channel",Narodna TV (Test)
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/17956
+#EXTINF:-1 tvg-id="" tvg-name="Pink Zadruga 1 " tvg-logo="" group-title="Pink Channel",Pink Zadruga 1 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/9424
+#EXTINF:-1 tvg-id="" tvg-name="Pink Zadruga 2 " tvg-logo="" group-title="Pink Channel",Pink Zadruga 2 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/9425
+#EXTINF:-1 tvg-id="" tvg-name="Pink Zadruga 3 " tvg-logo="" group-title="Pink Channel",Pink Zadruga 3 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/9426
+#EXTINF:-1 tvg-id="" tvg-name="Pink Zadruga 4 " tvg-logo="" group-title="Pink Channel",Pink Zadruga 4 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/9427
+#EXTINF:-1 tvg-id="" tvg-name="RTCG 3" tvg-logo="" group-title="Montenegro Channel",RTCG 3
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16126
+#EXTINF:-1 tvg-id="" tvg-name="Prva Cg" tvg-logo="" group-title="Montenegro Channel",Prva Cg
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/16125
+#EXTINF:-1 tvg-id="" tvg-name="***** Slovenski Kanali *****" tvg-logo="https://i.imgur.com/Gm8uxiU.jpg" group-title="Slovenian Channel",***** Slovenski Kanali *****
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/397
+#EXTINF:-1 tvg-id="" tvg-name="SLO 1 HD" tvg-logo="" group-title="Slovenian Channel",SLO 1 HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/398
+#EXTINF:-1 tvg-id="" tvg-name="SLO 3 HD" tvg-logo="" group-title="Slovenian Channel",SLO 3 HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/10837
+#EXTINF:-1 tvg-id="" tvg-name="SLO 2 HD" tvg-logo="" group-title="Slovenian Channel",SLO 2 HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/399
+#EXTINF:-1 tvg-id="" tvg-name="POP TV HD" tvg-logo="" group-title="Slovenian Channel",POP TV HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/402
+#EXTINF:-1 tvg-id="" tvg-name="POP OTO" tvg-logo="" group-title="Slovenian Channel",POP OTO
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/409
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="Slovenian Channel",HBO
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/404
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="" group-title="Slovenian Channel",HBO 2
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/405
+#EXTINF:-1 tvg-id="" tvg-name="Kanal A" tvg-logo="" group-title="Slovenian Channel",Kanal A
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/400
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="Slovenian Channel",AMC HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/343
+#EXTINF:-1 tvg-id="" tvg-name="Nova 24 " tvg-logo="" group-title="Slovenian Channel",Nova 24 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/416
+#EXTINF:-1 tvg-id="" tvg-name="***********Macedonia**************" tvg-logo="https://i.imgur.com/2joP85g.png" group-title="Macedonian Channel",***********Macedonia**************
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/676
+#EXTINF:-1 tvg-id="mrt1" tvg-name="MPT 1 HD" tvg-logo="" group-title="Macedonian Channel",MPT 1 HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/677
+#EXTINF:-1 tvg-id="mrt2" tvg-name="MPT 2 HD" tvg-logo="" group-title="Macedonian Channel",MPT 2 HD
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/678
+#EXTINF:-1 tvg-id="" tvg-name="MRT 1" tvg-logo="" group-title="Macedonian Channel",MRT 1
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/492
+#EXTINF:-1 tvg-id="" tvg-name="MRT 2" tvg-logo="" group-title="Macedonian Channel",MRT 2
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/493
+#EXTINF:-1 tvg-id="" tvg-name="MRT 3" tvg-logo="" group-title="Macedonian Channel",MRT 3
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/494
+#EXTINF:-1 tvg-id="sitel" tvg-name="Sitel" tvg-logo="" group-title="Macedonian Channel",Sitel
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/502
+#EXTINF:-1 tvg-id="" tvg-name="Tera Bitola " tvg-logo="" group-title="Macedonian Channel",Tera Bitola 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/15410
+#EXTINF:-1 tvg-id="" tvg-name="Sitel 2 " tvg-logo="" group-title="Macedonian Channel",Sitel 2 
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/15411
+#EXTINF:-1 tvg-id="" tvg-name="Sutel" tvg-logo="" group-title="Macedonian Channel",Sutel
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/508
+#EXTINF:-1 tvg-id="" tvg-name="Alfa TV" tvg-logo="" group-title="Macedonian Channel",Alfa TV
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/1929
+#EXTINF:-1 tvg-id="" tvg-name="Hugo 1 TV" tvg-logo="" group-title="Macedonian Channel",Hugo 1 TV
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/497
+#EXTINF:-1 tvg-id="" tvg-name="Hugo 2 TV" tvg-logo="" group-title="Macedonian Channel",Hugo 2 TV
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/498
+#EXTINF:-1 tvg-id="" tvg-name="TV Plus" tvg-logo="" group-title="Macedonian Channel",TV Plus
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/679
+#EXTINF:-1 tvg-id="" tvg-name="24 Vesti MK" tvg-logo="" group-title="Macedonian Channel",24 Vesti MK
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/506
+#EXTINF:-1 tvg-id="" tvg-name="TV Nova" tvg-logo="" group-title="Macedonian Channel",TV Nova
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/496
+#EXTINF:-1 tvg-id="" tvg-name="MRT Sobraniski" tvg-logo="" group-title="Macedonian Channel",MRT Sobraniski
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/495
+#EXTINF:-1 tvg-id="" tvg-name="Spektra" tvg-logo="" group-title="Macedonian Channel",Spektra
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/15222
+#EXTINF:-1 tvg-id="" tvg-name="Nasa TV" tvg-logo="" group-title="Macedonian Channel",Nasa TV
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/680
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 5" tvg-logo="" group-title="Macedonian Channel",Kanal 5
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/499
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 5 Plus" tvg-logo="" group-title="Macedonian Channel",Kanal 5 Plus
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/500
+#EXTINF:-1 tvg-id="" tvg-name="Sky Folk" tvg-logo="" group-title="Macedonian Channel",Sky Folk
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/507
+#EXTINF:-1 tvg-id="" tvg-name="TV+ Kumanovo" tvg-logo="" group-title="Macedonian Channel",TV+ Kumanovo
+http://89.248.173.158:8080/DenkoNaskov/NaskovDenko/505
+#EXTINF:-1 tvg-id="" tvg-name="Telma" tvg-logo="" group-title="Macedonian Channel",Telma
