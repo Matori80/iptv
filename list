@@ -1,5 +1,12 @@
+# KANALI SRBIJA
 #EXTINF:-1 tvg-id="n1.rs" tvg-name="SRB: N1 TV (SR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/n1-logo.png" group-title="SRB âž¾ SERBIA",SRB: N1 TV (SR)
 http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68026
+#EXTINF:-1 tvg-id="n1.rs" tvg-name="SRB: N1 dodatni TV (SR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/n1-logo.png" group-title="SRB âž¾ SERBIA",SRB: N1 dodatno TV (SR)
+http://hgfsd54w.site:2086/alibalkan/QsJB7qt2hFsF/128992
+#EXTINF:-1 tvg-id="n1.rs" tvg-name="SRB: Nova S (SR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/n1-logo.png" group-title="SRB âž¾ SERBIA",SRB:Nova S (SR)
+http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68021
+#EXTINF:-1 tvg-id="n1.rs" tvg-name="SRB: Nova S dodatni TV (SR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/n1-logo.png" group-title="SRB âž¾ SERBIA",SRB: Nova S dodatno TV (SR)
+http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/82999
 #EXTINF:-1 tvg-id="" tvg-name="SRB: RTV VOJVODINA 1" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/rtv-vojvodina.jpg" group-title="SRB âž¾ SERBIA",SRB: RTV VOJVODINA 1
 http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68028
 #EXTINF:-1 tvg-id="" tvg-name="SRB: PINK TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pink-logo.png" group-title="SRB âž¾ SERBIA",SRB: PINK TV
@@ -21,6 +28,7 @@ http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68036
 #EXTINF:-1 tvg-id="" tvg-name="SRB: RTS 3" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/rts-3-logo.png" group-title="SRB âž¾ SERBIA",SRB: RTS 3
 http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68037
 
+# KANALI HRVATSKA
 #EXTINF:-1 tvg-id="" tvg-name="HRV: HRT 1" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/hrt-1-logo.png" group-title="HRV âž¾ CROATIA",HRV: HRT 1
 http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68038
 #EXTINF:-1 tvg-id="" tvg-name="HRV: HRT 2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/hrt-2-logo.png" group-title="HRV âž¾ CROATIA",HRV: HRT 2
@@ -34,6 +42,7 @@ http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68042
 #EXTINF:-1 tvg-id="" tvg-name="HRV: RTL" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/rtl-logo.png" group-title="HRV âž¾ CROATIA",HRV: RTL
 http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68043
 
+# KANALI BOSNA I HERCEGOVINA
 #EXTINF:-1 tvg-id="" tvg-name="BIH: BHT 1" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bht-1-logo.png" group-title="BIH âž¾ BOSNIA",BIH: BHT 1
 http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68044
 #EXTINF:-1 tvg-id="" tvg-name="BIH: FEDERALNA TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/federalna-tv-logo.png" group-title="BIH âž¾ BOSNIA",BIH: FEDERALNA TV
@@ -45,6 +54,7 @@ http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68047
 #EXTINF:-1 tvg-id="" tvg-name="BIH: AL JAZEERA BALKAN" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/al-jazeera-balkan-logo.png" group-title="BIH âž¾ BOSNIA",BIH: AL JAZEERA BALKAN
 http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68048
 
+# SPORTSKI KANALI (EX-YU)
 #EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Arena Sport 1 HD (EX-YU)" tvg-logo="" group-title="WS âž¾ WORLD SPORTS",VIP SPORT: Arena Sport 1 HD (EX-YU)
 http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/48700
 #EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Arena Sport 2 HD (EX-YU)" tvg-logo="" group-title="WS âž¾ WORLD SPORTS",VIP SPORT: Arena Sport 2 HD (EX-YU)
@@ -65,3 +75,53 @@ http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/48707
 http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/48708
 #EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Sport Klub 6 HD (EX-YU)" tvg-logo="" group-title="WS âž¾ WORLD SPORTS",VIP SPORT: Sport Klub 6 HD (EX-YU)
 http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/48709
+
+# OSTALI EX-YU KANALI
+#EXTINF:-1 tvg-id="" tvg-name="NOVA S" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/nova-s-logo.png" group-title="EX-YU âž¾ BALKAN",NOVA S
+http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68049
+#EXTINF:-1 tvg-id="" tvg-name="NOVA M" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/nova-m-logo.png" group-title="EX-YU âž¾ BALKAN",NOVA M
+http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68050
+#EXTINF:-1 tvg-id="" tvg-name="NOVA BH" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/nova-bh-logo.png" group-title="EX-YU âž¾ BALKAN",NOVA BH
+http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68051
+#EXTINF:-1 tvg-id="" tvg-name="PINK BH" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pink-bh-logo.png" group-title="EX-YU âž¾ BALKAN",PINK BH
+http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68052
+#EXTINF:-1 tvg-id="" tvg-name="PINK M" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pink-m-logo.png" group-title="EX-YU âž¾ BALKAN",PINK M
+http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68053
+#EXTINF:-1 tvg-id="" tvg-name="RTV 1 MNE" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/rtv-1-mne-logo.png" group-title="EX-YU âž¾ BALKAN",RTV 1 MNE
+http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68054
+#EXTINF:-1 tvg-id="" tvg-name="RTV 2 MNE" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/rtv-2-mne-logo.png" group-title="EX-YU âž¾ BALKAN",RTV 2 MNE
+http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68055
+#EXTINF:-1 tvg-id="" tvg-name="RTL HRVATSKA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/rtl-hrvatska-logo.png" group-title="EX-YU âž¾ BALKAN",RTL HRVATSKA
+http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68056
+#EXTINF:-1 tvg-id="" tvg-name="RTL 2 HRVATSKA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/rtl-2-hrvatska-logo.png" group-title="EX-YU âž¾ BALKAN",RTL 2 HRVATSKA
+http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68057
+#EXTINF:-1 tvg-id="" tvg-name="POP TV SLO" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/pop-tv-logo.png" group-title="EX-YU âž¾ BALKAN",POP TV SLO
+http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68058
+#EXTINF:-1 tvg-id="" tvg-name="KANAL A SLO" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/kanal-a-logo.png" group-title="EX-YU âž¾ BALKAN",KANAL A SLO
+http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68059
+#EXTINF:-1 tvg-id="" tvg-name="MREZA HR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/mreza-logo.png" group-title="EX-YU âž¾ BALKAN",MREZA HR
+http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68060
+#EXTINF:-1 tvg-id="" tvg-name="DIZI TV EX-YU" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/dizi-tv-logo.png" group-title="EX-YU âž¾ BALKAN",DIZI TV EX-YU
+http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68061
+#EXTINF:-1 tvg-id="" tvg-name="FILM TV EX-YU" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/film-tv-logo.png" group-title="EX-YU âž¾ BALKAN",FILM TV EX-YU
+http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68062
+#EXTINF:-1 tvg-id="" tvg-name="FOX TV EX-YU" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/fox-tv-logo.png" group-title="EX-YU âž¾ BALKAN",FOX TV EX-YU
+http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68063
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE EX-YU" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/fox-life-logo.png" group-title="EX-YU âž¾ BALKAN",FOX LIFE EX-YU
+http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68064
+#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES EX-YU" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/fox-movies-logo.png" group-title="EX-YU âž¾ BALKAN",FOX MOVIES EX-YU
+http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68065
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC EX-YU" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/nat-geo-logo.png" group-title="EX-YU âž¾ BALKAN",NATIONAL GEOGRAPHIC EX-YU
+http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68066
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY EX-YU" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/discovery-logo.png" group-title="EX-YU âž¾ BALKAN",DISCOVERY EX-YU
+http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68067
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE EX-YU" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/discovery-science-logo.png" group-title="EX-YU âž¾ BALKAN",DISCOVERY SCIENCE EX-YU
+http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68068
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY EX-YU" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/history-logo.png" group-title="EX-YU âž¾ BALKAN",HISTORY EX-YU
+http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68069
+#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT EX-YU" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/e-entertainment-logo.png" group-title="EX-YU âž¾ BALKAN",E! ENTERTAINMENT EX-YU
+http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68070
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK EX-YU" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/cartoon-network-logo.png" group-title="EX-YU âž¾ BALKAN",CARTOON NETWORK EX-YU
+http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68071
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON EX-YU" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/nickelodeon-logo.png" group-title="EX-YU âž¾ BALKAN",NICKELODEON EX-YU
+http://melojoker.xyz:8080/Pv3vmyr3Jt/KH5SAda7nh/68072
