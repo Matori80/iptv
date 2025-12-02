@@ -1,7 +1,7 @@
 Sw#EXTM3U
 #EXTINF:-1,N1 Srbija
 http://tv.nova-iptv.com:80/Svabo874WA/iedX0ADd5o/9271
-#EXTINF:-1,NNova Srbija
+#EXTINF:-1,Nova Srbija
 http://tv.nova-iptv.com:80/Svabo874WA/iedX0ADd5o/9274
 #EXTINF:-1,Arena Sport 1 HD
 http://185.166.252.230/Arena1/index.m3u8
@@ -185,3 +185,4 @@ http://185.166.252.230/DaVinci/index.m3u8
 http://185.166.252.230/SuperOne/index.m3u8
 #EXTINF:-1,Hustler
 http://185.166.252.230/Hustler/index.m3u8
+
