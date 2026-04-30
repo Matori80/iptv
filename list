@@ -1,177 +1,294 @@
-Sw#EXTM3U
-#EXTINF:-1,N1 Srbija
-http://tv.nova-iptv.com:80/Svabo874WA/iedX0ADd5o/9271
-#EXTINF:-1,Nova Srbija
-http://tv.nova-iptv.com:80/Svabo874WA/iedX0ADd5o/9274
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/777_logo.png" group-title="|EX| ✪ MONTENEGRO",|MNE| TV 777 PODGORICA
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33011&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Nova_M_logo.png" group-title="|EX| ✪ MONTENEGRO",|MNE| NOVA M
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33012&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Nova_M_logo.png" group-title="|EX| ✪ MONTENEGRO",|MNE| NOVA M
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33013&extension=ts
-#EXTINF:-1 tvg-logo="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F8a8995cf5e3427ae.2Epng/1200x630/crop-from/top/quality/80/pink-tv.png" group-title="|EX| ✪ MONTENEGRO",|MNE| RTCG PARLAMENTARNI
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33014&extension=ts
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/crne_gore_tv_sat.jpg" group-title="|EX| ✪ MONTENEGRO",|MNE| PRVA TV CG
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33015&extension=ts
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/crne_gore_tv_1.jpg" group-title="|EX| ✪ MONTENEGRO",|MNE| RTCG 1
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33016&extension=ts
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/crne_gore_tv_2.jpg" group-title="|EX| ✪ MONTENEGRO",|MNE| RTCG 2
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33017&extension=ts
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/crne_gore_tv_1.jpg" group-title="|EX| ✪ MONTENEGRO",|MNE| RTCG SAT
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33018&extension=ts
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_vijesti_me.jpg" group-title="|EX| ✪ MONTENEGRO",|MNE| TV VIJESTI
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33019&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/NEDERLAND/ANIMALPLANET.png" group-title="|EX| ✪ CROATIA",ANIMAL PLANET
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33098&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/NEDERLAND/ANIMALPLANET.png" group-title="|EX| ✪ CROATIA",|CRO| ANIMAL PLANET ᵁᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33097&extension=ts
-#EXTINF:-1 tvg-logo="https://tvaurora.tv/wp-content/uploads/2020/03/Logo-480-7.png" group-title="|EX| ✪ CROATIA",|CRO| AURORA TV ᵁᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33109&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/AXNSPIN.png" group-title="|EX| ✪ CROATIA",|CRO| AXN ADRIA
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33110&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/AXNSPIN.png" group-title="|EX| ✪ CROATIA",|CRO| AXN SPIN
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33112&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/AXNSPIN.png" group-title="|EX| ✪ CROATIA",|CRO| AXN [MULTI-SUB]
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33111&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/NEDERLAND~/BABYTV.png" group-title="|EX| ✪ CROATIA",|CRO| BABY TV
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33113&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/5070.png" group-title="|EX| ✪ CROATIA",|CRO| BOOMERANG
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33115&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/Cinemax1HD.png" group-title="|EX| ✪ CROATIA",|CRO| CINEMAX 1
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33118&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/Cinemax1HD.png" group-title="|EX| ✪ CROATIA",|CRO| CINEMAX 1 ᵁᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33117&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/CINEMAX2.png" group-title="|EX| ✪ CROATIA",|CRO| CINEMAX 2
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33119&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/cinestar-zagreb.png" group-title="|EX| ✪ CROATIA",|CRO| CINESTAR COMEDY ᵁᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33121&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/CINESTARFANTASY.png" group-title="|EX| ✪ CROATIA",|CRO| CINESTAR FANTASY
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33122&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/CINESTARPREMIERE1.png" group-title="|EX| ✪ CROATIA",|CRO| CINESTAR PREMIERE 1 ᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33123&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/CINESTARPREMIERE2.png" group-title="|EX| ✪ CROATIA",|CRO| CINESTAR PREMIERE 2 ᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33124&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/CMCMUSIC.png" group-title="|EX| ✪ CROATIA",CMC
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33125&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/CRIMEINVESTIGATION.png" group-title="|EX| ✪ CROATIA",|CRO| CRIME INVESTIGATION
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33127&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/DAVINCI%20LEARNING.png" group-title="|EX| ✪ CROATIA",|CRO| DA VINCI KIDS
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33128&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/AMERICA/CARIBBIEAN/DISCOVERY-CHANNEL.png" group-title="|EX| ✪ CROATIA",|CRO| DISCOVERY CHANNEL
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33129&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/DISCOVERYCHANNEL.png" group-title="|EX| ✪ CROATIA",|CRO| DISCOVERY CHANNEL [B]
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33130&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/DISCOVERYCHANNEL.png" group-title="|EX| ✪ CROATIA",|CRO| DISCOVERY ID ᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33131&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/diva.png" group-title="|EX| ✪ CROATIA",|CRO| DIVA
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33133&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/DOCU-BOX-HD.png" group-title="|EX| ✪ CROATIA",|CRO| DOCUBOX ᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33135&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/DOMATV.png" group-title="|EX| ✪ CROATIA",|CRO| DOMA TV
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=14942&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/DOMATV.png" group-title="|EX| ✪ CROATIA",|CRO| DOMA TV ᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=14941&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/DOMATV.png" group-title="|EX| ✪ CROATIA",|CRO| DOMA TV ᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33136&extension=ts
-#EXTINF:-1 tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/33/57/epicdramahd_logo_16_9_light_160x90_108f92b0_205a_42ab_8b8f_c6226a2a41fb.png" group-title="|EX| ✪ CROATIA",|CRO| EPIC DRAMA ᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33138&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="|EX| ✪ CROATIA",|CRO| EXTRA TV
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33139&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/FIGHTCHANEL.png" group-title="|EX| ✪ CROATIA",|CRO| FIGHT CHANNEL
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33140&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/NEDERLAND~/FOODNETWORK.png" group-title="|EX| ✪ CROATIA",|CRO| FOOD NETWORK
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33142&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/FOXCRIMEHD.png" group-title="|EX| ✪ CROATIA",|CRO| FOX CRIME ᵁᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33143&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/FOX%20Life.png" group-title="|EX| ✪ CROATIA",|CRO| FOX LIFE ᵁᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33145&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/FOX%20Movies.png" group-title="|EX| ✪ CROATIA",|CRO| FOX MOVIES
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33147&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/FOX%20Movies.png" group-title="|EX| ✪ CROATIA",|CRO| FOX MOVIES ᵁᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33146&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/HISTORY2.png" group-title="|EX| ✪ CROATIA",|CRO| H2 ᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33148&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/USA/HBO.png" group-title="|EX| ✪ CROATIA",|CRO| HBO 2 ᵁᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33149&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/3535.png" group-title="|EX| ✪ CROATIA",|CRO| HBO 2 ᵁᴴᴰ [B]
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33150&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/3535.png" group-title="|EX| ✪ CROATIA",|CRO| HBO 3 ᵁᴴᴰ [B]
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33151&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/3535.png" group-title="|EX| ✪ CROATIA",|CRO| HBO 3 ᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33152&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/3535.png" group-title="|EX| ✪ CROATIA",|CRO| HBO ADRIA
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33154&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/3535.png" group-title="|EX| ✪ CROATIA",|CRO| HBO ADRIA ᵁᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33153&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/3535.png" group-title="|EX| ✪ CROATIA",|CRO| HBO ᵁᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33155&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/3535.png" group-title="|EX| ✪ CROATIA",|CRO| HBO ᵁᴴᴰ [B]
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33156&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/HITBRCKO.png" group-title="|EX| ✪ CROATIA",|CRO| HIT TELEVIZIJA ᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33159&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/HRT%201.png" group-title="|EX| ✪ CROATIA",|CRO| HRT 1
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=14940&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/HRT%201.png" group-title="|EX| ✪ CROATIA",|CRO| HRT 1 ᵁᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33161&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/HRT%201.png" group-title="|EX| ✪ CROATIA",|CRO| HRT 1 ᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33162&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/HRT2HD.png" group-title="|EX| ✪ CROATIA",|CRO| HRT 2
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=14939&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/HRT2HD.png" group-title="|EX| ✪ CROATIA",|CRO| HRT 2 ᵁᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33163&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/HRT2HD.png" group-title="|EX| ✪ CROATIA",|CRO| HRT 2 ᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33164&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/HRT3.png" group-title="|EX| ✪ CROATIA",|CRO| HRT 3
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=14938&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/HRT3.png" group-title="|EX| ✪ CROATIA",|CRO| HRT 3 ᵁᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33165&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/HRT3.png" group-title="|EX| ✪ CROATIA",|CRO| HRT 3 ᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33166&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/HRT4.png" group-title="|EX| ✪ CROATIA",|CRO| HRT 4
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=14937&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/HRT%204.png" group-title="|EX| ✪ CROATIA",|CRO| HRT 4 ᵁᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33167&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/HRT%204.png" group-title="|EX| ✪ CROATIA",|CRO| HRT 4 ᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33168&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/HRT%201.png" group-title="|EX| ✪ CROATIA",|CRO| HRT INTERNATIONAL
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33169&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Jabukatvlogo.png" group-title="|EX| ✪ CROATIA",|CRO| JABUKA TV
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33170&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hr/9/9a/Tv_jadran_logo.png" group-title="|EX| ✪ CROATIA",|CRO| JADRAN TV
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33171&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/JUGOTON.png" group-title="|EX| ✪ CROATIA",|CRO| JUGOTON TV
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33172&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/kanal-ri-.png" group-title="|EX| ✪ CROATIA",|CRO| KANAL RI
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33173&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/KINO_TV_.png" group-title="|EX| ✪ CROATIA",|CRO| KINO TV ᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33174&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/24KITCHEN.png" group-title="|EX| ✪ CROATIA",|CRO| KITCHEN TV
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33175&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/KLASIKTV.png" group-title="|EX| ✪ CROATIA",|CRO| KLASIK TV
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33176&extension=ts
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/LaudatoTV_logo.png" group-title="|EX| ✪ CROATIA",|CRO| LAUDATO TV
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=14923&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/laudato-tv.png" group-title="|EX| ✪ CROATIA",|CRO| LAUDATO TV
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33177&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/LOVIRIBOLOV.png" group-title="|EX| ✪ CROATIA",|CRO| LOV I RIBOLOV
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33179&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/m1-film.pn" group-title="|EX| ✪ CROATIA",|CRO| M1 FILM
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33180&extension=ts
-#EXTINF:-1 tvg-logo="https://did3hrbuiooet.cloudfront.net/media/stv/branding/logo/2020/03/02/Dark_SelectTV_TMLogo2.png" group-title="|EX| ✪ CROATIA",|CRO| MAXCRO SELECT 1 ᵁᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33181&extension=ts
-#EXTINF:-1 tvg-logo="https://did3hrbuiooet.cloudfront.net/media/stv/branding/logo/2020/03/02/Dark_SelectTV_TMLogo2.png" group-title="|EX| ✪ CROATIA",|CRO| MAXCRO SELECT 3 ᵁᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33184&extension=ts
-#EXTINF:-1 tvg-logo="https://did3hrbuiooet.cloudfront.net/media/stv/branding/logo/2020/03/02/Dark_SelectTV_TMLogo2.png" group-title="|EX| ✪ CROATIA",|CRO| MAXCRO SELECT 4 ᵁᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33185&extension=ts
-#EXTINF:-1 tvg-logo="https://did3hrbuiooet.cloudfront.net/media/stv/branding/logo/2020/03/02/Dark_SelectTV_TMLogo2.png" group-title="|EX| ✪ CROATIA",|CRO| MAXCRO SELECT 5 ᵁᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33186&extension=ts
-#EXTINF:-1 tvg-logo="https://did3hrbuiooet.cloudfront.net/media/stv/branding/logo/2020/03/02/Dark_SelectTV_TMLogo2.png" group-title="|EX| ✪ CROATIA",|CRO| MAXCRO SELECT 6 ᵁᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33187&extension=ts
-#EXTINF:-1 tvg-logo="https://did3hrbuiooet.cloudfront.net/media/stv/branding/logo/2020/03/02/Dark_SelectTV_TMLogo2.png" group-title="|EX| ✪ CROATIA",|CRO| MAXCRO SELECT 10 ᵁᴴᴰ
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33182&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/MTV.png" group-title="|EX| ✪ CROATIA",|CRO| MTV ADRIA
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33201&extension=ts
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/N1HR.png" group-title="|EX| ✪ CROATIA",|CRO| N1 HR
+#EXTINF:-1 group-title="-",AMC Balkan HD
+http://5.57.74.130:8000/play/a0au/index.m3u8
+#EXTINF:-1 group-title="-",ATV
+http://5.57.74.130:8000/play/a0cz/index.m3u8
+#EXTINF:-1 group-title="-",AXN
+http://5.57.74.130:8000/play/a0at/index.m3u8
+#EXTINF:-1 group-title="-",AXN Spin
+http://5.57.74.130:8000/play/a0ar/index.m3u8
+#EXTINF:-1 group-title="-",B1
+http://5.57.74.130:8000/play/a0c2/index.m3u8
+#EXTINF:-1 group-title="-",BBC Earth
+http://5.57.74.130:8000/play/a0bl/index.m3u8
+#EXTINF:-1 group-title="-",Baby TV
+http://5.57.74.130:8000/play/a0be/index.m3u8
+#EXTINF:-1 group-title="-",Blue Hustler
+http://5.57.74.130:8000/play/a0c3/index.m3u8
+#EXTINF:-1 group-title="-",CNN
+http://5.57.74.130:8000/play/a0d9/index.m3u8
+#EXTINF:-1 group-title="-",Cartoon Network
+http://5.57.74.130:8000/play/a0b8/index.m3u8
+#EXTINF:-1 group-title="-",Cinemax
+http://5.57.74.130:8000/play/a0cl/index.m3u8
+#EXTINF:-1 group-title="-",Cinemax 2
+http://5.57.74.130:8000/play/a0cm/index.m3u8
+#EXTINF:-1 group-title="-",Crime Investigation Network
+http://5.57.74.130:8000/play/a0bo/index.m3u8
+#EXTINF:-1 group-title="-",Current Time TV
+http://5.57.74.130:8000/play/a0d4/index.m3u8
+#EXTINF:-1 group-title="-",DW English
+http://5.57.74.130:8000/play/a0dc/index.m3u8
+#EXTINF:-1 group-title="-",DaVinci Learning
+http://5.57.74.130:8000/play/a0bh/index.m3u8
+#EXTINF:-1 group-title="-",Dankos Plus
+http://5.57.74.130:8000/play/a0ae/index.m3u8
+#EXTINF:-1 group-title="-",Desire TV
+http://5.57.74.130:8000/play/a0c4/index.m3u8
+#EXTINF:-1 group-title="-",Dexy TV HD
+http://5.57.74.130:8000/play/a0cv/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Channel HD
+http://5.57.74.130:8000/play/a0ag/index.m3u8
+#EXTINF:-1 group-title="-",Disney
+http://5.57.74.130:8000/play/a0bg/index.m3u8
+#EXTINF:-1 group-title="-",Disney Junior
+http://5.57.74.130:8000/play/a0bf/index.m3u8
+#EXTINF:-1 group-title="-",Diva
+http://5.57.74.130:8000/play/a0ad/index.m3u8
+#EXTINF:-1 group-title="-",Docubox
+http://5.57.74.130:8000/play/a0bu/index.m3u8
+#EXTINF:-1 group-title="-",Dorcel XXX HD
+http://5.57.74.130:8000/play/a0c9/index.m3u8
+#EXTINF:-1 group-title="-",E!
+http://5.57.74.130:8000/play/a0do/index.m3u8
+#EXTINF:-1 group-title="-",Euronews
+http://5.57.74.130:8000/play/a0db/index.m3u8
+#EXTINF:-1 group-title="-",FREEDOM TV
+http://5.57.74.130:8000/play/a0d6/index.m3u8
+#EXTINF:-1 group-title="-",FTV
+http://5.57.74.130:8000/play/a0d0/index.m3u8
+#EXTINF:-1 group-title="-",Face TV
+http://5.57.74.130:8000/play/a0d8/index.m3u8
+#EXTINF:-1 group-title="-",Fashion TV
+http://5.57.74.130:8000/play/a0e2/index.m3u8
+#EXTINF:-1 group-title="-",FashionBOX
+http://5.57.74.130:8000/play/a0dw/index.m3u8
+#EXTINF:-1 group-title="-",Fast and fun Box
+http://5.57.74.130:8000/play/a0ak/index.m3u8
+#EXTINF:-1 group-title="-",FilmBox Extra
+http://5.57.74.130:8000/play/a0ac/index.m3u8
+#EXTINF:-1 group-title="-",Filmbox Arthouse
+http://5.57.74.130:8000/play/a09w/index.m3u8
+#EXTINF:-1 group-title="-",Filmbox Premium
+http://5.57.74.130:8000/play/a0aa/index.m3u8
+#EXTINF:-1 group-title="-",Filmbox Stars
+http://5.57.74.130:8000/play/a0ab/index.m3u8
+#EXTINF:-1 group-title="-",Fox News
+http://5.57.74.130:8000/play/a0dh/index.m3u8
+#EXTINF:-1 group-title="-",France 24
+http://5.57.74.130:8000/play/a0dd/index.m3u8
+#EXTINF:-1 group-title="-",Gametoon
+http://5.57.74.130:8000/play/a0e1/index.m3u8
+#EXTINF:-1 group-title="-",HBO 2 HD
+http://5.57.74.130:8000/play/a0cx/index.m3u8
+#EXTINF:-1 group-title="-",HBO 3 HD
+http://5.57.74.130:8000/play/a0cy/index.m3u8
+#EXTINF:-1 group-title="-",HBO HD
+http://5.57.74.130:8000/play/a0eq/index.m3u8
+#EXTINF:-1 group-title="-",HGTV HD
+http://5.57.74.130:8000/play/a0bp/index.m3u8
+#EXTINF:-1 group-title="-",HISTORY 2
+http://5.57.74.130:8000/play/a0aj/index.m3u8
+#EXTINF:-1 group-title="-",HISTORY HD
+http://5.57.74.130:8000/play/a0bq/index.m3u8
+#EXTINF:-1 group-title="-",Happy Reality 1
+http://5.57.74.130:8000/play/a0dp/index.m3u8
+#EXTINF:-1 group-title="-",Happy Reality 2
+http://5.57.74.130:8000/play/a0dq/index.m3u8
+#EXTINF:-1 group-title="-",Hayatovci
+http://5.57.74.130:8000/play/a0bc/index.m3u8
+#EXTINF:-1 group-title="-",Hustler TV
+http://5.57.74.130:8000/play/a0df/index.m3u8
+#EXTINF:-1 group-title="-",ID
+http://5.57.74.130:8000/play/a0bt/index.m3u8
+#EXTINF:-1 group-title="-",Jim Jam
+http://5.57.74.130:8000/play/a0bi/index.m3u8
+#EXTINF:-1 group-title="-",K3
+http://5.57.74.130:8000/play/a0d1/index.m3u8
+#EXTINF:-1 group-title="-",K3
+http://5.57.74.130:8000/play/a0eg/index.m3u8
+#EXTINF:-1 group-title="-",KA TV
+http://5.57.74.130:8000/play/a0e5/index.m3u8
+#EXTINF:-1 group-title="-",LH TV HD
+http://5.57.74.130:8000/play/a0br/index.m3u8
+#EXTINF:-1 group-title="-",MOSTNET HD
+http://5.57.74.130:8000/play/a0e6/index.m3u8
+#EXTINF:-1 group-title="-",Minimax
+http://5.57.74.130:8000/play/a0bd/index.m3u8
+#EXTINF:-1 group-title="-",Nat Geo Wild HD
+http://5.57.74.130:8000/play/a0ai/index.m3u8
+#EXTINF:-1 group-title="-",National Geographic HD
+http://5.57.74.130:8000/play/a0am/index.m3u8
+#EXTINF:-1 group-title="-",Nick Jr
+http://5.57.74.130:8000/play/a0b7/index.m3u8
+#EXTINF:-1 group-title="-",Nickelodeon
+http://5.57.74.130:8000/play/a0ba/index.m3u8
+#EXTINF:-1 group-title="-",Nickelodeon HD
+http://5.57.74.130:8000/play/a0bb/index.m3u8
+#EXTINF:-1 group-title="-",Nicktoons
+http://5.57.74.130:8000/play/a0b9/index.m3u8
+#EXTINF:-1 group-title="-",OBN
+http://5.57.74.130:8000/play/a0d3/index.m3u8
+#EXTINF:-1 group-title="-",Pink Action
+http://5.57.74.130:8000/play/a0a3/index.m3u8
+#EXTINF:-1 group-title="-",Pink Classic
+http://5.57.74.130:8000/play/a0a7/index.m3u8
+#EXTINF:-1 group-title="-",Pink Comedy
+http://5.57.74.130:8000/play/a09y/index.m3u8
+#EXTINF:-1 group-title="-",Pink Crime and Mistery
+http://5.57.74.130:8000/play/a0ao/index.m3u8
+#EXTINF:-1 group-title="-",Pink Extra
+http://5.57.74.130:8000/play/a0dx/index.m3u8
+#EXTINF:-1 group-title="-",Pink Family
+http://5.57.74.130:8000/play/a0a5/index.m3u8
+#EXTINF:-1 group-title="-",Pink Fashion
+http://5.57.74.130:8000/play/a0dv/index.m3u8
+#EXTINF:-1 group-title="-",Pink Film
+http://5.57.74.130:8000/play/a0a4/index.m3u8
+#EXTINF:-1 group-title="-",Pink Haha
+http://5.57.74.130:8000/play/a0dm/index.m3u8
+#EXTINF:-1 group-title="-",Pink Horror
+http://5.57.74.130:8000/play/a09z/index.m3u8
+#EXTINF:-1 group-title="-",Pink Kids
+http://5.57.74.130:8000/play/a0b3/index.m3u8
+#EXTINF:-1 group-title="-",Pink Koncert
+http://5.57.74.130:8000/play/a0az/index.m3u8
+#EXTINF:-1 group-title="-",Pink Kuvar
+http://5.57.74.130:8000/play/a0e0/index.m3u8
+#EXTINF:-1 group-title="-",Pink LoL
+http://5.57.74.130:8000/play/a0dn/index.m3u8
+#EXTINF:-1 group-title="-",Pink Movies
+http://5.57.74.130:8000/play/a0aq/index.m3u8
+#EXTINF:-1 group-title="-",Pink Music
+http://5.57.74.130:8000/play/a0b2/index.m3u8
+#EXTINF:-1 group-title="-",Pink Music 2
+http://5.57.74.130:8000/play/a0b4/index.m3u8
+#EXTINF:-1 group-title="-",Pink Pedia
+http://5.57.74.130:8000/play/a0bj/index.m3u8
+#EXTINF:-1 group-title="-",Pink Plus
+http://5.57.74.130:8000/play/a0di/index.m3u8
+#EXTINF:-1 group-title="-",Pink Reality
+http://5.57.74.130:8000/play/a0dj/index.m3u8
+#EXTINF:-1 group-title="-",Pink Romance
+http://5.57.74.130:8000/play/a0ap/index.m3u8
+#EXTINF:-1 group-title="-",Pink SciFi and Fantasy
+http://5.57.74.130:8000/play/a09x/index.m3u8
+#EXTINF:-1 group-title="-",Pink Serije
+http://5.57.74.130:8000/play/a0a8/index.m3u8
+#EXTINF:-1 group-title="-",Pink Show
+http://5.57.74.130:8000/play/a0dz/index.m3u8
+#EXTINF:-1 group-title="-",Pink Soap
+http://5.57.74.130:8000/play/a0cc/index.m3u8
+#EXTINF:-1 group-title="-",Pink Style
+http://5.57.74.130:8000/play/a0dy/index.m3u8
+#EXTINF:-1 group-title="-",Pink Super Kids
+http://5.57.74.130:8000/play/a0b6/index.m3u8
+#EXTINF:-1 group-title="-",Pink Thriller
+http://5.57.74.130:8000/play/a0an/index.m3u8
+#EXTINF:-1 group-title="-",Pink Western
+http://5.57.74.130:8000/play/a0a6/index.m3u8
+#EXTINF:-1 group-title="-",Pink World
+http://5.57.74.130:8000/play/a0dk/index.m3u8
+#EXTINF:-1 group-title="-",Pink World Cinema
+http://5.57.74.130:8000/play/a0a9/index.m3u8
+#EXTINF:-1 group-title="-",Pink Zabava
+http://5.57.74.130:8000/play/a0dl/index.m3u8
+#EXTINF:-1 group-title="-",Playboy TV HD
+http://5.57.74.130:8000/play/a0c8/index.m3u8
+#EXTINF:-1 group-title="-",Prva Files HD
+http://5.57.74.130:8000/play/a0cp/index.m3u8
+#EXTINF:-1 group-title="-",Prva Kick HD
+http://5.57.74.130:8000/play/a0ca/index.m3u8
+#EXTINF:-1 group-title="-",Prva Life HD
+http://5.57.74.130:8000/play/a0co/index.m3u8
+#EXTINF:-1 group-title="-",Prva Plus HD
+http://5.57.74.130:8000/play/a0cn/index.m3u8
+#EXTINF:-1 group-title="-",RT
+http://5.57.74.130:8000/play/a0dg/index.m3u8
+#EXTINF:-1 group-title="-",RT Balkan HD
+http://5.57.74.130:8000/play/a0c5/index.m3u8
+#EXTINF:-1 group-title="-",RT Doc
+http://5.57.74.130:8000/play/a0bs/index.m3u8
+#EXTINF:-1 group-title="-",RTG int
+http://5.57.74.130:8000/play/a0bn/index.m3u8
+#EXTINF:-1 group-title="-",RTL Kockica
+http://5.57.74.130:8000/play/a0b0/index.m3u8
+#EXTINF:-1 group-title="-",RTS Poletarac
+http://5.57.74.130:8000/play/a0cr/index.m3u8
+#EXTINF:-1 group-title="-",RTS Trezor
+http://5.57.74.130:8000/play/a0a1/index.m3u8
+#EXTINF:-1 group-title="-",RTS Zivot
+http://5.57.74.130:8000/play/a0a0/index.m3u8
+#EXTINF:-1 group-title="-",RTV 101
+http://5.57.74.130:8000/play/a0cb/index.m3u8
+#EXTINF:-1 group-title="-",RTV Kiss
+http://5.57.74.130:8000/play/a0a2/index.m3u8
+#EXTINF:-1 group-title="-",Radio Karolina TV
+http://5.57.74.130:8000/play/a0bw/index.m3u8
+#EXTINF:-1 group-title="-",Radio Lola
+http://5.57.74.130:8000/play/a0c1/index.m3u8
+#EXTINF:-1 group-title="-",Sci Fi
+http://5.57.74.130:8000/play/a0ch/index.m3u8
+#EXTINF:-1 group-title="-",Sky News
+http://5.57.74.130:8000/play/a0da/index.m3u8
+#EXTINF:-1 group-title="-",Star Crime HD
+http://5.57.74.130:8000/play/a0ax/index.m3u8
+#EXTINF:-1 group-title="-",Star HD
+http://5.57.74.130:8000/play/a0ay/index.m3u8
+#EXTINF:-1 group-title="-",Star Life HD
+http://5.57.74.130:8000/play/a0av/index.m3u8
+#EXTINF:-1 group-title="-",Star Movies HD
+http://5.57.74.130:8000/play/a0aw/index.m3u8
+#EXTINF:-1 group-title="-",TLC
+http://5.57.74.130:8000/play/a0cj/index.m3u8
+#EXTINF:-1 group-title="-",TOP TV
+http://5.57.74.130:8000/play/a0cd/index.m3u8
+#EXTINF:-1 group-title="-",TV 4S
+http://5.57.74.130:8000/play/a0e3/index.m3u8
+#EXTINF:-1 group-title="-",TV 5 Monde
+http://5.57.74.130:8000/play/a0d5/index.m3u8
+#EXTINF:-1 group-title="-",TV Diskos
+http://5.57.74.130:8000/play/a0bz/index.m3u8
+#EXTINF:-1 group-title="-",TV Front HD
+http://5.57.74.130:8000/play/a0bv/index.m3u8
+#EXTINF:-1 group-title="-",TV Kanal M
+http://5.57.74.130:8000/play/a0bx/index.m3u8
+#EXTINF:-1 group-title="-",TV Kazbuka HD
+http://5.57.74.130:8000/play/a0cs/index.m3u8
+#EXTINF:-1 group-title="-",TV Kraljevo
+http://5.57.74.130:8000/play/a0e4/index.m3u8
+#EXTINF:-1 group-title="-",TV Palma Plus
+http://5.57.74.130:8000/play/a0e9/index.m3u8
+#EXTINF:-1 group-title="-",TV Sokobanja
+http://5.57.74.130:8000/play/a0e8/index.m3u8
+#EXTINF:-1 group-title="-",TV Trstenik
+http://5.57.74.130:8000/play/a0by/index.m3u8
+#EXTINF:-1 group-title="-",TVCG 1
+http://5.57.74.130:8000/play/a0af/index.m3u8
+#EXTINF:-1 group-title="-",TVCG 2
+http://5.57.74.130:8000/play/a0c6/index.m3u8
+#EXTINF:-1 group-title="-",TVCG 3
+http://5.57.74.130:8000/play/a0c7/index.m3u8
+#EXTINF:-1 group-title="-",TVE
+http://5.57.74.130:8000/play/a0ci/index.m3u8
+#EXTINF:-1 group-title="-",TravelXP
+http://5.57.74.130:8000/play/a0bk/index.m3u8
+#EXTINF:-1 group-title="-",TravelXP
+http://5.57.74.130:8000/play/a0ea/index.m3u8
+#EXTINF:-1 group-title="-",Turizam Plus TV
+http://5.57.74.130:8000/play/a0cq/index.m3u8
+#EXTINF:-1 group-title="-",Viasat Explore HD
+http://5.57.74.130:8000/play/a0ah/index.m3u8
+#EXTINF:-1 group-title="-",Viasat History HD
+http://5.57.74.130:8000/play/a0al/index.m3u8
+#EXTINF:-1 group-title="-",Viasat Kino
+http://5.57.74.130:8000/play/a0as/index.m3u8
+#EXTINF:-1 group-title="-",Viasat Nature HD
+http://5.57.74.130:8000/play/a0ei/index.m3u8
+#EXTINF:-1 group-title="-",Viasat Nature HD
+http://5.57.74.130:8000/play/a0bm/index.m3u8
+#EXTINF:-1 group-title="-",Zelena TV Zdravlje
+http://5.57.74.130:8000/play/a0cg/index.m3u8
+ #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/N1HR.png" group-title="|EX| ✪ CROATIA",|CRO| N1 HR
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=14935&extension=ts
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/N1HR.png" group-title="|EX| ✪ CROATIA",|CRO| N1 TV ᴴᴰ
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=33205&extension=ts
