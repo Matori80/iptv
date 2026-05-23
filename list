@@ -1,3 +1,589 @@
+#EXTINF:-1,Max Sport 1 HD
+https://de1.dstv.cx/MaxSport1HR/index.m3u8
+#EXTINF:-1,Max Sport 2 HD
+https://de1.dstv.cx/MaxSport2HR/index.m3u8
+#EXTINF:-1,Sportska TV HD
+https://de1.dstv.cx/SportskaTV/index.m3u8
+EXTINF:-1,Euro Sport 1 HD srb
+https://de1.dstv.cx/Eurosport1HD/index.m3u8
+#EXTINF:-1,Euro Sport 2 HD srb
+https://de1.dstv.cx/Eurosport2HD/index.m3u8
+#EXTINF:-1,ESports
+https://de1.dstv.cx/AdriaESports/index.m3u8
+#EXTINF:-1,Fight Network HD
+https://de1.dstv.cx/FightNetwork/index.m3u8
+#EXTINF:1.Rai Sport HD
+https://de1.dstv.cx/RaiSport/index.m3u8
+#EXTINF:-1.RAI 1 HD
+https://de1.dstv.cx/Rai1/index.m3u8
+#EXTINF:-1.RAI 2 HD
+https://de1.dstv.cx/Rai2/index.m3u8
+#EXTINF:1.Rai 3 HD
+https://de1.dstv.cx/Rai3/index.m3u8
+#EXTINF:1.Rai Storia HD
+https://de1.dstv.cx/RaiStoria/index.m3u8
+#EXTINF:1.Rai Gulp HD
+https://de1.dstv.cx/RaiGulp/index.m3u8
+#EXTINF:-1.Rai Scuola HD
+https://de1.dstv.cx/RaiScuola/index.m3u8
+#EXTINF:-1.RSI La 1 HD
+https://de1.dstv.cx/RSILa1/playlist.m3u8
+#EXTINF:-1.RSI La 2 HD
+https://de1.dstv.cx/RSILa2/playlist.m3u8
+#EXTINF:-1,TVKoper
+https://de1.dstv.cx/TVKoper/index.m3u8
+#EXTINF:-1,HRT 1 HD
+https://de1.dstv.cx/HRT1/index.m3u8
+#EXTINF:-1,HRT 2 HD
+https://de1.dstv.cx/HRT2/index.m3u8
+#EXTINF:-1,HRT 3 HD
+https://de1.dstv.cx/HRT3/index.m3u8
+#EXTINF:-1,HRT 4 HD
+https://de1.dstv.cx/HRT4/index.m3u8
+#EXTINF:-1,HRT 4 HD
+https://de1.dstv.cx/HRT4/index.m3u8
+#EXTINF:-1,HRT Int HD
+https://de1.dstv.cx/HRTInt/index.m3u8
+#EXTINF:-1,N1 HD
+https://de1.dstv.cx/N1HR/index.m3u8
+#EXTINF:-1,AMC HD
+https://de1.dstv.cx/AMC/index.m3u8
+#EXTINF:-1,AXN
+https://de1.dstv.cx/AXN/index.m3u8
+#EXTINF:-1,AXN Spin
+https://de1.dstv.cx/AXNSpin/index.m3u8
+#EXTINF:-1,RTL HD
+https://de1.dstv.cx/RTLHRHD/index.m3u8
+#EXTINF:-1,RTL HD
+https://de1.dstv.cx/RTL2HRHD/index.m3u8
+#EXTINF:-1,RTL Kockica HD
+https://de1.dstv.cx/RTLKockica/index.m3u8
+#EXTINF:-1,RTL HD
+https://de1.dstv.cx/RTLDE/index.m3u8
+#EXTINF:-1,RTL Living HD
+https://de1.dstv.cx/RTLLivingHR/index.m3u8
+#EXTINF:-1,RTL Crime HD
+https://de1.dstv.cx/RTLCrimeHR/index.m3u8
+#EXTINF:-1,RTL Passion HD
+https://de1.dstv.cx/RTLPassionHR/index.m3u8
+#EXTINF:-1,PRO 7 HD
+https://de1.dstv.cx/Pro7/index.m3u8
+#EXTINF:-1,ZDF HD
+https://de1.dstv.cx/ZDF/index.m3u8
+#EXTINF:-1,SAT 1
+https://de1.dstv.cx/Sat1/index.m3u8
+#EXTINF:1,Kabel1
+https://de1.dstv.cx/Kabel1/index.m3u8
+#EXTINF:-1,Sixx HD
+https://de1.dstv.cx/Sixx/index.m3u8
+#EXTINF:-1,Servus TV HD
+https://de1.dstv.cx/ServusTV/index.m3u8
+#EXTINF:-1,Tele5
+https://de1.dstv.cx/Tele5/index.m3u8
+#EXTINF:-1,TVE HD
+https://de1.dstv.cx/TVE/index.m3u8
+#EXTINF:-1,France 2 HD
+https://de1.dstv.cx/France2/index.m3u8
+#EXTINF:-1,FOX
+https://de1.dstv.cx/Fox/index.m3u8
+#EXTINF:-1,Fox Movies HD
+https://de1.dstv.cx/FoxMovies/index.m3u8
+#EXTINF:-1,Star Life HD
+https://de1.dstv.cx/FoxLife/index.m3u8
+#EXTINF:-1,Pink Elita 1 HD
+https://de1.dstv.cx/Zadruga1/index.m3u8
+#EXTINF:-1,Pink Elita 2 HD
+https://de1.dstv.cx/Zadruga2/index.m3u8
+#EXTINF:-1,Pink Elita 3 HD
+https://de1.dstv.cx/Zadruga3/index.m3u8
+#EXTINF:-1,Pink Elita 4 HD
+https://de1.dstv.cx/Zadruga4/index.m3u8
+#EXTINF:-1,Happy Reality 1
+https://de1.dstv.cx/HappyReality1/index.m3u8
+#EXTINF:-1,Happy Reality 2
+https://de1.dstv.cx/HappyReality2/index.m3u8
+#EXTINF:-1,HBO 1 HD
+https://de1.dstv.cx/HBO/index.m3u8
+#EXTINF:-1,HBO 2 HD
+https://de1.dstv.cx/HBO2/index.m3u8
+#EXTINF:-1,HBO 3 HD
+https://de1.dstv.cx/HBO3/index.m3u8
+#EXTINF:-1,FilmBox Extra HD
+https://de1.dstv.cx/FilmBoxExtra/index.m3u8
+#EXTINF:-1,FilmBox Stars HD
+https://de1.dstv.cx/FilmBoxStars/index.m3u8
+#EXTINF:-1,Cinemania HD
+https://de1.dstv.cx/Cinemania/index.m3u8
+#EXTINF:-1,Cinemax HD
+https://de1.dstv.cx/CinemaxHD/index.m3u8
+#EXTINF:-1,Cinemax 2 HD
+https://de1.dstv.cx/Cinemax2HD/index.m3u8
+#EXTINF:-1,Euro Cinema 1 HD
+https://de1.dstv.cx/EuroCinema1/index.m3u8
+#EXTINF:-1,Euro Cinema 2 HD
+https://de1.dstv.cx/EuroCinema2/index.m3u8
+#EXTINF:-1,Euro Cinema 3 HD
+https://de1.dstv.cx/EuroCinema3/index.m3u8
+#EXTINF:-1,Euro Cinema 4 HD
+https://de1.dstv.cx/EuroCinema4/index.m3u8
+#EXTINF:-1,Cinestar Action HD
+https://de1.dstv.cx/CinestarAction/index.m3u8
+#EXTINF:-1,Cinestar Fantasy HD
+https://de1.dstv.cx/CinestarFantasy/index.m3u8
+#EXTINF:-1,CineStar Comedy
+https://de1.dstv.cx/CinestarComedy/playlist.m3u8
+#EXTINF:-1,CineStarPremiere 1 HD
+https://de1.dstv.cx/CinestarPremiere1/index.m3u8
+#EXTINF:-1,CineStarPremiere 2 HD
+https://de1.dstv.cx/CinestarPremiere2/index.m3u8
+#EXTINF:-1,Cinemania HD
+https://de1.dstv.cx/Cinemania/index.m3u8
+#EXTINF:-1,Cinemax HD
+https://de1.dstv.cx/CinemaxHD/index.m3u8
+#EXTINF:-1,Cinemax 2 HD
+https://de1.dstv.cx/Cinemax2HD/index.m3u8
+#EXTINF:-1,Comedy Central HD
+https://de1.dstv.cx/ComedyCentral/index.m3u8
+#EXTINF:-1,Art Kino 2 HD
+https://de1.dstv.cx/ArtKino2/index.m3u8
+#EXTINF:-1,Art Kino 3 HD
+https://de1.dstv.cx/ArtKino3/index.m3u8
+#EXTINF:-1,Epic Drama HD
+https://de1.dstv.cx/EpicDramaHD/index.m3u8
+#EXTINF:-1,KinoTV HD
+https://de1.dstv.cx/KinoTV/index.m3u8
+#EXTINF:-1,b92 HD
+https://de1.dstv.cx/B92HD/index.m3u8
+#EXTINF:-1,LoviRibolov HD
+https://de1.dstv.cx/LoviRibolov/index.m3u8
+#EXTINF:-1,M1Gold
+https://de1.dstv.cx/M1Gold/index.m3u8
+#EXTINF:-1,M1Film
+https://de1.dstv.cx/M1Film/index.m3u8
+#EXTINF:-1,RTS
+https://de1.dstv.cx/RTRS/index.m3u8
+#EXTINF:-1,RTS1 HD
+https://de1.dstv.cx/RTS1HD/index.m3u8
+#EXTINF:-1,RTS 2 HD
+https://de1.dstv.cx/RTS2HD/index.m3u8
+#EXTINF:-1,RTS 3 HD
+https://de1.dstv.cx/RTS3HD/index.m3u8
+#EXTINF:-1,RTK 1 HD
+https://de1.dstv.cx/RTK1/index.m3u8
+#EXTINF:-1,RTK 2 HD
+https://de1.dstv.cx/RTK2/index.m3u8
+#EXTINF:-1,RTK 3 HD
+https://de1.dstv.cx/RTK3/index.m3u8
+#EXTINF:-1,RTK 4 HD
+https://de1.dstv.cx/RTK4/index.m3u8
+#EXTINF:-1,RTK 5 HD
+https://de1.dstv.cx/RTK5/index.m3u8
+#EXTINF:-1,RTS Trezor
+https://de1.dstv.cx/RTSTrezor/index.m3u8
+#EXTINF:-1,RTS Zivot
+https://de1.dstv.cx/RTSZivot/index.m3u8
+#EXTINF:-1,RTS Muzika
+https://de1.dstv.cx/RTSMuzika/index.m3u8
+#EXTINF:-1,RTS Kolo
+https://de1.dstv.cx/RTSKolo/index.m3u8
+#EXTINF:-1,RTS Drama
+https://de1.dstv.cx/RTSDrama/index.m3u8
+#EXTINF:-1,RTS Poletarac
+https://de1.dstv.cx/RTSPoletarac/index.m3u8
+#EXTINF:-1,KTV
+https://de1.dstv.cx/KTV/index.m3u8
+#EXTINF:-1,RTV21 HD
+https://de1.dstv.cx/RTV21/index.m3u8
+#EXTINF:-1,RTV21 Plus HD
+https://de1.dstv.cx/RTV21Plus/index.m3u8
+#EXTINF:-1,RTV 21 HD
+https://de1.dstv.cx/RTV21Popullore/index.m3u8
+#EXTINF:-1,Prva Plus HD
+https://de1.dstv.cx/PrvaPlus/index.m3u8
+#EXTINF:-1,Stinet
+https://de1.dstv.cx/Stinet/index.m3u8
+#EXTINF:-1,Klasik TV HD
+https://de1.dstv.cx/KlasikTV/index.m3u8
+#EXTINF:-1,FederalnaTV
+https://de1.dstv.cx/FederalnaTV/index.m3u8
+EXTINF:-1,EuroFilm
+https://de1.dstv.cx/EuroFilm/index.m3u8
+#EXTINF:-1,Film Komedi
+https://de1.dstv.cx/FilmKomedi/index.m3u8
+#EXTINF:-1,Film Gold
+https://de1.dstv.cx/FilmNje/index.m3u8
+#EXTINF:-1,Film Thriller
+https://de1.dstv.cx/FilmThriller/index.m3u8
+#EXTINF:-1,Film Drame
+https://de1.dstv.cx/FilmDrame/index.m3u8
+#EXTINF:-1,Film Autor HD
+https://de1.dstv.cx/FilmAutor/index.m3u8
+#EXTINF:-1,Film Hits HD
+https://de1.dstv.cx/FilmHits/index.m3u8
+#EXTINF:-1,Pink Western
+https://de1.dstv.cx/PinkWestern/index.m3u8
+#EXTINF:-1,Pink Serije
+https://de1.dstv.cx/PinkSerije/index.m3u8
+#EXTINF:-1,Pink Zabava
+https://de1.dstv.cx/PinkZabava/index.m3u8
+#EXTINF:-1,Pink Hits 1
+https://de1.dstv.cx/PinkHits1/index.m3u8
+#EXTINF:-1,Pink Hits
+https://de1.dstv.cx/PinkHits2/index.m3u8
+#EXTINF:-1,Pink Folk 1
+https://de1.dstv.cx/PinkFolk1/index.m3u8
+#EXTINF:-1,Pink Folk 2
+https://de1.dstv.cx/PinkFolk2/index.m3u8
+#EXTINF:-1,Pink Plus Elita
+https://de1.dstv.cx/PinkPlus/index.m3u8
+#EXTINF:-1,Folk Plus
+https://de1.dstv.cx/FolkPlus/index.m3u8
+#EXTINF:-1,Pink Reality
+https://de1.dstv.cx/PinkReality/index.m3u8
+#EXTINF:-1,Pink Extra
+https://de1.dstv.cx/PinkExtra/index.m3u8
+#EXTINF:-1,Pink Pedia
+https://de1.dstv.cx/PinkPedia/index.m3u8
+#EXTINF:-1,Pink Music
+https://de1.dstv.cx/PinkMusic/index.m3u8
+#EXTINF:-1,Pink Music 2
+https://de1.dstv.cx/PinkMusic2/index.m3u8
+#EXTINF:-1,Pink Koncert
+https://de1.dstv.cx/PinkKoncert/index.m3u8
+#EXTINF:-1,Pink Pedia
+https://de1.dstv.cx/PinkPedia/index.m3u8
+#EXTINF:-1,Pink Film
+https://de1.dstv.cx/PinkFilm/index.m3u8
+#EXTINF:-1,Pink Action
+https://de1.dstv.cx/PinkAction/index.m3u8
+#EXTINF:-1,Pink Comedy
+https://de1.dstv.cx/PinkComedy/index.m3u8
+#EXTINF:-1,Pink Horor
+https://de1.dstv.cx/PinkHoror/index.m3u8
+#EXTINF:-1,Pink Movies
+https://de1.dstv.cx/PinkMovies/index.m3u8
+#EXTINF:-1,Pink Premium HD
+https://de1.dstv.cx/PinkPremium/index.m3u8
+#EXTINF:-1,Pink Thriller
+https://de1.dstv.cx/PinkThriller/index.m3u8
+#EXTINF:-1,Pink Classic
+https://de1.dstv.cx/PinkClassic/index.m3u8
+#EXTINF:-1,Pink Soap
+https://de1.dstv.cx/PinkSoap/index.m3u8
+#EXTINF:-1,Pink Fashion
+https://de1.dstv.cx/PinkFashion/index.m3u8
+#EXTINF:-1,Red HD
+https://de1.dstv.cx/Pink2/index.m3u8
+#EXTINF:-1,Vesdi HD
+https://de1.dstv.cx/Pink3/index.m3u8
+#EXTINF:-1,Pink Family
+https://de1.dstv.cx/PinkFamily/index.m3u8
+#EXTINF:-1,Pink Romance
+https://de1.dstv.cx/PinkRomance/index.m3u8
+#EXTINF:-1,Pink World Cinema
+https://de1.dstv.cx/PinkWorldCinema/index.m3u8
+#EXTINF:-1,Pink World
+https://de1.dstv.cx/PinkWorld/index.m3u8
+#EXTINF:-1,Hayat HD
+https://de1.dstv.cx/HayatHD/index.m3u8
+#EXTINF:-1,Hayat FOLK HD
+https://de1.dstv.cx/HayatFolk/index.m3u8
+#EXTINF:-1,Hayat ovci
+https://de1.dstv.cx/Hayatovci/index.m3u8
+#EXTINF:-1,BHT1
+https://de1.dstv.cx/BHT1/index.m3u8
+#EXTINF:-1,NovaBH
+https://de1.dstv.cx/NovaBH/index.m3u8
+#EXTINF:-1,FaceTV
+https://de1.dstv.cx/FaceTV/index.m3u8
+#EXTINF:-1,Bubble TV
+https://de1.dstv.cx/RTV21Junior/index.m3u8
+#EXTINF:-1,AlsatM HD
+https://de1.dstv.cx/AlsatM/index.m3u8
+#EXTINF:-1,3Plus HD
+https://de1.dstv.cx/3Plus/index.m3u8
+#EXTINF:-1,Tip TV
+https://de1.dstv.cx/TipTV/index.m3u8
+#EXTINF:-1,Klan Plus
+https://de1.dstv.cx/KlanPlus/index.m3u8
+#EXTINF:-1,Klan Kosova HD
+https://de1.dstv.cx/KlanKosova/index.m3u8
+#EXTINF:-1,RTV Ora HD
+https://de1.dstv.cx/OraNews/index.m3u8
+#EXTINF:-1,TVAS HD
+https://de1.dstv.cx/TVAS/index.m3u8
+#EXTINF:-1,T7 HD
+https://de1.dstv.cx/T7/index.m3u8
+#EXTINF:-1,7TV HD
+https://de1.dstv.cx/7TV/index.m3u8
+#EXTINF:-1,K23
+https://de1.dstv.cx/K23/index.m3u8
+#EXTINF:-1,Duga Plus
+https://de1.dstv.cx/DugaPlus/index.m3u8
+#EXTINF:-1,Syri Vision HD
+https://de1.dstv.cx/SyriVision/index.m3u8
+#EXTINF:-1,Kanali 7
+https://de1.dstv.cx/Kanali7/index.m3u8
+#EXTINF:-1,BN HD
+https://de1.dstv.cx/BN/index.m3u8
+#EXTINF:-1,BN2 HD
+https://de1.dstv.cx/BN2/index.m3u8
+#EXTINF:-1,Bn Music HD
+https://de1.dstv.cx/BNMusic/index.m3u8
+#EXTINF:1,RTCG Sat
+https://de1.dstv.cx/RTCGSat/index.m3u8
+#EXTINF:1,RTCG 1
+https://de1.dstv.cx/RTCG1/index.m3u8
+#EXTINF:1,RTCG 2
+https://de1.dstv.cx/RTCG2/index.m3u8
+#EXTINF:1,RTCG 3
+https://de1.dstv.cx/RTCG3/index.m3u8
+#EXTINF:-1,MRT 1 HD
+https://de1.dstv.cx/MRT1/index.m3u8
+#EXTINF:-1,MRT 2 HD
+https://de1.dstv.cx/MRT2/index.m3u8
+#EXTINF:-1,MRT 3 HD
+https://de1.dstv.cx/MRT3/index.m3u8
+#EXTINF:-1,MRT 4 HD
+https://de1.dstv.cx/MRT4/index.m3u8
+#EXTINF:-1,MRT 5 HD
+https://de1.dstv.cx/MRT5/index.m3u8
+#EXTINF:-1,KCN 1
+https://de1.dstv.cx/KCN1/index.m3u8
+#EXTINF:-1,KCN 2
+https://de1.dstv.cx/KCN2/index.m3u8
+#EXTINF:-1,KCN 3
+https://de1.dstv.cx/KCN3/index.m3u8
+#EXTINF:-1,Adria Hits 1
+https://de1.dstv.cx/AdriaHits1/index.m3u8
+#EXTINF:-1,Adria Hits 2
+https://de1.dstv.cx/AdriaHits2/index.m3u8
+#EXTINF:-1,Amari TV HD
+https://de1.dstv.cx/AmariTV/index.m3u8
+#EXTINF:-1,Pikaboo
+https://de1.dstv.cx/Pikaboo/index.m3u8
+#EXTINF:-1,IDJ Kids
+https://de1.dstv.cx/IDJKids/index.m3u8
+#EXTINF:-1,KarolinaTV
+https://de1.dstv.cx/KarolinaTV/index.m3u8
+#EXTINF:-1,Adria Urban
+https://de1.dstv.cx/AdriaUrban/index.m3u8
+#EXTINF:-1,Adria Hits 4K
+https://de1.dstv.cx/AdriaHits4K/index.m3u8
+#EXTINF:-1,Adria Trubaci
+https://de1.dstv.cx/AdriaTrubaci/index.m3u8
+#EXTINF:-1,Adria 90
+https://de1.dstv.cx/Adria90s/index.m3u8
+#EXTINF:-1,Yu Planet
+https://de1.dstv.cx/YuPlanet/index.m3u8
+#EXTINF:-1,televizija 5
+https://de1.dstv.cx/Televizija5/index.m3u8
+#EXTINF:-1,Tera TV HD
+https://de1.dstv.cx/TVTera/index.m3u8
+#EXTINF:-1,Sonce TV
+https://de1.dstv.cx/TVSonce/index.m3u8
+#EXTINF:-1,Adria Nature
+https://de1.dstv.cx/AdriaNature/index.m3u8
+#EXTINF:-1,Adria Fishing
+https://de1.dstv.cx/AdriaFishing/index.m3u8
+#EXTINF:-1,Adria Hunting
+https://de1.dstv.cx/AdriaHunting/index.m3u8
+#EXTINF:-1,Adria Travel
+https://de1.dstv.cx/AdriaTravel/index.m3u8
+#EXTINF:-1,Adria Kitchen
+https://de1.dstv.cx/AdriaKitchen/index.m3u8
+#EXTINF:-1,Adria CROHits
+https://de1.dstv.cx/AdriaCROHits/index.m3u8
+#EXTINF:-1,Adria Narodna
+https://de1.dstv.cx/AdriaNarodna/index.m3u8
+#EXTINF:-1,Adria Nostalgy
+https://de1.dstv.cx/AdriaNostalgy/index.m3u8
+#EXTINF:-1,Adria Nature
+https://de1.dstv.cx/AdriaNature/index.m3u8
+#EXTINF:-1,Adria BigBand
+https://de1.dstv.cx/AdriaBigBand/index.m3u8
+#EXTINF:-1,Adria Folk
+https://de1.dstv.cx/AdriaFolk/index.m3u8
+#EXTINF:-1,Adria Yachting4K
+https://de1.dstv.cx/AdriaYachting4K/index.m3u8
+#EXTINF:-1,Adria Fishing
+https://de1.dstv.cx/AdriaFishing/index.m3u8
+#EXTINF:-1,Adria Hunting
+https://de1.dstv.cx/AdriaHunting/index.m3u8
+#EXTINF:-1,Adria Travel
+https://de1.dstv.cx/AdriaTravel/index.m3u8
+#EXTINF:-1,Adria Kitchen
+https://de1.dstv.cx/AdriaKitchen/index.m3u8
+#EXTINF:-1,Adria Kids
+https://de1.dstv.cx/AdriaKids/index.m3u8
+#EXTINF:-1,Adria Humor
+https://de1.dstv.cx/AdriaHumor/index.m3u8
+#EXTINF:-1,Adria Barbie
+https://de1.dstv.cx/AdriaBarbie/index.m3u8
+#EXTINF:-1,Adria Info
+https://de1.dstv.cx/AdriaInfo/mono.m3u8
+#EXTINF:-1,Nova M
+https://de1.dstv.cx/NovaM/index.m3u8
+#EXTINF:-1,Viasat Kino
+https://de1.dstv.cx/NovaMax/index.m3u8
+#EXTINF:-1,Nova Series
+https://de1.dstv.cx/NovaSeries/index.m3u8
+#EXTINF:-1,Kcn Zapad
+https://de1.dstv.cx/KCNZapad/index.m3u8
+#EXTINF:-1,4Fun TV
+https://de1.dstv.cx/4FunTV/index.m3u8
+#EXTINF:-1,Hits Melody
+https://de1.dstv.cx/HitsMelody/index.m3u8
+#EXTINF:-1,Folk Melody
+https://de1.dstv.cx/FolkMelody/index.m3u8
+#EXTINF:-1,Pop Melody
+https://de1.dstv.cx/PopMelody/index.m3u8
+#EXTINF:-1,EG Melody
+https://de1.dstv.cx/EGMelody/index.m3u8
+#EXTINF:-1,EXYu Melody
+https://de1.dstv.cx/EXYUMelody/index.m3u8
+#EXTINF:-1,Pi Kanal
+https://de1.dstv.cx/PiKanal/index.m3u8
+#EXTINF:-1,TV LAV
+https://de1.dstv.cx/TVLav/index.m3u8
+#EXTINF:-1,TV Pancevo
+https://de1.dstv.cx/TVPancevo/index.m3u8
+#EXTINF:-1,TV Slovenija 1 HD
+https://de1.dstv.cx/SLO1/index.m3u8
+#EXTINF:-1,TV Slovenija 2 HD
+https://de1.dstv.cx/SLO2/index.m3u8
+#EXTINF:-1,TV Slovenija 3 HD
+https://de1.dstv.cx/SLO3/index.m3u8
+#EXTINF:-1,Discovery Channel
+https://de1.dstv.cx/DiscoveryChannel/index.m3u8
+#EXTINF:-1,Discovery ID
+https://de1.dstv.cx/DiscoveryID/index.m3u8
+#EXTINF:-1,Discovery Science
+https://de1.dstv.cx/DiscoveryScience/index.m3u8
+#EXTINF:-1,AnimalPlanet HD
+https://de1.dstv.cx/AnimalPlanet/index.m3u8
+#EXTINF:-1,ViasatHistory HD
+https://de1.dstv.cx/ViasatHistory/index.m3u8
+#EXTINF:-1,ViasatExplore HD
+https://de1.dstv.cx/ViasatExplore/index.m3u8
+#EXTINF:-1,ViasatNature HD
+https://de1.dstv.cx/ViasatNature/index.m3u8
+#EXTINF:-1,History Channel
+https://de1.dstv.cx/HistoryChannel/index.m3u8
+#EXTINF:-1,History Channel 2
+https://de1.dstv.cx/HistoryChannel2/index.m3u8
+#EXTINF:-1,National Geographic HD
+https://de1.dstv.cx/NGC/index.m3u8
+#EXTINF:-1,Doku TV HD
+https://de1.dstv.cx/DokuTV/index.m3u8
+#EXTINF:-1,Cinemania HD
+https://de1.dstv.cx/Cinemania/index.m3u8
+#EXTINF:-1,Living HD
+https://de1.dstv.cx/LivingHD/index.m3u8
+#EXTINF:-1,Dmax HD
+https://de1.dstv.cx/Dmax/index.m3u8
+#EXTINF:-1,TLC HD
+https://de1.dstv.cx/TLCHD/index.m3u8
+#EXTINF:-1,HGTV HD
+https://de1.dstv.cx/CBSReality/index.m3u8
+#EXTINF:-1,Travel Channel HD
+https://de1.dstv.cx/TravelChannel/index.m3u8
+#EXTINF:-1,E!
+https://de1.dstv.cx/E!/index.m3u8
+#EXTINF:-1,Euronews
+https://de1.dstv.cx/Euronews/index.m3u8
+#EXTINF:-1,Deutsche Welle
+https://de1.dstv.cx/DW/index.m3u8
+#EXTINF:-1,Rossia24
+https://de1.dstv.cx/Rossia24/index.m3u8
+#EXTINF:-1,PlanetaRTR HD
+https://de1.dstv.cx/PlanetaRTR/index.m3u8
+#EXTINF:-1,TV5Monde
+https://de1.dstv.cx/TV5Monde/index.m3u8
+#EXTINF:-1,CNN HD
+https://de1.dstv.cx/CNN/index.m3u8
+#EXTINF:-1,TVM HD
+https://de1.dstv.cx/TVM/index.m3u8
+#EXTINF:-1,N1
+https://de1.dstv.cx/test/index.m3u8
+#EXTINF:-1,Nova Cinema HD
+https://de1.dstv.cx/NovaCinema/index.m3u8
+#EXTINF:-1,KinoTV
+https://de1.dstv.cx/KinoTV/index.m3u8
+#EXTINF:-1,Agro TV
+https://de1.dstv.cx/AgroTV/index.m3u8
+#EXTINF:-1,OBN HD
+https://de1.dstv.cx/OBN/index.m3u8
+#EXTINF:-1,TOGGO HD
+https://de1.dstv.cx/SuperRTL/index.m3u8
+#EXTINF:-1,Minimax
+https://de1.dstv.cx/Minimax/index.m3u8
+#EXTINF:-1,Cufo
+https://de1.dstv.cx/Cufo/index.m3u8
+#EXTINF:-1,Cartoonito
+https://de1.dstv.cx/Cartoonito/index.m3u8
+#EXTINF:-1,Jugoton
+https://de1.dstv.cx/Jugoton/index.m3u8
+#EXTINF:-1,BabyTV HD
+https://de1.dstv.cx/BabyTV/index.m3u8
+#EXTINF:-1,Nickelodeon HD
+https://de1.dstv.cx/Nickelodeon/index.m3u8
+#EXTINF:-1,DasmaTV
+https://de1.dstv.cx/DasmaTV/index.m3u8
+#EXTINF:-1,PeaceTV HD
+https://de1.dstv.cx/PeaceTV/index.m3u8
+#EXTINF:-1,Fashion TV
+https://de1.dstv.cx/FashionTV/index.m3u8
+#EXTINF:-1,CMC TV HD
+https://de1.dstv.cx/CMC/index.m3u8
+#EXTINF:-1,Klan Music HD
+https://de1.dstv.cx/KlanMusic/index.m3u8
+#EXTINF:-1,BravoMusic
+https://de1.dstv.cx/BravoMusic/index.m3u8
+#EXTINF:-1,SevdahTV
+https://de1.dstv.cx/SevdahTV/index.m3u8
+#EXTINF:-1,MTV HD
+https://de1.dstv.cx/MTV/index.m3u8
+#EXTINF:-1,MTV80 HD
+https://de1.dstv.cx/MTV80/index.m3u8
+#EXTINF:-1,MTVHits HD
+https://de1.dstv.cx/MTVHits/index.m3u8
+#EXTINF:-1,HitTV HD
+https://de1.dstv.cx/HitTV/index.m3u8
+#EXTINF:-1,DMSat
+https://de1.dstv.cx/DMSat/index.m3u8
+#EXTINF:-1,VH1
+https://de1.dstv.cx/VH1/index.m3u8
+#EXTINF:-1,OTVValentino HD
+https://de1.dstv.cx/OTVValentino/index.m3u8
+#EXTINF:-1,Private HD
+https://de1.dstv.cx/Private/index.m3u8
+#EXTINF:-1,Hustler HD
+https://de1.dstv.cx/Hustler/index.m3u8
+#EXTINF:-1,Dorcel HD
+https://de1.dstv.cx/DorcelHD/index.m3u8
+#EXTINF:-1,FrenchLover HD
+https://de1.dstv.cx/FrenchLover/index.m3u8
+#EXTINF:-1,Babes TV
+https://de1.dstv.cx/BabesTV/index.m3u8
+#EXTINF:-1,Reality Kings
+https://de1.dstv.cx/RealityKings/index.m3u8
+#EXTINF:-1,BangU
+https://de1.dstv.cx/BangU/index.m3u8
+#EXTINF:-1,Playboy TV HD
+https://de1.dstv.cx/PlayboyHD/index.m3u8
+#EXTINF:-1,Pink Erotic 1
+https://de1.dstv.cx/PinkErotic1/index.m3u8
+#EXTINF:-1,Pink Erotic 2
+https://de1.dstv.cx/PinkErotic2/index.m3u8
+#EXTINF:-1,Pink Erotic 3
+https://de1.dstv.cx/PinkErotic3/index.m3u8
+#EXTINF:-1,Pink Erotic 4
+https://de1.dstv.cx/PinkErotic4/index.m3u8
+#EXTINF:-1,Pink Erotic 5
+https://de1.dstv.cx/PinkErotic5/index.m3u8
+#EXTINF:-1,Pink Erotic 6
+https://de1.dstv.cx/PinkErotic6/index.m3u8
 #EXTINF:-1 group-title="-",AMC Balkan HD
 http://5.57.74.130:8000/play/a0au/index.m3u8
 #EXTINF:-1 group-title="-",ATV
